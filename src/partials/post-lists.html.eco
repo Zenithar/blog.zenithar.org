@@ -22,6 +22,6 @@
             </p>
         </div>
     </div>
-    <a class="pure-button pure-button-xsmall pure-button-secondary" href="<%= @post.url %>">Plus ...</a>
+    <a class="pure-button pure-button-xsmall" style="color: white; background: <%= @post.date.toColor() %>;" href="<%= @post.url %>">Plus ...</a>
 
 </section>

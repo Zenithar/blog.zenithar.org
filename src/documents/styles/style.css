@@ -78,6 +78,18 @@ h2 {
     padding-bottom: 2em;
 }
 
+.post-author {
+    margin-top: 40px;
+    padding: 15px;
+    border-radius: 15px;
+    background: #ecf0f1;
+}
+
+.post-author h3 {
+    padding: 10px;
+    margin: 0;
+}
+
 .post-container {
     padding-left: 15px;
     margin-bottom: 5px;
@@ -253,7 +265,7 @@ hgroup a, hgroup a:hover {
 }
 
 .post-disqus {
-    margin-top: 70px;
+    margin-top: 20px;
 }
 
 pre.highlighted {

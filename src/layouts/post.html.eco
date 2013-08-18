@@ -3,14 +3,13 @@ layout: default
 ---
 
 
-<article class="post pure-u-1">
+<article class="post pure-u-1" typeof="sioc:post" lang="fr-fr">
     <header class="post-header">
 
-        <h1 class="post-title pure-u-1"><%= @document.title %></h1>
+        <h1 class="post-title pure-u-1" property="dcterms:title"><%= @document.title %></h1>
 
-        <p class="post-meta pure-u-1">
+        <p class="post-meta pure-u-1" property="dc:created">
             <%= @document.date.getDate() %> <%= @document.date.getMonthName() %> <%= @document.date.getFullYear() %>
-
         </p>
         <p class="post-meta pure-u-1">
             Posted in
@@ -21,15 +20,25 @@ layout: default
     </header>
 
     <div class="pure-u-1">
-        <div class="post-description pure-u-1">
+        <div class="post-description pure-u-1" property="sioc:content">
             <%- @content %>
         </div>
+
         <div class="post-social pure-u-1">
             <%- @getSocialButtons(['GooglePlusOne','FacebookLike','TwitterTweet','GithubFollow','RedditSubmit']) %>
         </div>
         <div class="post-navlinks pure-u-1">
             <%- @getNavLinks() %>
         </div>
+
+        <div class="post-author pure-u-1">
+            <h3 class="pure-u-1">A propos de l'auteur</h3>
+            <div class-"pure-u-1">
+                <img class="pure-1-6 post-avatar" src="http://www.gravatar.com/avatar/1a2807faf3cca1667ff6f04bf5886eff.png" />
+                <p class="pure-u-5-6"><a href="https://plus.google.com/u/0/114253407053208546857/?rel=author">Thibault Normand</a> est un dévéloppeur et un bloggeur enthousiaste, curieux de toutes nouvelles technologies liées à la sécurité, l'architecture, et le web. <a href="http://zenithar.org/" rel="me">Plus d'infos...</a></p> 
+            </div>
+        </div>
+        
         <div class="post-disqus pure-u-1">
             <div id="disqus_thread"></div>
             <script type="text/javascript">
