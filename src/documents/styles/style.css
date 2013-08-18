@@ -196,27 +196,27 @@ h2 {
 
 .si-drupal {
     background-color: #0075BB;
-    background-image: url(/icons/drupal-48.png);
+    background-image: url(/images/drupal-48.png);
 }
 
 .si-linkedin {
     background-color: #007FB1;
-    background-image: url(/icons/linkedin-48.png);
+    background-image: url(/images/linkedin-48.png);
 }
 
 .si-github {
     background-color: #4183C4;
-    background-image: url(/icons/github-48.png);
+    background-image: url(/images/github-48.png);
 }
 
 .si-twitter {
     background-color: #00ACED;
-    background-image: url(/icons/twitter-48.png);
+    background-image: url(/images/twitter-48.png);
 }
 
 .si-rss {
     background-color: #FF8300;
-    background-image: url(/icons/rss-48.png);
+    background-image: url(/images/rss-48.png);
 }
 
 hgroup a, hgroup a:hover {
