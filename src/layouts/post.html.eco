@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+
+<article class="post pure-u-1">
+    <header class="post-header">
+
+        <h1 class="post-title pure-u-1"><%= @document.title %></h1>
+
+        <p class="post-meta pure-u-1">
+            <%= @document.date.getDate() %> <%= @document.date.getMonthName() %> <%= @document.date.getFullYear() %>
+
+        </p>
+        <p class="post-meta pure-u-1">
+            Posted in
+            <% for tag in @document.tags: %>
+            <a class="post-category" href="<%= @getTagUrl(tag) %>"><%= tag %></a>
+            <% end %>
+        </p>
+    </header>
+
+    <div class="pure-u-1">
+        <div class="post-description pure-u-1">
+            <%- @content %>
+        </div>
+        <div class="post-social pure-u-1">
+            <%- @getSocialButtons(['GooglePlusOne','FacebookLike','TwitterTweet','GithubFollow','RedditSubmit']) %>
+        </div>
+        <div class="post-navlinks pure-u-1">
+            <%- @getNavLinks() %>
+        </div>
+        <div class="post-disqus pure-u-1">
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'zenithar'; // required: replace example with your forum shortname
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+    </div>
+</article>
+
+
+
+

@@ -1,0 +1,13 @@
+---
+layout: 'default'
+title: 'Home'
+---
+
+<div class="posts pure-g">
+    <h1 class="content-subhead pure-u-1">Articles r&eacute;cents</h1>
+    <% for post in @getCollection('posts').toJSON()[0...9]: %>
+        <%- @partial('post-lists.html.eco', {config: @, post: post})%>
+    <% end %>
+</div>
+
+<a class="pure-button pure-button-success pure-button-xsmall" href="/post/archives.html">Archives ...</a>

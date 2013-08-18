@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://blog.zenithar.org</loc>
+    <lastmod><%= @site.date.toISOString() %></lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <% for document in @getCollection('posts').toJSON(): %>
+  <url>
+    <loc>http://blog.zenithar.org<%= document.url %></loc>
+    <% if document.sitemap and document.sitemap.lastmod: %>
+    <lastmod><%= new Date(document.sitemap.lastmod).toISOString() %></lastmod>
+    <% else: %>
+    <lastmod><%= new Date(document.date).toISOString() %></lastmod>
+    <% end %>
+    <% if document.sitemap and document.sitemap.changefreq: %>
+    <changefreq><%= document.sitemap.changefreq %></changefreq>
+    <% else: %>
+    <changefreq>daily</changefreq>
+    <% end %>
+    <% if document.sitemap and document.sitemap.priority: %>
+    <priority><%= document.sitemap.priority %></priority>
+    <% else: %>
+    <priority>0.8</priority>
+    <% end %>
+  </url>
+  <% end %>
+</urlset>
