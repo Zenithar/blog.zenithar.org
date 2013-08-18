@@ -3,7 +3,7 @@ date: '2011-04-19 20:48:19'
 layout: post
 slug: access-control-allow-origin-servlet-filter-jsonp
 status: publish
-title: Access control Allow Origin Servlet Filter &amp;&amp; JSONP
+title: Access control Allow Origin Servlet Filter & JSONP
 wordpress_id: '759'
 categories:
 - Développement

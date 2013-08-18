@@ -10,4 +10,4 @@ title: 'Home'
     <% end %>
 </div>
 
-<a class="pure-button pure-button-success pure-button-xsmall" href="/post/archives.html">Archives ...</a>
+<a class="pure-button pure-button-success pure-button-xsmall" href="/articles/archives.html">Archives ...</a>

@@ -9,7 +9,6 @@
             <p class="post-meta pure-u-1">
                 <%= @post.date.getDate() %> <%= @post.date.getMonthName() %> <%= @post.date.getFullYear() %>
              |
-                Tags :
                 <% for tag in @post.tags: %>
                 <a class="post-category" href="<%= @config.getTagUrl(tag) %>"><%= tag %></a>
                 <% end %>
@@ -19,6 +18,6 @@
 
     </div>
 
-    <a class="pure-button pure-button-xsmall pure-button-secondary" href="<%= @post.url %>">Plus ...</a>
+    <a class="pure-button pure-button-xsmall" style="color: white; background: <%= @post.date.toColor() %>;" href="<%= @post.url %>">Plus ...</a>
 
 </section>

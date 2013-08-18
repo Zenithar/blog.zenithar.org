@@ -194,6 +194,11 @@ h2 {
     border-radius: 2px 2px 2px 2px;
 }
 
+.si-me {
+    background-color: #27ae60;
+    background-image: url(/images/aboutme-48.png);
+}
+
 .si-drupal {
     background-color: #0075BB;
     background-image: url(/images/drupal-48.png);
