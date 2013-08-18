@@ -4,7 +4,7 @@ docpadConfig = {
 
   environments:
     w:
-      ignoreCustomPatterns: /2005|2006|2007|2008|2009/
+      ignoreCustomPatterns: /2005|2006|2007|2008|2009|2010|2011|2012/
 
   # Plugins configurations
   plugins:
