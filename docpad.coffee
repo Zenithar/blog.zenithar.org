@@ -33,7 +33,7 @@ docpadConfig = {
       services:
 
         twitterTweetButton: 'zenithar'
-        googleAnalytics: 'UA-8114245-1'
+        googleAnalytics: 'UA-8114245-4'
 
       # The production url of our website
       url: "http://blog.zenithar.org"
