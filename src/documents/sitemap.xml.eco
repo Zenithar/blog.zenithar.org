@@ -26,4 +26,11 @@
     <% end %>
   </url>
   <% end %>
+  <% for file in @getFilesAtPath('tags/').toJSON(): %>
+  <url>
+    <loc>http://blog.zenithar.org/tags/<%= file.name %></loc> 
+    <changefreq>weekly</changefreq>    
+    <priority>0.6</priority>
+  </url>
+  <% end %>
 </urlset>
