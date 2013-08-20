@@ -28,7 +28,7 @@
     "npm": "1.2"
   },
   "dependencies": {
-    "docpad": "~6.49.1",
+    "docpad": "~6.50.0",
     "docpad-plugin-downloader": "~2.1.2",
     "docpad-plugin-coffeescript": "~2.2.2",
     "docpad-plugin-eco": "~2.0.2",
@@ -40,9 +40,9 @@
     "docpad-plugin-text": "~2.3.0",
     "docpad-plugin-highlightjs": "~2.1.7",
     "docpad-plugin-navlinks": "~2.0.2",
-    "docpad-plugin-tagging": "~2.0.1",
     "docpad-plugin-services": "~2.2.6",
-    "docpad-plugin-ghpages": "~2.3.0"
+    "docpad-plugin-ghpages": "~2.3.0",
+    "docpad-plugin-tags": "~2.0.3"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "~2.5.2"

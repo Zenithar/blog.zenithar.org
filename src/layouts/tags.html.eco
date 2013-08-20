@@ -4,7 +4,7 @@ layout: default
 
 <div class="posts pure-g">
     <h1 class="content-subhead pure-u-1">Tags tagged with: <%= @document.tag %></h1>
-    <% for post in @getCollection('documents').findAll({tags: '$in': @document.tag}, [date:-1]).toJSON(): %>
+    <% for post in @getFiles({tags: $has: @document.tag}, [title:1]).toJSON(): %>
         <%- @partial('post-lists.html.eco', {config: @, post: post})%>
     <% end %>
 </div>

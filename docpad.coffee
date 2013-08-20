@@ -15,10 +15,12 @@ docpadConfig = {
     navlinks:
       collections:
         posts: -1
-    sitemap:
-      cachetime: 600000
-      changefreq: 'weekly'
-      priority: 0.5
+    tags:
+      extension: '.html'
+      injectDocumentHelper: (document) ->
+        document.setMeta(
+          layout: 'tag'
+        )  
 
   # =================================
   # Template Data
@@ -70,6 +72,9 @@ docpadConfig = {
 
   # -----------------------------
     # Helper Functions
+    getTagUrl: (tag) ->
+      t = tag.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '')
+      "/tags/#{t}.html"
 
     extractSummary: (contentRendered) ->
       splited = contentRendered.split(/<h[123456]>/)

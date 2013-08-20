@@ -16,7 +16,7 @@ Encore une fois, je change de thème, bon cette fois je reste avec [docpad](http
 
 Je suis parti d'un nouveau framework CSS YUI [PureCSS](http://purecss.io/), j'utilisais [Bootstrap Twitter](http://getbootstrap.com/2.3.2/), cependant je cherchais un thème type [Flat](http://designmodo.github.io/Flat-UI/). 
 
-J'ai essayé d'adapter Bootstrap 3, mais je trouve que les changements sont trop importantq, et la philosophie ```mobile first```, j'ai du mal. J'ai donc pris la décision de changer le framework css, beaucoup plus léger.
+J'ai essayé d'adapter Bootstrap 3, mais je trouve que les changements sont trop importantq, et la philosophie ```mobile first``, j'ai du mal. J'ai donc pris la décision de changer le framework css, beaucoup plus léger.
 
 Du coup, refonte complète.
 
