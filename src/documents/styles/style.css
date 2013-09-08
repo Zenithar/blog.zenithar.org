@@ -371,3 +371,11 @@ pre.highlighted > code {
   -moz-border-radius-topright: 10px;
   -webkit-border-top-right-radius: 10px;
 }
+
+.post h1 {
+    border-bottom: 1px dotted gray;
+}
+
+.post h2 {
+    border-bottom: 1px dotted silver;
+}
