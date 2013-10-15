@@ -29,7 +29,6 @@
   },
   "dependencies": {
     "docpad": "~6.53.0",
-    "docpad-plugin-downloader": "~2.1.2",
     "docpad-plugin-coffeescript": "~2.2.2",
     "docpad-plugin-eco": "~2.0.2",
     "docpad-plugin-less": "~2.2.0",
@@ -40,9 +39,8 @@
     "docpad-plugin-text": "~2.3.0",
     "docpad-plugin-highlightjs": "~2.1.7",
     "docpad-plugin-navlinks": "~2.0.2",
-    "docpad-plugin-services": "~2.3.0",
-    "docpad-plugin-ghpages": "~2.4.0",
-    "docpad-plugin-tags": "~2.0.3"
+    "docpad-plugin-services": "~2.4.4",
+    "docpad-plugin-tags": "~2.0.4"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "~2.5.3"
