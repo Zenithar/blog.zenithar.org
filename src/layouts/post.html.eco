@@ -14,7 +14,7 @@ layout: default
             <span itemprop="datePublished" property="dc:date dc:created" content="<%= @document.date.toISOString() %>" datatype="xsd:dateTime" rel="sioc:has_creator"><%= @document.date.getDate() %> <%= @document.date.getMonthName() %> <%= @document.date.getFullYear() %></span>
         </p>
         <p class="post-meta pure-u-1">
-            Posted in
+            Tags :
             <% for tag in @document.tags: %>
             <a itemprop="articleSection" class="post-category" typeof="skos:Concept" property="rdfs:label skos:prefLabel" href="<%= @getTagUrl(tag) %>"><%= tag %></a>
             <% end %>

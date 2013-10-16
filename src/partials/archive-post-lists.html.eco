@@ -7,7 +7,7 @@
                 <a class="post-link" href="<%= @post.url %>"><%= @post.title %></a>
             </h2>
             <p class="post-meta pure-u-1">
-                <span property="dc:date dc:created" content="<%= @document.date.toISOString() %>" datatype="xsd:dateTime" rel="sioc:has_creator"><%= @document.date.getDate() %> <%= @document.date.getMonthName() %> <%= @document.date.getFullYear() %></span>
+                <span property="dc:date dc:created" content="<%= @post.date.toISOString() %>" datatype="xsd:dateTime" rel="sioc:has_creator"><%= @post.date.getDate() %> <%= @post.date.getMonthName() %> <%= @post.date.getFullYear() %></span>
              |
                 <% for tag in @post.tags: %>
                 <a class="post-category" typeof="skos:Concept" property="rdfs:label skos:prefLabel" href="<%= @config.getTagUrl(tag) %>"><%= tag %></a>
