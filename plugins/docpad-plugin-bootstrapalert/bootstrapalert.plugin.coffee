@@ -5,8 +5,14 @@ module.exports = (BasePlugin) ->
     
         renderAlert = (opts, next) ->
             {content} = opts
+            opts.content = content.replace /\[error\](.*)\[\/error\]/g, (whole, m1) ->
+                return '<div class="alert alert-error">' + m1 + '</div>'
+            opts.content = content.replace /\[danger\](.*)\[\/danger\]/g, (whole, m1) ->
+                return '<div class="alert alert-danger">' + m1 + '</div>'
             opts.content = content.replace /\[info\](.*)\[\/info\]/g, (whole, m1) ->
                 return '<div class="alert alert-info">' + m1 + '</div>'
+            opts.content = content.replace /\[warning\](.*)\[\/warning\]/g, (whole, m1) ->
+                return '<div class="alert">' + m1 + '</div>'
             return next()
 
         renderDocument: (opts, next) ->
