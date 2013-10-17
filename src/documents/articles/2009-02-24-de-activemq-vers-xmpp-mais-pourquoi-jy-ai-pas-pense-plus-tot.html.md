@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2009-02-24 00:27:40
-title: "De ActiveMQ vers XMPP : mais pourquoi j'y ai pas pensé plus tôt ?"
+title: De ActiveMQ vers XMPP : mais pourquoi j'y ai pas pensé plus tôt ?
 tags:
  - activemq
  - apache

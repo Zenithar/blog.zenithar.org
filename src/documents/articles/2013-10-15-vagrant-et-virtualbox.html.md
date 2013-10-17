@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-10-15 21:39
-title: "Vagrant / VirtualBox"
+title: Vagrant / VirtualBox
 description: "Marre de faire des VM toutes les 5 minutes ? Voici un outil pour les gouverner toutes !"
 shorturl: http://goo.gl/Vx4PZ2
 tags:

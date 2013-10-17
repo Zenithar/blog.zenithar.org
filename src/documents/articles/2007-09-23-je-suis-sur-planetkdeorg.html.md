@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-09-23 13:35:33
-title: "Je suis sur planetkde.org !"
+title: Je suis sur planetkde.org !
 tags:
  - kde
  - planetkde

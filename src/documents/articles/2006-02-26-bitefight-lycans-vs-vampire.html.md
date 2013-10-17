@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-02-26 01:37:57
-title: "BiteFight - Lycans vs Vampire"
+title: BiteFight - Lycans vs Vampire
 tags:
  - g33k
 

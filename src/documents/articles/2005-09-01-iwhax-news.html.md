@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2005-09-01 20:09:00
-title: "IWHAX - News"
+title: IWHAX - News
 tags:
  - linux
  - securite

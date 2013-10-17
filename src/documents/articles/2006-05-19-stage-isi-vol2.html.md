@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-05-19 16:38:04
-title: "Stage ISI - vol.2"
+title: Stage ISI - vol.2
 tags:
  - iup
  - stage

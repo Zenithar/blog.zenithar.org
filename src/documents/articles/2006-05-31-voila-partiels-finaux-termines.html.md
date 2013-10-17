@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-05-31 17:40:57
-title: "Voila partiels finaux terminés ..."
+title: Voila partiels finaux terminés ...
 tags:
  - iup
  - stage

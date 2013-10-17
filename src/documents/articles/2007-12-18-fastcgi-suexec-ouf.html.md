@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-12-18 03:41:15
-title: "FastCGI + SuEXEC, ouf !"
+title: FastCGI + SuEXEC, ouf !
 tags:
  - fastcgi
  - g33k

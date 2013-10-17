@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-09-27 11:42:00
-title: "Viadeo &amp; LinkedIn"
+title: Viadeo &amp; LinkedIn
 tags:
  - cv
  - linkedin

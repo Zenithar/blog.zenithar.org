@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-04-09 20:02:00
-title: "Va y avoir de la viande sur les murs !!!!"
+title: Va y avoir de la viande sur les murs !!!!
 tags:
  - kde
  - linux

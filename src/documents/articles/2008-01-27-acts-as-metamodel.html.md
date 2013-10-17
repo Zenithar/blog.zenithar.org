@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-01-27 15:50:00
-title: "Acts as metamodel"
+title: Acts as metamodel
 tags:
  - metamodel
  - plugins

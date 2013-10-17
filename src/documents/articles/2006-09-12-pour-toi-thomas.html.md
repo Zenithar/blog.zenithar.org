@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-09-12 15:41:44
-title: "Pour toi Thomas ..."
+title: Pour toi Thomas ...
 tags:
  - amis
  - nice

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-08-13 09:11:54
-title: "GeeGo aka franglish : "J'y go" (J'y vais)"
+title: GeeGo aka franglish : "J'y go" (J'y vais)
 tags:
  - crous
  - geego

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-03-24 00:41:00
-title: "Umbrello, un BE pas comme les autres ..."
+title: Umbrello, un BE pas comme les autres ...
 tags:
  - isi
  - iup

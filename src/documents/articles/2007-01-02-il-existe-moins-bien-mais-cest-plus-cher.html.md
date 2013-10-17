@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-01-02 22:46:39
-title: "Il existe moins bien mais c'est plus cher :)"
+title: Il existe moins bien mais c'est plus cher :)
 tags:
  - g33k
  - linux

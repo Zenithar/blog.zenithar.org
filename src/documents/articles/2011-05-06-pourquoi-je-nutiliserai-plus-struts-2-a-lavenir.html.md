@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2011-05-06 18:21:44
-title: "Pourquoi je n'utiliserai plus Struts 2 à l'avenir ..."
+title: Pourquoi je n'utiliserai plus Struts 2 à l'avenir ...
 tags:
  - apache
  - java

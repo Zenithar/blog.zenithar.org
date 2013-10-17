@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-10-29 10:41:17
-title: "Damn Vulnerable Linux"
+title: Damn Vulnerable Linux
 tags:
  - dvl
  - linux

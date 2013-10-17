@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-05-24 23:56:00
-title: "Un an que je te connais, aujourd'hui, a cette heure ci a peu près ..."
+title: Un an que je te connais, aujourd'hui, a cette heure ci a peu près ...
 tags:
  - emi
 

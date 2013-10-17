@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-27 16:32:58
-title: "Get back to work !"
+title: Get back to work !
 tags:
  - g33k
 

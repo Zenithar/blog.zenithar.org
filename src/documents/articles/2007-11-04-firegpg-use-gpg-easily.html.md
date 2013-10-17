@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-11-04 12:45:34
-title: "FireGPG, use GPG easily !"
+title: FireGPG, use GPG easily !
 tags:
  - gpg
  - securite

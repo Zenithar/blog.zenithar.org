@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-28 12:14:50
-title: "Meet-O-Matic: The World's Simplest Meeting Scheduler"
+title: Meet-O-Matic: The World's Simplest Meeting Scheduler
 tags:
  - meet-o-matic
 

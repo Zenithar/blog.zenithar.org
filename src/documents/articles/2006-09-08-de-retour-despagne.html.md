@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-09-08 18:33:36
-title: "De retour d'Espagne ..."
+title: De retour d'Espagne ...
 tags:
  - amis
  - emi

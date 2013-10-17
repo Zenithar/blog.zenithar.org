@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-11-10 11:33:52
-title: "Pentamoissiversaire ^^"
+title: Pentamoissiversaire ^^
 tags:
  - emi
 

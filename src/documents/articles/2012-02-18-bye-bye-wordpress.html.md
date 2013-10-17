@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2012-02-18 15:18
-title: "Bye bye Wordpress"
+title: Bye bye Wordpress
 tags:
  - wordpress
  - octopress

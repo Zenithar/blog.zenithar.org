@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-03-11 23:54:00
-title: "Stage Fin Master 1"
+title: Stage Fin Master 1
 tags:
  - master
  - opencube

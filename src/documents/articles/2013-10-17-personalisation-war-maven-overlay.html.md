@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-10-17 10:10
-title: "Personnalisez vos WAR avec un overlay Maven"
+title: Personnalisez vos WAR avec un overlay Maven
 description: "Toujours le même problème, une application packagée WAR, mais plusieurs clients avec des thèmes différents par client."
 shorturl: http://goo.gl/9YmuXt
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-04-02 14:29:00
-title: "Début Stage M1 ISI"
+title: Début Stage M1 ISI
 tags:
  - opencube
  - stage

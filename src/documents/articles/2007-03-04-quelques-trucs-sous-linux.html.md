@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-03-04 15:15:00
-title: "Quelques trucs sous Linux ...."
+title: Quelques trucs sous Linux ....
 tags:
  - g33k
  - kde

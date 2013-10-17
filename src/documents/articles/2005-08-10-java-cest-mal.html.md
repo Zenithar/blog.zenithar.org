@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2005-08-10 11:55:46
-title: "Java c'est mal !!!!!!!"
+title: Java c'est mal !!!!!!!
 tags:
  - java
 

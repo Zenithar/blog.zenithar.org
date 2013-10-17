@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-05-17 00:40:16
-title: "La programmation objet : évidence ou fatalité ...."
+title: La programmation objet : évidence ou fatalité ....
 tags:
  - g33k
 

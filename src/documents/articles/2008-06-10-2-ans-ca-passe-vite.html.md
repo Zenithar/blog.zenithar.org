@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-06-10 10:18:03
-title: "2 ans, ça passe vite ^^"
+title: 2 ans, ça passe vite ^^
 tags:
  - emi
 

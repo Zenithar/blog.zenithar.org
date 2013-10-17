@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-09-15 11:42:56
-title: "Google Earth’s Hidden Surprise: A Flight Simulator"
+title: Google Earth’s Hidden Surprise: A Flight Simulator
 tags:
  - earth
  - easter-eggs

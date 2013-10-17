@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-04-17 12:04:00
-title: "aKademy 2007, étape 2, étape 1 en attente ...."
+title: aKademy 2007, étape 2, étape 1 en attente ....
 tags:
  - akademy
  - kde

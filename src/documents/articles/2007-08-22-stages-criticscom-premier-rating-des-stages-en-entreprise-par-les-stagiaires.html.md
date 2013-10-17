@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-08-22 17:30:33
-title: "Stages Critics.com : premier rating des stages en entreprise par les stagiaires"
+title: Stages Critics.com : premier rating des stages en entreprise par les stagiaires
 tags:
  - stage
 

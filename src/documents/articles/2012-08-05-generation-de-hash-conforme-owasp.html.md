@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2012-08-05 21:05
-title: "Génération de Hash conforme OWASP"
+title: Génération de Hash conforme OWASP
 tags:
  - coffeescript
  - owasp

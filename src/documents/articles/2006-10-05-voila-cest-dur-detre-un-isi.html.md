@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-10-05 23:15:25
-title: "Voila c'est dur d'être un ISI ..."
+title: Voila c'est dur d'être un ISI ...
 tags:
  - isi
  - iup

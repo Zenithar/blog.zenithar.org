@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2005-08-10 14:47:17
-title: "Jabber: Open Instant Messaging and a Whole Lot More, Powered by XMPP"
+title: Jabber: Open Instant Messaging and a Whole Lot More, Powered by XMPP
 tags:
  - herms
  - jabber

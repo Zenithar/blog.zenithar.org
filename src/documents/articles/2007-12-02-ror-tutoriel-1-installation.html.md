@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-12-02 15:44:45
-title: "RoR - Tutoriel 1 : Installation"
+title: RoR - Tutoriel 1 : Installation
 tags:
  - kuisine
  - rails

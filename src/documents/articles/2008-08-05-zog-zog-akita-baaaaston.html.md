@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-08-05 20:59:25
-title: "Zog Zog Akita ! Baaaaston !"
+title: Zog Zog Akita ! Baaaaston !
 tags:
  - brute
  - haxe

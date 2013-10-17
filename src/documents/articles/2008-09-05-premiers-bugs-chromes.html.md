@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-09-05 08:04:17
-title: "Premiers bugs chromés"
+title: Premiers bugs chromés
 tags:
  - buffer overflow
  - chrome

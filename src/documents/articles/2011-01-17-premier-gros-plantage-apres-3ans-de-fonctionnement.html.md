@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2011-01-17 09:09:21
-title: "Premier gros plantage après 3ans de fonctionnement ..."
+title: Premier gros plantage après 3ans de fonctionnement ...
 tags:
  - bug
  - plantage

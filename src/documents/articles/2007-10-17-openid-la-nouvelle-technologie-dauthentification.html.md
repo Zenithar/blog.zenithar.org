@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-10-17 22:45:01
-title: "OpenID, la nouvelle technologie d'authentification"
+title: OpenID, la nouvelle technologie d'authentification
 tags:
  - authentification
  - openid

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2005-12-26 00:30:00
-title: "Passage sous FreeBSD !"
+title: Passage sous FreeBSD !
 tags:
  - freebsd
  - linux

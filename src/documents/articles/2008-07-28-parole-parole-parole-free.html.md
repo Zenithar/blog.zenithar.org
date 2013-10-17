@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-07-28 21:05:43
-title: "Parole, Parole, Parole (Free)"
+title: Parole, Parole, Parole (Free)
 tags:
  - free
  - freebox

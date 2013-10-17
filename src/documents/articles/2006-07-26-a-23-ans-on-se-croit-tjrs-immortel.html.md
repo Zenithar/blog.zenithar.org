@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-07-26 10:30:15
-title: "A 23 ans, on se croit tjrs immortel ..."
+title: A 23 ans, on se croit tjrs immortel ...
 tags:
  - crash
  - moi

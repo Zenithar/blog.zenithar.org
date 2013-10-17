@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-02-14 00:01:00
-title: "Joyeuses fêtes des Amoureux."
+title: Joyeuses fêtes des Amoureux.
 tags:
  - emi
 

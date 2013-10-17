@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-08-05 22:49:31
-title: "Dan Kaminsky exploit + Metasploit + Evilgrade = Duuuuuuuuude"
+title: Dan Kaminsky exploit + Metasploit + Evilgrade = Duuuuuuuuude
 tags:
  - dns
  - evilgrade

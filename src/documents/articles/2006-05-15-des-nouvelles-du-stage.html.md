@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-05-15 15:07:00
-title: "Des nouvelles du stage ...."
+title: Des nouvelles du stage ....
 tags:
  - iup
  - stage

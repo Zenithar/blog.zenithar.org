@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2009-07-29 09:05:52
-title: "gCC - green Coding Concept"
+title: gCC - green Coding Concept
 tags:
  - coding
  - ecology

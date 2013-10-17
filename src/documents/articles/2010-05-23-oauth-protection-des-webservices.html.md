@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-05-23 09:08:03
-title: "OAuth : Protection des WebServices."
+title: OAuth : Protection des WebServices.
 tags:
  - oauth
  - securite

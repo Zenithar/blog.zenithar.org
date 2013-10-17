@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-08-31 17:41:07
-title: "Patch XML QTestlib"
+title: Patch XML QTestlib
 tags:
  - qtestlib
  - tests-unitaires

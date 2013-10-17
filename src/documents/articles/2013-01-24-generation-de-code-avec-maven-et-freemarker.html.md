@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-01-24 19:46
-title: "Génération de code avec Maven et Freemarker"
+title: Génération de code avec Maven et Freemarker
 description: "Utilisation du plugin fmpp pour maven pour générer du code lors du processus de génération."
 tags:
  - maven

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-06-04 10:25:00
-title: "Fait des rats 7eme version."
+title: Fait des rats 7eme version.
 tags:
  - fedora
  - linux

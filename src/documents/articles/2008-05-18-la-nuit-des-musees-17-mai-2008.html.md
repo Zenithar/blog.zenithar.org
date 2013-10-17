@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-05-18 19:28:18
-title: "La nuit des musées - 17 Mai 2008"
+title: La nuit des musées - 17 Mai 2008
 tags:
  - musee
  - toulouse

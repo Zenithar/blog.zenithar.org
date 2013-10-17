@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-09-17 19:03
-title: "OAuth 2.0, Authorization Code - Partie 2"
+title: OAuth 2.0, Authorization Code - Partie 2
 description: "La séquence d'autorisation 'authorization_code' fait partie des séquences disponibles dans le protocole OAUTH 2.0, et est certainement celui le plus utilisé dans le Web 2.0."
 tags:
  - oauth

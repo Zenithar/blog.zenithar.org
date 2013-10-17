@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-07-02 14:16:00
-title: "Jour 3 : Dernier jour de conférences."
+title: Jour 3 : Dernier jour de conférences.
 tags:
  - akademy
  - glasgow

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2005-09-04 02:01:50
-title: "K@MaZuTRa :: Les meilleurs zik de Nintedo A Capella"
+title: K@MaZuTRa :: Les meilleurs zik de Nintedo A Capella
 tags:
  - mario
 

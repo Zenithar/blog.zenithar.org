@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2005-08-10 11:05:02
-title: "HermS rebirTH c'est quoi ?"
+title: HermS rebirTH c'est quoi ?
 tags:
  - herms
 

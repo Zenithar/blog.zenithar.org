@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2013-02-05 23:59
-title: "Exporter les tâches IceScrum avec Node.js"
+title: Exporter les tâches IceScrum avec Node.js
 description: "Utilisation de Node.js et de Restler pour exporter les tâches IceScrum au format PostIt."
 tags:
  - icescrum

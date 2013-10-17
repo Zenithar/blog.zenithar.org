@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2005-08-28 18:33:26
-title: "ZeniTHaR'z PhoRhum"
+title: ZeniTHaR'z PhoRhum
 tags:
  - life
  - forum

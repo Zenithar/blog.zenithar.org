@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-08-14 00:41:15
-title: "Voila le rapport est validé !"
+title: Voila le rapport est validé !
 tags:
  - opencube
  - stage

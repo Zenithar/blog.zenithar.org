@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-01-11 00:24:32
-title: "KDE4 Toulouse Release Party : J - 15"
+title: KDE4 Toulouse Release Party : J - 15
 tags:
  - kde
  - party

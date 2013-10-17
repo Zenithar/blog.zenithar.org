@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2006-11-15 09:24:13
-title: "Mon portable sous Vista ..."
+title: Mon portable sous Vista ...
 tags:
  - geek
  - vista

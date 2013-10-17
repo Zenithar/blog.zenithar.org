@@ -12,7 +12,7 @@ def regenerateSource(filename, doc):
 		f.write("---\n")
 		f.write('layout: ' + meta['layout'] + '\n')
 		f.write("date: " + meta['date'] + "\n")
-		f.write('title: "' + meta['title'] + '"\n')
+		f.write('title: ' + meta['title'] + '\n')
 		if 'description' in meta:
 			f.write('description: "' + meta['description'] + '"\n')
 		if 'shorturl' in meta:

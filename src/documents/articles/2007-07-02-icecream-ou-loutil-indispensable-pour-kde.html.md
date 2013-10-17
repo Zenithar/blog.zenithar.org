@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-07-02 19:34:00
-title: "IceCream, ou l'outil indispensable pour KDE."
+title: IceCream, ou l'outil indispensable pour KDE.
 tags:
  - akademy
  - kde

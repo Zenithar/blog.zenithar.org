@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-07-04 15:46:00
-title: "aKademy 2007 : Les conférences en vidéos."
+title: aKademy 2007 : Les conférences en vidéos.
 tags:
  - akademy
  - glasgow

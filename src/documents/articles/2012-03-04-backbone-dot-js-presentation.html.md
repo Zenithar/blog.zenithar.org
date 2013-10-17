@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2012-03-04 23:30
-title: "Backbone.js - Présentation"
+title: Backbone.js - Présentation
 tags:
  - backbone.js
  - node.js

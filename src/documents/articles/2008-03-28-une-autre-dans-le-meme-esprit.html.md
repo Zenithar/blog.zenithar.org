@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-03-28 11:53:36
-title: "Une autre dans le même esprit."
+title: Une autre dans le même esprit.
 tags:
  - code quality
  - g33k

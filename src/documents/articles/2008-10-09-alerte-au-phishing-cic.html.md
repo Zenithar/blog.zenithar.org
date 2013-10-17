@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-10-09 07:56:47
-title: "Alerte au phishing CIC"
+title: Alerte au phishing CIC
 tags:
  - cic
  - hotlink

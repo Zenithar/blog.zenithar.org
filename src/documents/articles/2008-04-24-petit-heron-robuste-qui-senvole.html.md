@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2008-04-24 11:07:48
-title: "Petit "héron robuste" qui s'envole ..."
+title: Petit "héron robuste" qui s'envole ...
 tags:
  - gentoo
  - kubuntu

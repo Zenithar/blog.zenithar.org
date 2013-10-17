@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-09-23 12:33:40
-title: "Les nouveaux projets KDE encadrés commencent ..."
+title: Les nouveaux projets KDE encadrés commencent ...
 tags:
  - icescrum
  - iup

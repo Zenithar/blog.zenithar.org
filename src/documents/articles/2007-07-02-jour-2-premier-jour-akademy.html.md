@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2007-07-02 14:02:00
-title: "Jour 2 : Premier jour aKademy"
+title: Jour 2 : Premier jour aKademy
 tags:
  - akademy
  - glasgow
