@@ -20,7 +20,10 @@ docpadConfig = {
       injectDocumentHelper: (document) ->
         document.setMeta(
           layout: 'tag'
-        )  
+        )
+    rss:
+      collection: 'posts'
+      url: '/rss.xml'
 
   # =================================
   # Template Data

@@ -10,8 +10,7 @@ categories:
 - Logiciels
 tags:
 - bug
-- spring
-- security
+- spring security
 - struts
 - tiles
 ---

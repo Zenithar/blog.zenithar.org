@@ -8,18 +8,10 @@ wordpress_id: '397'
 categories:
 - General
 tags:
-- age
-- aventurier
-- catane
-- dé
-- Jeux
-- pierre
-- rail
-- risk
-- société
+- colons de catane
+- wazabi
+- jeux
 - TGS
-- Toulouse
-- Wazabi
 ---
 
 J'ai fait l'acquisition durant le [TGS](http://www.toulouse-game-show.fr/) (Toulouse Game Show) 2008, de deux nouveaux jeux de plateau qui j'avoue nous ont plus que bien occupé l'après-midi.

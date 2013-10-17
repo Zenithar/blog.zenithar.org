@@ -8,9 +8,6 @@ wordpress_id: '408'
 categories:
 - General
 tags:
-- année
-- bonne
-- joyeux
 - Noel
 ---
 

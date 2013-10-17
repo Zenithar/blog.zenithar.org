@@ -8,7 +8,6 @@ wordpress_id: '224'
 categories:
 - General
 tags:
-- 14 Juillet
 - Artifice
 - Carcassonne
 - Fête

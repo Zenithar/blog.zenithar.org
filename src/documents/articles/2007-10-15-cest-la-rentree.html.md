@@ -10,7 +10,7 @@ categories:
 tags:
 - ISI
 - M2
-- Tououse
+- Toulouse
 ---
 
 Aujourd'hui commence mon M2 ISI, journée particulièrement légère ^^ 4h de cours ! et il faut déja amener un CV et une lettre de motivation ! Enfin comme on le sait tous, ça va pas correspondre aux critères du professeur, donc ça sera une mauvaise note pour finir sur une bonne note au final !

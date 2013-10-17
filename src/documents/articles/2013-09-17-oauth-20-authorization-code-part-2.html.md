@@ -6,11 +6,10 @@ comments: true
 description: "La séquence d'autorisation 'authorization_code' fait partie des séquences disponibles dans le protocole OAUTH 2.0, et est certainement celui le plus utilisé dans le Web 2.0."
 tags:
  - oauth
- - security
+ - securite
  - authorization
  - code
- - grant
- - types
+ - grant types
  
 ---
 

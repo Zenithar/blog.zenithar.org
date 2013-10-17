@@ -40,7 +40,8 @@
     "docpad-plugin-highlightjs": "~2.1.7",
     "docpad-plugin-navlinks": "~2.0.2",
     "docpad-plugin-services": "~2.4.4",
-    "docpad-plugin-tags": "~2.0.4"
+    "docpad-plugin-tags": "~2.0.4",
+    "docpad-plugin-rss": "~2.0.1"
   },
   "devDependencies": {
     "docpad-plugin-livereload": "~2.5.3"

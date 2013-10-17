@@ -1,4 +1,4 @@
---- yaml
+---
 layout: post
 title: "[Iced]CoffeeScript minification"
 date: 2012-04-06 18:34
@@ -7,7 +7,6 @@ categories:
  - Logiciels
 tags:
  - CoffeeScript
- - IcedCoffeeScript
  - UglifyJS
  - minification
 ---

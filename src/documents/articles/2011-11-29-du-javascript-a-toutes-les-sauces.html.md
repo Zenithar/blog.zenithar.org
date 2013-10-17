@@ -8,7 +8,7 @@ wordpress_id: '846'
 categories:
 - Développement
 tags:
-- Backbone
+- Backbone.js
 - Javascript
 - Node.js
 ---
