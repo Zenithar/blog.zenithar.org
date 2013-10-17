@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "8 mois avec Backbone.js et ça dure !"
 date: 2012-08-06 19:08
-comments: true
-categories: 
- - Logiciels
+title: "8 mois avec Backbone.js et ça dure !"
 tags:
- - Backbone.js
- - CoffeeScript
+ - backbone.js
+ - coffeescript
+
 ---
 
 Cela fait quelques temps déjà que j'utilise Backbone.JS and Friends, et bon je vais essayer de rester objectif sur le retour d'expérience que je compte développer.

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Génération de code avec Maven et Freemarker"
 date: 2013-01-24 19:46
-comments: true
+title: "Génération de code avec Maven et Freemarker"
 description: "Utilisation du plugin fmpp pour maven pour générer du code lors du processus de génération."
 tags:
- - Maven
- - Freemarker
- - Java
+ - maven
+ - freemarker
+ - java
+
 ---
 
 J'utilise de plus en plus dans mes applications les évènements Spring car je trouve ça tout simplement pratique et cela offre un découplage simple et efficace des applications.

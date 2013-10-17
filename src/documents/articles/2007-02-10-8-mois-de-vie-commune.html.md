@@ -1,14 +1,10 @@
 ---
-date: '2007-02-10 00:01:00'
 layout: post
-slug: 8-mois-de-vie-commune
-status: publish
-title: 8 Mois de vie commune
-wordpress_id: '96'
-categories:
-- General
+date: 2007-02-10 00:01:00
+title: "8 Mois de vie commune"
 tags:
-- Emi
+ - emi
+
 ---
 
 Je t'aime, et bon courage pour ton concours ma chérie.

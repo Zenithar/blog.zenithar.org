@@ -1,14 +1,10 @@
 ---
-date: '2006-02-26 01:37:57'
 layout: post
-slug: bitefight-lycans-vs-vampire
-status: publish
-title: BiteFight - Lycans vs Vampire
-wordpress_id: '48'
-categories:
-- General
+date: 2006-02-26 01:37:57
+title: "BiteFight - Lycans vs Vampire"
 tags:
-- G33k
+ - g33k
+
 ---
 
 Par les créateurs du jeu Ogame [BiteFight](http://s2.bitefight.fr/). 

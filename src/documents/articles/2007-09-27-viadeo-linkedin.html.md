@@ -1,16 +1,12 @@
 ---
-date: '2007-09-27 11:42:00'
 layout: post
-slug: viadeo-linkedin
-status: publish
-title: Viadeo &amp; LinkedIn
-wordpress_id: '169'
-categories:
-- General
+date: 2007-09-27 11:42:00
+title: "Viadeo &amp; LinkedIn"
 tags:
-- CV
-- LinkedIn
-- Viadeo
+ - cv
+ - linkedin
+ - viadeo
+
 ---
 
 Je viens de remplir mon profil dans ces deux sites, je ne sais pas ce que ça va m'apporter, hormis le fait de retrouver des vieux amis du lycée ^^

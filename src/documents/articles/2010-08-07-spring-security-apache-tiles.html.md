@@ -1,18 +1,13 @@
 ---
-date: '2010-08-07 18:44:04'
 layout: post
-slug: spring-security-apache-tiles
-status: publish
-title: Spring Security & Apache Tiles
-wordpress_id: '603'
-categories:
-- Développement
-- Logiciels
+date: 2010-08-07 18:44:04
+title: "Spring Security & Apache Tiles"
 tags:
-- bug
-- spring security
-- struts
-- tiles
+ - bug
+ - spring security
+ - struts
+ - tiles
+
 ---
 
 Je viens d'être conforonté à un problème particulièrement énervant et difficile à diagnostiquer. C'est pour cela que je vous donne ma solution (il y a peut être mieux mais bon ça marche).

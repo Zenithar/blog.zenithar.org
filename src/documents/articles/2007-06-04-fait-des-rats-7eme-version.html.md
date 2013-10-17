@@ -1,15 +1,11 @@
 ---
-date: '2007-06-04 10:25:00'
 layout: post
-slug: fait-des-rats-7eme-version
-status: publish
-title: Fait des rats 7eme version.
-wordpress_id: '126'
-categories:
-- Linux
+date: 2007-06-04 10:25:00
+title: "Fait des rats 7eme version."
 tags:
-- Fedora
-- Linux
+ - fedora
+ - linux
+
 ---
 
 ![fedora.png](/public/Linux/fedora.png) Attention on ne dit plus Fedora "Core", du fait de la jointure des dépots "Core" & "Extras", qui étaient maintenus par les développeurs RedHat pour "Core", et des contributeurs pour "Extras", mais Fedora 7 (moonlight).

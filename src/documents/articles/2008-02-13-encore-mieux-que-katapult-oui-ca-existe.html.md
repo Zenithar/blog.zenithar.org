@@ -1,16 +1,12 @@
 ---
-date: '2008-02-13 22:13:43'
 layout: post
-slug: encore-mieux-que-katapult-oui-ca-existe
-status: publish
-title: Encore mieux que Katapult ! Oui ça existe !
-wordpress_id: '199'
-categories:
-- General
+date: 2008-02-13 22:13:43
+title: "Encore mieux que Katapult ! Oui ça existe !"
 tags:
-- enso
-- G33k
-- katapult
+ - enso
+ - g33k
+ - katapult
+
 ---
 
 Voici une application que j'ai trouvée par hasard en me perdant dans les méandres de l'Internet.

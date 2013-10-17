@@ -1,15 +1,11 @@
 ---
-date: '2007-07-30 09:53:46'
 layout: post
-slug: attention-je-me-mets-au-roller
-status: publish
-title: Attention, je me mets au Roller ....
-wordpress_id: '142'
-categories:
-- General
+date: 2007-07-30 09:53:46
+title: "Attention, je me mets au Roller ...."
 tags:
-- life
-- roller
+ - life
+ - roller
+
 ---
 
 Bon voila tout est dans le titre, puisqu'il y a des gens "sympathiques" qui n'ont qu'objectifs de vous faire chier dans la vie, en volant le fruit du travail, ou les cadeaux des amis, comme un vélo par exemple, j'ai décidé d'apprendre à faire du roller pour ne pas avoir à laisser mon transport dans un local qui ressemble plus à un supermarché ouvert tous les Jeudi ... .

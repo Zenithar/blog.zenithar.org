@@ -1,20 +1,16 @@
 ---
-date: '2008-11-12 13:04:36'
 layout: post
-slug: dis-moi-ce-que-tu-lis
-status: publish
-title: Dis moi ce que tu lis !
-wordpress_id: '363'
-categories:
-- General
+date: 2008-11-12 13:04:36
+title: "Dis moi ce que tu lis !"
 tags:
-- BlogChain
-- Hakin9
-- lecture
-- LinuxMagazine
-- magazine
-- MISC
-- programmez!
+ - blogchain
+ - hakin9
+ - lecture
+ - linuxmagazine
+ - magazine
+ - misc
+ - programmez!
+
 ---
 
 Suite à l'article de [Korben](http://www.korben.info/presse-dis-moi-ce-que-tu-lis.html), chaine de post dans lequel on énonce nos lectures (papiers dans mon cas!).

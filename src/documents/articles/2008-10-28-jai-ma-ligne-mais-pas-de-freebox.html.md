@@ -1,23 +1,18 @@
 ---
-date: '2008-10-28 09:42:41'
 layout: post
-slug: jai-ma-ligne-mais-pas-de-freebox
-status: publish
-title: J'ai ma ligne, mais pas de Freebox !
-wordpress_id: '343'
-categories:
-- General
-- Tutoriels
+date: 2008-10-28 09:42:41
+title: "J'ai ma ligne, mais pas de Freebox !"
 tags:
-- DG834G
-- DNS
-- DSLAM
-- Free
-- Freebox
-- Internet
-- IPoA
-- Netgear
-- Synchro
+ - dg834g
+ - dns
+ - dslam
+ - free
+ - freebox
+ - internet
+ - ipoa
+ - netgear
+ - synchro
+
 ---
 
 Je viens de recevoir mon avis d'activation de ligne : hourra enfin !

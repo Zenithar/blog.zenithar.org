@@ -1,15 +1,11 @@
 ---
-date: '2007-09-16 18:02:07'
 layout: post
-slug: the-answer-to-life-the-universe-and-everything
-status: publish
-title: The answer to life, the universe, and everything
-wordpress_id: '163'
-categories:
-- General
+date: 2007-09-16 18:02:07
+title: "The answer to life, the universe, and everything"
 tags:
-- G33k
-- google
+ - g33k
+ - google
+
 ---
 
 [the answer to life, the universe, and everything - Google Search](http://www.google.com/search?hl=en&q=the+answer+to+life%2C+the+universe%2C+and+everything&btnG=Google+Search)

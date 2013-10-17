@@ -1,15 +1,11 @@
 ---
-date: '2005-09-21 15:16:05'
 layout: post
-slug: des-nouvelles-de-toulouse
-status: publish
-title: Des nouvelles de Toulouse ....
-wordpress_id: '40'
-categories:
-- General
+date: 2005-09-21 15:16:05
+title: "Des nouvelles de Toulouse ...."
 tags:
-- crous
-- Toulouse
+ - crous
+ - toulouse
+
 ---
 
 Et voila après quelques problèmes divers, je suis installé à Toulouse en chambre rénové : résultats Nice = voleurs. 

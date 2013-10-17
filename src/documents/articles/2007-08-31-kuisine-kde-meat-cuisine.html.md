@@ -1,16 +1,12 @@
 ---
-date: '2007-08-31 15:43:31'
 layout: post
-slug: kuisine-kde-meat-cuisine
-status: publish
-title: 'Kuisine : KDE "meat" Cuisine'
-wordpress_id: '151'
-categories:
-- KDE
+date: 2007-08-31 15:43:31
+title: "Kuisine : KDE "meat" Cuisine"
 tags:
-- Database
-- Idea
-- Kuisine
+ - database
+ - idea
+ - kuisine
+
 ---
 
 N'avez vous pas raz le bol de manger toujours pareil, de ne pas savoir quoi manger alors qu'il y a matière dans votre réfrigérateur (ou celui de votre voisin ^^), ou peu de temps pour préparer ?

@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Vagrant / VirtualBox"
 date: 2013-10-15 21:39
-comments: true
+title: "Vagrant / VirtualBox"
 description: "Marre de faire des VM toutes les 5 minutes ? Voici un outil pour les gouverner toutes !"
 shorturl: http://goo.gl/Vx4PZ2
 tags:
  - vagrant
  - virtualisation
  - linux
- 
+
 ---
 
 [Vagrant](http://www.vagrantup.com/) est un outil de gestion d'environnement virtualisé, il utilise un script (DSL) pour décrire la configuration de la machine virtuelle qu'il gère. Il est capable de gérer des systèmes de virtualisation gratuits comme VirtualBox, QEmu, mais aussi des commerciaux comme VMWare, ainsi que plus récemment des infrastructures type cloud comme OpenStack et bien d'autres.

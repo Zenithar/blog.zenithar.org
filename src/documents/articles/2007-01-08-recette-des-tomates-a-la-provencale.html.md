@@ -1,15 +1,11 @@
 ---
-date: '2007-01-08 22:40:52'
 layout: post
-slug: recette-des-tomates-a-la-provencale
-status: publish
-title: Recette des tomates à la provençale.
-wordpress_id: '91'
-categories:
-- Cuisine
+date: 2007-01-08 22:40:52
+title: "Recette des tomates à la provençale."
 tags:
-- Cuisine
-- Tomate
+ - cuisine
+ - tomate
+
 ---
 
 Ami cuisto, ou gourmand notoire, viens voir tonton pour qu'il t'explique la recette des tomates à la provencale.

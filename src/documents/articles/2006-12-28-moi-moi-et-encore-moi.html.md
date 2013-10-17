@@ -1,15 +1,11 @@
 ---
-date: '2006-12-28 01:44:00'
 layout: post
-slug: moi-moi-et-encore-moi
-status: publish
-title: Moi, moi et encore moi ^^
-wordpress_id: '87'
-categories:
-- General
+date: 2006-12-28 01:44:00
+title: "Moi, moi et encore moi ^^"
 tags:
-- Fréjus
-- Moi
+ - frejus
+ - moi
+
 ---
 
 Complexe narcissique, oui et alors !

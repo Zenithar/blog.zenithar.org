@@ -1,15 +1,11 @@
 ---
-date: '2007-08-14 00:41:15'
 layout: post
-slug: voila-le-rapport-est-valide
-status: publish
-title: Voila le rapport est validé !
-wordpress_id: '145'
-categories:
-- General
+date: 2007-08-14 00:41:15
+title: "Voila le rapport est validé !"
 tags:
-- OpenCube
-- Stage
+ - opencube
+ - stage
+
 ---
 
 Le rapport de stage chez OpenCube vient de passer l'étape de validation, il sera expédié comme prévu.

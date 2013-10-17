@@ -1,14 +1,10 @@
 ---
-date: '2005-08-31 12:13:59'
 layout: post
-slug: fable-the-lost-chapters
-status: publish
-title: 'Fable: The Lost Chapters'
-wordpress_id: '33'
-categories:
-- Logiciels
+date: 2005-08-31 12:13:59
+title: "Fable: The Lost Chapters"
 tags:
-- Jeux
+ - jeux
+
 ---
 
 Et voila, un nouveau jeu ...

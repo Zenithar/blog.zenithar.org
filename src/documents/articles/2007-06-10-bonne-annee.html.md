@@ -1,14 +1,10 @@
 ---
-date: '2007-06-10 20:34:00'
 layout: post
-slug: bonne-annee
-status: publish
-title: Bonne année ^^
-wordpress_id: '127'
-categories:
-- General
+date: 2007-06-10 20:34:00
+title: "Bonne année ^^"
 tags:
-- Emi
+ - emi
+
 ---
 
 Oui ça fait un an, aujourd'hui qu'on est ensemble, déjà... ça passe trop vite ^^ (En même temps, mieux vaut ça que conter les heures ...). Ah lala ! ça fait bizarre d'entendre des personnes de votre famille, dire fait la bise à ta femme de ma part ^^. C'est rigolo, mais j'aime ça !

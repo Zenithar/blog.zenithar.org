@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Backbone.js & CoffeeScript"
 date: 2012-04-07 03:47
-comments: true
-categories:
- - Logiciels
- - tutorials
+title: "Backbone.js & CoffeeScript"
 tags:
  - backbone.js
- - CoffeeScript 
+ - coffeescript
+
 ---
 
 Cet article va traiter de l'utilisation de CoffeeScript dans le cadre de la réalisation d'une application Backbone.js. 

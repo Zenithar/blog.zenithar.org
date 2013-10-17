@@ -1,20 +1,16 @@
 ---
-date: '2008-09-02 19:32:40'
 layout: post
-slug: google-chrome-aie-mes-yeux
-status: publish
-title: 'Google Chrome : Aie mes yeux !'
-wordpress_id: '291'
-categories:
-- Logiciels
+date: 2008-09-02 19:32:40
+title: "Google Chrome : Aie mes yeux !"
 tags:
-- browser
-- chrome
-- google
-- khtml
-- open source
-- safari
-- webkit
+ - browser
+ - chrome
+ - google
+ - khtml
+ - open source
+ - safari
+ - webkit
+
 ---
 
 Cela fait un bon bout de temps que l'on entends parler du "Google browser", et bien ça y est cette fois c'est fait !

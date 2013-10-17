@@ -1,20 +1,16 @@
 ---
-date: '2008-10-09 07:56:47'
 layout: post
-slug: alerte-au-phishing-cic
-status: publish
-title: Alerte au phishing CIC
-wordpress_id: '334'
-categories:
-- Sécurité
+date: 2008-10-09 07:56:47
+title: "Alerte au phishing CIC"
 tags:
-- cic
-- hotlink
-- htaccess
-- images
-- phishing
-- spoofing
-- vol
+ - cic
+ - hotlink
+ - htaccess
+ - images
+ - phishing
+ - spoofing
+ - vol
+
 ---
 
 Attention des emails circulent sur le réseau vous demandant vos informations d'accès à vos comptes bancaires CIC (www.cic.fr)

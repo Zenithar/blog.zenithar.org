@@ -1,19 +1,15 @@
 ---
-date: '2008-08-05 22:36:33'
 layout: post
-slug: katan-colons-de-catane-modelisation
-status: publish
-title: 'Katan : Colons de catane, modélisation.'
-wordpress_id: '265'
-categories:
-- Développement
+date: 2008-08-05 22:36:33
+title: "Katan : Colons de catane, modélisation."
 tags:
-- catane
-- colons
-- Flex
-- Katan
-- puremvc
-- UML
+ - catane
+ - colons
+ - flex
+ - katan
+ - puremvc
+ - uml
+
 ---
 
 Bonsoir à tous, ça fait un petit bout de temps que ce modèle traine sur mon PC, je suis en train de faire le ménage en vue de changement de matériel, et j'ai donc décidé de publier ce modèle.

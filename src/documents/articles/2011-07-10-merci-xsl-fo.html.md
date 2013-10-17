@@ -1,19 +1,15 @@
 ---
-date: '2011-07-10 22:28:41'
 layout: post
-slug: merci-xsl-fo
-status: publish
-title: Merci XSL-FO !
-wordpress_id: '827'
-categories:
-- General
+date: 2011-07-10 22:28:41
+title: "Merci XSL-FO !"
 tags:
-- CV
-- DOCX
-- PDF
-- RTF
-- XSL-FO
-- XSLT
+ - cv
+ - docx
+ - pdf
+ - rtf
+ - xsl-fo
+ - xslt
+
 ---
 
 Pour des besoins professionnels, j'ai du apprendre à utiliser XSL-FO, au debut j'ai avais vraiment pas envie, mais bon au final si on a une bonne connaissance HTML / CSS2, on s'en sort sans problème.

@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Vérifier un RIO"
 date: 2012-08-05 21:23
-comments: true
-categories: 
- - Logiciels
+title: "Vérifier un RIO"
 tags:
- - RIO
- - CoffeeScript
- - Free.fr
- 
+ - rio
+ - coffeescript
+ - free.fr
+
 ---
 
 Lors de mon inscription chez Free Mobile, j'ai eu quelques soucis liés à la récupération de mon RIO chez mon ancien opérateur. J'ai du faire la demande 6 ou 7 fois en utilisant le robot, en espérant recevoir le texto de validation, mais je n'ai jamais rien reçu.

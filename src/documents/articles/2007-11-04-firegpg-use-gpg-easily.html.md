@@ -1,15 +1,11 @@
 ---
-date: '2007-11-04 12:45:34'
 layout: post
-slug: firegpg-use-gpg-easily
-status: publish
-title: FireGPG, use GPG easily !
-wordpress_id: '178'
-categories:
-- Logiciels
+date: 2007-11-04 12:45:34
+title: "FireGPG, use GPG easily !"
 tags:
-- GPG
-- Sécurité
+ - gpg
+ - securite
+
 ---
 
 -----BEGIN PGP SIGNED MESSAGE-----

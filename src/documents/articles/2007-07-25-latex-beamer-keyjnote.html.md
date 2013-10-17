@@ -1,16 +1,12 @@
 ---
-date: '2007-07-25 15:38:29'
 layout: post
-slug: latex-beamer-keyjnote
-status: publish
-title: LaTeX + Beamer + Keyjnote.
-wordpress_id: '140'
-categories:
-- Logiciels
+date: 2007-07-25 15:38:29
+title: "LaTeX + Beamer + Keyjnote."
 tags:
-- beamer
-- latex
-- Stage
+ - beamer
+ - latex
+ - stage
+
 ---
 
 Ou comment faire une présentation "qui déchire grave" ^^.

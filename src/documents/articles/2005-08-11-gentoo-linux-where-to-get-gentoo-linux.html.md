@@ -1,15 +1,11 @@
 ---
-date: '2005-08-11 18:50:40'
 layout: post
-slug: gentoo-linux-where-to-get-gentoo-linux
-status: publish
-title: Gentoo Linux -- Where to Get Gentoo Linux
-wordpress_id: '15'
-categories:
-- Linux
+date: 2005-08-11 18:50:40
+title: "Gentoo Linux -- Where to Get Gentoo Linux"
 tags:
-- Gentoo
-- Linux
+ - gentoo
+ - linux
+
 ---
 
 [Gentoo Linux -- Where to Get Gentoo Linux](http://www.gentoo.org/main/en/where.xml)

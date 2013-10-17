@@ -1,17 +1,13 @@
 ---
-date: '2009-10-09 19:00:39'
 layout: post
-slug: une-annee-en-compagnie-de-sympatiques-amis
-status: publish
-title: Une année en compagnie de sympatiques amis
-wordpress_id: '515'
-categories:
-- General
+date: 2009-10-09 19:00:39
+title: "Une année en compagnie de sympatiques amis"
 tags:
-- Amis
-- rencontre
-- swat
-- travail
+ - amis
+ - rencontre
+ - swat
+ - travail
+
 ---
 
 Pour reprendre la citation d'un amis :

@@ -1,14 +1,10 @@
 ---
-date: '2007-05-24 23:56:00'
 layout: post
-slug: un-an-que-je-te-connais-aujourdhui-a-cette-heure-ci-a-peu-pres
-status: publish
-title: Un an que je te connais, aujourd'hui, a cette heure ci a peu près ...
-wordpress_id: '121'
-categories:
-- General
+date: 2007-05-24 23:56:00
+title: "Un an que je te connais, aujourd'hui, a cette heure ci a peu près ..."
 tags:
-- Emi
+ - emi
+
 ---
 
 Je suis monté dans ta chambre, sous un élan porteur incontrôlable, pour te dire ce qui me trottait dans la tête ^^

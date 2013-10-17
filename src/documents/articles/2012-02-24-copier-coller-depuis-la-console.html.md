@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Copier / Coller depuis la console"
 date: 2012-02-24 23:53
-comments: true
-categories: 
-  - Logiciels
+title: "Copier / Coller depuis la console"
 tags:
-  - xsel
-  - linux
-  - console
-  - copier
-  - coller
+ - xsel
+ - linux
+ - console
+ - copier
+ - coller
+
 ---
 
 Petite découverte de la journée, j'ai eu le besoin de copier un fichier de la console vers un programme "graphique".

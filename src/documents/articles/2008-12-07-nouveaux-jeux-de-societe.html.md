@@ -1,17 +1,13 @@
 ---
-date: '2008-12-07 23:38:25'
 layout: post
-slug: nouveaux-jeux-de-societe
-status: publish
-title: Nouveaux jeux de société.
-wordpress_id: '397'
-categories:
-- General
+date: 2008-12-07 23:38:25
+title: "Nouveaux jeux de société."
 tags:
-- colons de catane
-- wazabi
-- jeux
-- TGS
+ - colons de catane
+ - wazabi
+ - jeux
+ - tgs
+
 ---
 
 J'ai fait l'acquisition durant le [TGS](http://www.toulouse-game-show.fr/) (Toulouse Game Show) 2008, de deux nouveaux jeux de plateau qui j'avoue nous ont plus que bien occupé l'après-midi.

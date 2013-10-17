@@ -1,18 +1,13 @@
 ---
-date: '2008-01-11 00:24:32'
 layout: post
-slug: kde4-toulouse-release-party-j-15
-status: publish
-title: 'KDE4 Toulouse Release Party : J - 15'
-wordpress_id: '191'
-categories:
-- Linux
-- Toulibre
+date: 2008-01-11 00:24:32
+title: "KDE4 Toulouse Release Party : J - 15"
 tags:
-- KDE
-- Party
-- Release
-- Toulibre
+ - kde
+ - party
+ - release
+ - toulibre
+
 ---
 
 [![affiche_kde4.jpg](http://static.zenithar.org/wp-content/uploads/affiche_kde4.jpg)](http://static.zenithar.org/wp-content/uploads/affiche_kde4.jpg)

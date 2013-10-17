@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Backbone.js - Les évènements"
 date: 2012-03-05 19:54
-comments: true
-categories: 
- - Logiciels
- - tutorials
+title: "Backbone.js - Les évènements"
 tags:
  - backbone.js
  - node.js
  - tutorial
+
 ---
 
 ## Introduction

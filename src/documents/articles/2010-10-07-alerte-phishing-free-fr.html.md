@@ -1,15 +1,11 @@
 ---
-date: '2010-10-07 08:58:44'
 layout: post
-slug: alerte-phishing-free-fr
-status: publish
-title: Alerte Phishing Free.fr
-wordpress_id: '647'
-categories:
-- Sécurité
+date: 2010-10-07 08:58:44
+title: "Alerte Phishing Free.fr"
 tags:
-- free.fr
-- phishing
+ - free.fr
+ - phishing
+
 ---
 
 Bonjour à toutes et à tous,

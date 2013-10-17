@@ -1,14 +1,10 @@
 ---
-date: '2007-04-17 12:17:00'
 layout: post
-slug: statistiques-visiteurs
-status: publish
-title: Statistiques visiteurs
-wordpress_id: '115'
-categories:
-- General
+date: 2007-04-17 12:17:00
+title: "Statistiques visiteurs"
 tags:
-- life
+ - life
+
 ---
 
 Voici la carte de provenance de mes visiteurs :

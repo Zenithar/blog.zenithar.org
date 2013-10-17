@@ -1,21 +1,16 @@
 ---
-date: '2011-05-21 19:18:10'
 layout: post
-slug: zeromq-ca-roxe-du-poney
-status: publish
-title: ZeroMQ, ça roxe du poney !
-wordpress_id: '778'
-categories:
-- Développement
-- Logiciels
+date: 2011-05-21 19:18:10
+title: "ZeroMQ, ça roxe du poney !"
 tags:
-- 0MQ
-- activemq
-- C++
-- LGPL
-- Python
-- SOA
-- ZMQ
+ - 0mq
+ - activemq
+ - c++
+ - lgpl
+ - python
+ - soa
+ - zmq
+
 ---
 
 Voici un broker peu traditionnel, car ils sont souvent distribués sous la forme d'une application complète ([ActiveMQ](http://activemq.apache.org/), [RabbitMQ](http://www.rabbitmq.com/), etc.), ici il s'agit d'une librairie C (~2Mo) LGPL et il existe plus d'une vingtaine de bindings (C++, Java, Ruby, Node.JS, ...).

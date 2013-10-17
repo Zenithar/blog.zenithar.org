@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Personnalisez vos WAR avec un overlay Maven"
 date: 2013-10-17 10:10
-comments: true
+title: "Personnalisez vos WAR avec un overlay Maven"
 description: "Toujours le même problème, une application packagée WAR, mais plusieurs clients avec des thèmes différents par client."
 shorturl: http://goo.gl/9YmuXt
 tags:
  - war
  - java
- - maven 
+ - maven
+
 ---
 
 Le système de packaging WAR (Web Application Archive) est un format (ZIP) de distribution d'application java web. Il assemble les ressources statiques (html, css, js) avec le code compilé.

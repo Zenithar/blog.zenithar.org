@@ -1,16 +1,12 @@
 ---
-date: '2007-02-21 18:41:00'
 layout: post
-slug: hakin-session-fevrier
-status: publish
-title: Hakin' Session Fevrier
-wordpress_id: '98'
-categories:
-- KDE
+date: 2007-02-21 18:41:00
+title: "Hakin' Session Fevrier"
 tags:
-- KDE
-- Linux
-- Toulouse
+ - kde
+ - linux
+ - toulouse
+
 ---
 
 ![](/images/60px-KDE_logo.svg.png) Voila ma première Hakin' Session, résultat ambiance très bon enfant.

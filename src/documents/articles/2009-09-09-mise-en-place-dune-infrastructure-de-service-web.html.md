@@ -1,22 +1,17 @@
 ---
-date: '2009-09-09 19:25:16'
 layout: post
-slug: mise-en-place-dune-infrastructure-de-service-web
-status: publish
-title: Mise en place d'une infrastructure de service Web
-wordpress_id: '503'
-categories:
-- Linux
-- Tutoriels
+date: 2009-09-09 19:25:16
+title: "Mise en place d'une infrastructure de service Web"
 tags:
-- apache
-- chroot
-- ebios
-- FastCGI
-- Linux
-- mysql
-- nginx
-- SuExec
+ - apache
+ - chroot
+ - ebios
+ - fastcgi
+ - linux
+ - mysql
+ - nginx
+ - suexec
+
 ---
 
 Bonsoir à tous, je me suis enfin motivé pour rédiger un multi-post, même si a mon avis un blog n'est pas fait dans cet objectif. (c'est plus le rôle d'un wiki)

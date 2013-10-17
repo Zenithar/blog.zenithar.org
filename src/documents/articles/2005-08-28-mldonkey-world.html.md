@@ -1,15 +1,11 @@
 ---
-date: '2005-08-28 16:44:47'
 layout: post
-slug: mldonkey-world
-status: publish
-title: MLdonkey World
-wordpress_id: '27'
-categories:
-- Logiciels
+date: 2005-08-28 16:44:47
+title: "MLdonkey World"
 tags:
-- G33k
-- Linux
+ - g33k
+ - linux
+
 ---
 
 [MLdonkey World](http://mldonkey.berlios.de/)

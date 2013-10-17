@@ -1,15 +1,11 @@
 ---
-date: '2008-05-06 01:20:40'
 layout: post
-slug: bientot-la-fin-dune-epoque
-status: publish
-title: Bientot la fin d'une époque.
-wordpress_id: '208'
-categories:
-- General
+date: 2008-05-06 01:20:40
+title: "Bientot la fin d'une époque."
 tags:
-- CV
-- Moi
+ - cv
+ - moi
+
 ---
 
 Hé oui avec la fin de l'année qui approche, cela marque la marque la fin de 23ans 1/2 d'études acharnées, des dessins, des pâtes à sel, des assemblages Legos, de l'apprentissage des lettres, de la prononciation des syllabes, de l'écriture sur des cahiers à lignes, des additions à 1 ou 2 chiffres, biensur des soustractions, puis sont arrivées les fractions, les nombres relatifs, (ouh la d'un coup on prend un coup de vieux), puis les théorèmes (Pythagore, Thalès, ...), puis comme c'est trop simple on passe en généralisé, avec des intégrales, de la géométrie dans l'espace, la trigonométrie (on s'aperçois à ce moment que les touches SIN, COS, TAN qui étaient sur votre calculette depuis le CM2 qui vous intriguaient peuvent devenir un vrai cauchemar ^^).

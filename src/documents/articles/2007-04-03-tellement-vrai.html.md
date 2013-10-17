@@ -1,14 +1,10 @@
 ---
-date: '2007-04-03 10:31:00'
 layout: post
-slug: tellement-vrai
-status: publish
-title: Tellement vrai ...
-wordpress_id: '108'
-categories:
-- General
+date: 2007-04-03 10:31:00
+title: "Tellement vrai ..."
 tags:
-- Stage
+ - stage
+
 ---
 
 Amis stagiaires allez voir ceci ...

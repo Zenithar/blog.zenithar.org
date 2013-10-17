@@ -1,14 +1,10 @@
 ---
-date: '2010-04-15 11:33:47'
 layout: post
-slug: desole-mon-blog-je-tai-laisse-a-labandon
-status: publish
-title: Désolé mon blog, je t'ai laissé à l'abandon...
-wordpress_id: '541'
-categories:
-- General
+date: 2010-04-15 11:33:47
+title: "Désolé mon blog, je t'ai laissé à l'abandon..."
 tags:
-- life
+ - life
+
 ---
 
 Et oui, déjà plus de 6 mois que je n'ai rien posté. Pourquoi ? Un gros manque de motivation, beaucoup de boulot, pas de mal de choses ont changés aussi pendant ce temps (changement de boite, de métier, déménagement de DNS, etc.).

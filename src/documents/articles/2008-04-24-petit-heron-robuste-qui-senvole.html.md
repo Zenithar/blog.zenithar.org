@@ -1,16 +1,12 @@
 ---
-date: '2008-04-24 11:07:48'
 layout: post
-slug: petit-heron-robuste-qui-senvole
-status: publish
-title: Petit "héron robuste" qui s'envole ...
-wordpress_id: '207'
-categories:
-- Linux
+date: 2008-04-24 11:07:48
+title: "Petit "héron robuste" qui s'envole ..."
 tags:
-- Gentoo
-- kubuntu
-- sabayon
+ - gentoo
+ - kubuntu
+ - sabayon
+
 ---
 
 Je suis en pleine phase de tests de systèmes 64bits, comme toutes mes machines le sont matériellement parlant, je me suis mis en tête d'installer un système 64bits, pour voir ^^.

@@ -1,20 +1,16 @@
 ---
-date: '2008-09-05 08:04:17'
 layout: post
-slug: premiers-bugs-chromes
-status: publish
-title: Premiers bugs chromés
-wordpress_id: '301'
-categories:
-- Sécurité
+date: 2008-09-05 08:04:17
+title: "Premiers bugs chromés"
 tags:
-- Buffer overflow
-- chrome
-- Crash
-- google
-- milw0rm
-- PoC
-- SEH
+ - buffer overflow
+ - chrome
+ - crash
+ - google
+ - milw0rm
+ - poc
+ - seh
+
 ---
 
 Avec la sortie du "nouveau" navigateur de Google qui plus est OpenSource, on voit apparaitre les premiers bugs et [PoC (Proof of Concept)](http://fr.wikipedia.org/wiki/Proof_of_concept).

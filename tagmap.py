@@ -71,10 +71,10 @@ for _file in matches:
 
     collection[_file] = section
 
-f_collection = codecs.open("posts.json",'w','utf-8-sig')
-f_collection.write(json.dumps(collection, sort_keys=True, indent=2, separators=(',', ': ')).decode('utf-8'))
+f_collection = codecs.open("posts.json",'w','utf-8')
+f_collection.write(json.dumps(collection, ensure_ascii=False))
 f_collection.close()
 
-f_tag_map = codecs.open("tag_map.json",'w','utf-8-sig')
-f_tag_map.write(json.dumps(tag_map, sort_keys=True, indent=2, separators=(',', ': ')))
+f_tag_map = codecs.open("tag_map.json",'w','utf-8')
+f_tag_map.write(json.dumps(tag_map, ensure_ascii=False))
 f_tag_map.close()

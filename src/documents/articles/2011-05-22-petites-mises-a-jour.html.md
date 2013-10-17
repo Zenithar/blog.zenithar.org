@@ -1,15 +1,11 @@
 ---
-date: '2011-05-22 13:37:38'
 layout: post
-slug: petites-mises-a-jour
-status: publish
-title: 'Petites mises à jour '
-wordpress_id: '800'
-categories:
-- Cuisine
+date: 2011-05-22 13:37:38
+title: "Petites mises à jour "
 tags:
-- CV
-- Wordle
+ - cv
+ - wordle
+
 ---
 
   * Mise à jour du CV

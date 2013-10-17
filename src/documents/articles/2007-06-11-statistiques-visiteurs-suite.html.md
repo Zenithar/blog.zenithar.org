@@ -1,14 +1,10 @@
 ---
-date: '2007-06-11 17:11:00'
 layout: post
-slug: statistiques-visiteurs-suite
-status: publish
-title: Statistiques visiteurs (suite)
-wordpress_id: '128'
-categories:
-- General
+date: 2007-06-11 17:11:00
+title: "Statistiques visiteurs (suite)"
 tags:
-- Ervin
+ - ervin
+
 ---
 
 ![visiteurs2.jpg](/public/images/visiteurs2.jpg)  

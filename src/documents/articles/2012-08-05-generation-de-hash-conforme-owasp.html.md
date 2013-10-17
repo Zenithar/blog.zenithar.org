@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Génération de Hash conforme OWASP"
 date: 2012-08-05 21:05
-comments: true
-categories: 
- - Logiciels
+title: "Génération de Hash conforme OWASP"
 tags:
- - CoffeeScript
- - OWASP
-  
+ - coffeescript
+ - owasp
+
 ---
 
 Voici un module conforme aux conseils [OWASP](https://www.owasp.org/index.php/Hashing_Java) sur le hashage des mots de passe. Il s'agit d'un module (CommonJS) codé en CoffeeScript.

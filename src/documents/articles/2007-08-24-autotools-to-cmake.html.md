@@ -1,16 +1,12 @@
 ---
-date: '2007-08-24 17:14:14'
 layout: post
-slug: autotools-to-cmake
-status: publish
-title: Autotools to CMake
-wordpress_id: '149'
-categories:
-- KDE
+date: 2007-08-24 17:14:14
+title: "Autotools to CMake"
 tags:
-- Autotools
-- CMake
-- KDE
+ - autotools
+ - cmake
+ - kde
+
 ---
 
 I’ve made some changes and bug fixes in “[gencmake](http://websvn.kde.org/trunk/KDE/kdesdk/cmake/scripts/gencmake?view=log)” & “[am2cmake](http://websvn.kde.org/trunk/KDE/kdesdk/cmake/scripts/am2cmake?view=log)” script, to convert automake files that use static libraries ‘.la’, and some code clean up.

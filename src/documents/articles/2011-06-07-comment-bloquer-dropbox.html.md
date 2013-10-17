@@ -1,15 +1,11 @@
 ---
-date: '2011-06-07 20:56:15'
 layout: post
-slug: comment-bloquer-dropbox
-status: publish
-title: Comment bloquer DropBox ?
-wordpress_id: '818'
-categories:
-- Sécurité
+date: 2011-06-07 20:56:15
+title: "Comment bloquer DropBox ?"
 tags:
-- dropbox
-- Firewall
+ - dropbox
+ - firewall
+
 ---
 
 Aujourd'hui de nombreuses solutions de stockage sur le "cloud", sont disponibles cependant elles provoquent des problèmes de sécurité liés au fait qu'il passe les firewalls au travers du port HTTPS (443/TCP).

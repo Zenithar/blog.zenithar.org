@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "De Octopress vers DocPad"
 date: 2013-01-03 16:51
-comments: true
+title: "De Octopress vers DocPad"
 description: "La migration d'Octopress vers DocPad, une histoire de temps !"
 tags:
- - Octopress
- - DocPad
- - Migration
- - Markdown
+ - octopress
+ - docpad
+ - migration
+ - markdown
+
 ---
 
 Il y a quelques temps, j'ai fait la migration de [Worpress vers Octopress](/articles/2012-02-18-bye-bye-wordpress.html), cependant je n'étais pas vraiment satisfait. 

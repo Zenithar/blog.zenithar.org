@@ -1,15 +1,11 @@
 ---
-date: '2007-04-17 11:48:00'
 layout: post
-slug: 2eme-semaine-de-stage
-status: publish
-title: 2eme semaine de stage ...
-wordpress_id: '113'
-categories:
-- General
+date: 2007-04-17 11:48:00
+title: "2eme semaine de stage ..."
 tags:
-- OpenCube
-- Stage
+ - opencube
+ - stage
+
 ---
 
 Voila ma 2eme semaine de stage se termine, ono programme :

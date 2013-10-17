@@ -1,17 +1,13 @@
 ---
-date: '2007-12-02 15:44:45'
 layout: post
-slug: ror-tutoriel-1-installation
-status: publish
-title: 'RoR - Tutoriel 1 : Installation'
-wordpress_id: '182'
-categories:
-- Tutoriels
+date: 2007-12-02 15:44:45
+title: "RoR - Tutoriel 1 : Installation"
 tags:
-- Kuisine
-- Rails
-- RoR
-- Ruby
+ - kuisine
+ - rails
+ - ror
+ - ruby
+
 ---
 
 Ce tutoriel traite de la mise en place d'un serveur d'application Ruby on Rails. Nous allons écrire un logiciel de gestion de recettes de cuisine (Kuisine ^^) mais en ruby avec RoR, au menu :

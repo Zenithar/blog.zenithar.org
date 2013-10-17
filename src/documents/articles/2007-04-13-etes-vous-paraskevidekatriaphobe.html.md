@@ -1,15 +1,11 @@
 ---
-date: '2007-04-13 11:08:00'
 layout: post
-slug: etes-vous-paraskevidekatriaphobe
-status: publish
-title: Etes vous Paraskevidékatriaphobe ???
-wordpress_id: '112'
-categories:
-- General
+date: 2007-04-13 11:08:00
+title: "Etes vous Paraskevidékatriaphobe ???"
 tags:
-- paraskevidékatriaphobie
-- triskaidékaphobie
+ - paraskevidekatriaphobie
+ - triskaidekaphobie
+
 ---
 
 Mais qu'est ce que ça veut dire ce mot barbare  et bien c'est simple :

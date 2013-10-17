@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Bye bye Wordpress"
 date: 2012-02-18 15:18
-categories:
-- Logiciel 
+title: "Bye bye Wordpress"
 tags:
-- Wordpress
-- Octopress
-- migration
+ - wordpress
+ - octopress
+ - migration
+
 ---
 
 

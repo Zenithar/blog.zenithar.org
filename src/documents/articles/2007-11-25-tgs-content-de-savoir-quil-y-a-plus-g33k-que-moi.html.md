@@ -1,17 +1,13 @@
 ---
-date: '2007-11-25 00:52:23'
 layout: post
-slug: tgs-content-de-savoir-quil-y-a-plus-g33k-que-moi
-status: publish
-title: TGS - Content de savoir qu'il y a plus G33k que moi !
-wordpress_id: '180'
-categories:
-- General
+date: 2007-11-25 00:52:23
+title: "TGS - Content de savoir qu'il y a plus G33k que moi !"
 tags:
-- G33k
-- TGS
-- Toulouse
-- Wii
+ - g33k
+ - tgs
+ - toulouse
+ - wii
+
 ---
 
 De retour du TGS (Toulouse Game Show) à ne pas confondre avec le Tokyo Game Show, qui est d'après mes sources 15 fois plus grand en surface ! Au programme, jeux vidéos (Guitar hero, Mario Galaxy, Wii sport, etc ...), mangas (Naruto, Bleach, ...), du cosplay (Personnage matérialisé par des déguisements), du Japan Art, enfin plein de souvenirs.

@@ -1,17 +1,13 @@
 ---
-date: '2008-08-05 22:49:31'
 layout: post
-slug: dan-kaminsky-metasploit-evilgrade-duuuuuuuuude
-status: publish
-title: Dan Kaminsky exploit + Metasploit + Evilgrade = Duuuuuuuuude
-wordpress_id: '273'
-categories:
-- Sécurité
+date: 2008-08-05 22:49:31
+title: "Dan Kaminsky exploit + Metasploit + Evilgrade = Duuuuuuuuude"
 tags:
-- DNS
-- evilgrade
-- kaminsky
-- metasploit
+ - dns
+ - evilgrade
+ - kaminsky
+ - metasploit
+
 ---
 
 Je ne sais pas si vous êtes au courant mais une vulnérabilité a été découverte par [Dan Kaminsky](http://www.doxpara.com/) sur les implémentations des serveurs DNS, permettant à un petit malin de faire du DNS-Poisoning (corrompre des entrées d'un serveur DNS, pour faire pointer par ex : static.zenithar.org sur une autre ip ...), vous allez me dire normal si je suis admin de mon serveur DNS, cependant pas si normal puisque la vulnérabilité est rendu très facilement exploitable en utilisant l'excellent [Metasploit](http://www.metasploit.com/) (c'est comme les sushis j'adore ! Écrit en ruby on rails depuis la version 3 ;-))

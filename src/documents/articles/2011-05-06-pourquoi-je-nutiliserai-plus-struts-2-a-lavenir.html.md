@@ -1,17 +1,13 @@
 ---
-date: '2011-05-06 18:21:44'
 layout: post
-slug: pourquoi-je-nutiliserai-plus-struts-2-a-lavenir
-status: publish
-title: Pourquoi je n'utiliserai plus Struts 2 à l'avenir ...
-wordpress_id: '769'
-categories:
-- Développement
+date: 2011-05-06 18:21:44
+title: "Pourquoi je n'utiliserai plus Struts 2 à l'avenir ..."
 tags:
-- apache
-- Java
-- mvc
-- Struts2
+ - apache
+ - java
+ - mvc
+ - struts2
+
 ---
 
 [![The cake is a lie !](http://static.zenithar.org/wp-content/uploads/2011/05/images.jpeg)](http://static.zenithar.org/wp-content/uploads/2011/05/images.jpeg)

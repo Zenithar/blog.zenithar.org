@@ -1,17 +1,13 @@
 ---
-date: '2007-10-17 22:45:01'
 layout: post
-slug: openid-la-nouvelle-technologie-dauthentification
-status: publish
-title: OpenID, la nouvelle technologie d'authentification
-wordpress_id: '175'
-categories:
-- General
+date: 2007-10-17 22:45:01
+title: "OpenID, la nouvelle technologie d'authentification"
 tags:
-- Authentification
-- OpenID
-- Sécurité
-- SSO
+ - authentification
+ - openid
+ - securite
+ - sso
+
 ---
 
 

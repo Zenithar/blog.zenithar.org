@@ -1,17 +1,13 @@
 ---
-date: '2007-08-29 15:37:32'
 layout: post
-slug: vtiger-module-project
-status: publish
-title: 'vTiger : Module Project'
-wordpress_id: '150'
-categories:
-- Logiciels
+date: 2007-08-29 15:37:32
+title: "vTiger : Module Project"
 tags:
-- CRM
-- ERP
-- php
-- vTiger
+ - crm
+ - erp
+ - php
+ - vtiger
+
 ---
 
 During my training period i had to install [vTigerCRM](http://www.vtiger.com) with Project management module, but it's not compatible with PHP 5.2.X, so i made a patch ^^

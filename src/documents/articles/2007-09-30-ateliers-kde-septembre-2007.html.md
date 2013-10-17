@@ -1,16 +1,12 @@
 ---
-date: '2007-09-30 13:20:40'
 layout: post
-slug: ateliers-kde-septembre-2007
-status: publish
-title: Ateliers KDE - Septembre 2007
-wordpress_id: '170'
-categories:
-- Toulibre
+date: 2007-09-30 13:20:40
+title: "Ateliers KDE - Septembre 2007"
 tags:
-- KDE
-- KHS
-- Toulouse
+ - kde
+ - khs
+ - toulouse
+
 ---
 
 

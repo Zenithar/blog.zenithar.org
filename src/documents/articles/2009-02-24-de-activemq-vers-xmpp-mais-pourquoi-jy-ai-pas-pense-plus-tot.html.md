@@ -1,20 +1,15 @@
 ---
-date: '2009-02-24 00:27:40'
 layout: post
-slug: de-activemq-vers-xmpp-mais-pourquoi-jy-ai-pas-pense-plus-tot
-status: publish
-title: 'De ActiveMQ vers XMPP : mais pourquoi j''y ai pas pensé plus tôt ?'
-wordpress_id: '414'
-categories:
-- Développement
-- Logiciels
+date: 2009-02-24 00:27:40
+title: "De ActiveMQ vers XMPP : mais pourquoi j'y ai pas pensé plus tôt ?"
 tags:
-- activemq
-- apache
-- ebml
-- message
-- queue
-- XMPP
+ - activemq
+ - apache
+ - ebml
+ - message
+ - queue
+ - xmpp
+
 ---
 
 ![xmpp](http://static.zenithar.org/wp-content/uploads/2009/02/xmpp.png)

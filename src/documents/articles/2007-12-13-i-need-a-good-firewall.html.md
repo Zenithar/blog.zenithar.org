@@ -1,16 +1,12 @@
 ---
-date: '2007-12-13 14:18:05'
 layout: post
-slug: i-need-a-good-firewall
-status: publish
-title: I need a good Firewall !
-wordpress_id: '185'
-categories:
-- Logiciels
+date: 2007-12-13 14:18:05
+title: "I need a good Firewall !"
 tags:
-- Firewall
-- G33k
-- Windows
+ - firewall
+ - g33k
+ - windows
+
 ---
 
 

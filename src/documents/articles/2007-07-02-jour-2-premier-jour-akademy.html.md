@@ -1,16 +1,12 @@
 ---
-date: '2007-07-02 14:02:00'
 layout: post
-slug: jour-2-premier-jour-akademy
-status: publish
-title: 'Jour 2 : Premier jour aKademy'
-wordpress_id: '132'
-categories:
-- KDE
+date: 2007-07-02 14:02:00
+title: "Jour 2 : Premier jour aKademy"
 tags:
-- aKademy
-- Glasgow
-- KDE
+ - akademy
+ - glasgow
+ - kde
+
 ---
 
 Premier jour à la aKademy, découverte de l'université de StrathClyde. Je suis allé au conférence KDE, Trolltech, Mandriva, M.Ubuntu ^^. Journée très intéressante, et riche en rencontres lol, on a rencontré M.Commit Challenger (Laurent Montel), tu m'excuseras Laurent mais si je savais pas que c'était toi, je l'aurais jamais deviné ^^

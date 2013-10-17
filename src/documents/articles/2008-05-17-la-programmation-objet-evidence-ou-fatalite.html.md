@@ -1,14 +1,10 @@
 ---
-date: '2008-05-17 00:40:16'
 layout: post
-slug: la-programmation-objet-evidence-ou-fatalite
-status: publish
-title: 'La programmation objet : évidence ou fatalité ....'
-wordpress_id: '211'
-categories:
-- General
+date: 2008-05-17 00:40:16
+title: "La programmation objet : évidence ou fatalité ...."
 tags:
-- G33k
+ - g33k
+
 ---
 
 Comment avoir de l'objet en ANSI-C ?

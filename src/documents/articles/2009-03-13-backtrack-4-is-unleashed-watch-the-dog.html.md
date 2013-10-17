@@ -1,21 +1,16 @@
 ---
-date: '2009-03-13 13:43:24'
 layout: post
-slug: backtrack-4-is-unleashed-watch-the-dog
-status: publish
-title: BackTrack 4 is unleashed ! Watch the dog !
-wordpress_id: '423'
-categories:
-- Logiciels
-- Sécurité
+date: 2009-03-13 13:43:24
+title: "BackTrack 4 is unleashed ! Watch the dog !"
 tags:
-- Audit
-- backtrack
-- G33k
-- Linux
-- LiveCD
-- Sécurité
-- Slax
+ - audit
+ - backtrack
+ - g33k
+ - linux
+ - livecd
+ - securite
+ - slax
+
 ---
 
 Halte aux [paraskevidékatriaphobe](http://static.zenithar.org/2007/04/13/etes-vous-paraskevidekatriaphobe/) ! Savez vous que BackTrack 4 est sortie ? Sinon je vous l'annonce !

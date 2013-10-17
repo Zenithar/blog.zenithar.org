@@ -1,17 +1,13 @@
 ---
-date: '2008-01-27 15:50:00'
 layout: post
-slug: acts-as-metamodel
-status: publish
-title: Acts as metamodel
-wordpress_id: '194'
-categories:
-- Rails
+date: 2008-01-27 15:50:00
+title: "Acts as metamodel"
 tags:
-- metamodel
-- plugins
-- Rails
-- Ruby
+ - metamodel
+ - plugins
+ - rails
+ - ruby
+
 ---
 
 

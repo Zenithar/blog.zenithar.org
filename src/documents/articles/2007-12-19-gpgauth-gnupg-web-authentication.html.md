@@ -1,16 +1,12 @@
 ---
-date: '2007-12-19 11:26:55'
 layout: post
-slug: gpgauth-gnupg-web-authentication
-status: publish
-title: gpgAuth - GnuPG Web Authentication
-wordpress_id: '188'
-categories:
-- KDE
+date: 2007-12-19 11:26:55
+title: "gpgAuth - GnuPG Web Authentication"
 tags:
-- Authentification
-- GPG
-- Sécurité
+ - authentification
+ - gpg
+ - securite
+
 ---
 
 
