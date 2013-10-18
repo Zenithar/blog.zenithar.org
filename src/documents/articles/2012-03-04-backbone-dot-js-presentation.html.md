@@ -9,8 +9,6 @@ tags:
 
 ---
 
-## Introduction
- 
 Cet article s'adresse aux personnes désirants découvrir ou redécouvrir, l'utilité et l'utilisation de [Backbone.JS](http://documentcloud.github.com/backbone/) au sein d'une application Web Javascript. En effet [Backbone.JS](http://documentcloud.github.com/backbone/) s'inscrit dans les technologies Javascript clientes (puisqu'il existe aussi un coté serveur via [Node.js](http://nodejs.org)).
  
 ## Les concepts
