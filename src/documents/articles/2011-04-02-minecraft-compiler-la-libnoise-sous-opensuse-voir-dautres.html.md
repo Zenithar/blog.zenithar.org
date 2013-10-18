@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2011-04-02 20:11:49
-title: MineCraft : Compiler la libnoise sous OpenSuSE, voir d'autres ...
+date: "2011-04-02 20:11:49"
+title: "MineCraft : Compiler la libnoise sous OpenSuSE, voir d'autres ..."
 tags:
  - cmake
  - g33k

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-12-06 23:03:09
+date: "2007-12-06 23:03:09"
 title: 7 Strikes Wiiiiiiiiiiiiiiiiiiiiii
 tags:
  - bowling

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2005-08-14 23:26:58
-title: HermS sous linux c'est possible !
+date: "2005-08-14 23:26:58"
+title: "HermS sous linux c'est possible !"
 tags:
  - herms
  - linux

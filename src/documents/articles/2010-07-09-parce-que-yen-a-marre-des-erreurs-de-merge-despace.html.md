@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-07-09 15:24:38
+date: "2010-07-09 15:24:38"
 title: Parce que y'en a marre des erreurs de merge d'espace !
 tags:
  - astyle

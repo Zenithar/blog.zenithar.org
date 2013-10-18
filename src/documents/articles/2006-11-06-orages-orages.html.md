@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-11-06 12:55:50
+date: "2006-11-06 12:55:50"
 title: Orages, orages, ....
 tags:
  - crash

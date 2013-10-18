@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-05-06 01:20:40
+date: "2008-05-06 01:20:40"
 title: Bientot la fin d'une époque.
 tags:
  - cv

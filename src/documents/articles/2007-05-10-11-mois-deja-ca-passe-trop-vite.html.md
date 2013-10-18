@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-05-10 00:01:00
+date: "2007-05-10 00:01:00"
 title: 11 Mois, déja ... ça passe trop vite !
 tags:
  - emi

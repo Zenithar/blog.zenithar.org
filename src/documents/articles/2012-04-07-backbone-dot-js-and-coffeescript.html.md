@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-04-07 03:47
+date: "2012-04-07 03:47"
 title: Backbone.js & CoffeeScript
 tags:
  - backbone.js

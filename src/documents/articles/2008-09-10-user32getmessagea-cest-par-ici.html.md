@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-09-10 20:29:43
+date: "2008-09-10 20:29:43"
 title: User32::GetMessageA, c'est par ici !
 tags:
  - dll

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2008-02-11 14:54:05
-title: Cinéma : Cloverfield
+date: "2008-02-11 14:54:05"
+title: "Cinéma : Cloverfield"
 tags:
  - blairwitch
  - cloverfield

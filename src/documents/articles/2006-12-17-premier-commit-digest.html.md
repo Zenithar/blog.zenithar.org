@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-12-17 20:57:59
+date: "2006-12-17 20:57:59"
 title: Premier commit-digest ^^
 tags:
  - iup

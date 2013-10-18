@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-10-09 19:00:39
+date: "2009-10-09 19:00:39"
 title: Une année en compagnie de sympatiques amis
 tags:
  - amis

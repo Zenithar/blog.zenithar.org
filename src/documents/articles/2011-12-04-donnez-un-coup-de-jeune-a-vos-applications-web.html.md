@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-12-04 12:52:38
+date: "2011-12-04 12:52:38"
 title: Donnez un coup de jeune à vos applications Web !
 tags:
  - mvc

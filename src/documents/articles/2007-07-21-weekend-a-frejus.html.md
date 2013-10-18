@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-07-21 13:32:14
+date: "2007-07-21 13:32:14"
 title: Weekend à Fréjus
 tags:
  - emi

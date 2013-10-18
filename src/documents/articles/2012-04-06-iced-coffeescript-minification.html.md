@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-04-06 18:34
+date: "2012-04-06 18:34"
 title: "[Iced]CoffeeScript minification"
 tags:
  - coffeescript

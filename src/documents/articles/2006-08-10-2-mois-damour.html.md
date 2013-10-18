@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-08-10 11:58:02
+date: "2006-08-10 11:58:02"
 title: 2 mois d'Amour.
 tags:
  - crash

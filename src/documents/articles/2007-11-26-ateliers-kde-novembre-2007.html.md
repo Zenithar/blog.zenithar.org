@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-11-26 00:44:43
+date: "2007-11-26 00:44:43"
 title: Ateliers KDE - Novembre 2007
 tags:
  - atelier

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-18 13:20:57
+date: "2005-08-18 13:20:57"
 title: Sympa LDLC ......
 tags:
  - crash

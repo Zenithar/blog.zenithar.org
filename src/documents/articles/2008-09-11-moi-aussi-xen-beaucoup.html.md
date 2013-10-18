@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-09-11 12:22:27
+date: "2008-09-11 12:22:27"
 title: Moi aussi xen beaucoup ...
 tags:
  - centos

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-28 23:28:56
+date: "2005-08-28 23:28:56"
 title: Home - Ciphire Labs
 tags:
  - email

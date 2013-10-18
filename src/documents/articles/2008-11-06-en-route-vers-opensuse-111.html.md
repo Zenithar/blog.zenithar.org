@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-11-06 23:57:18
+date: "2008-11-06 23:57:18"
 title: En route vers OpenSUSE 11.1
 tags:
  - countdown

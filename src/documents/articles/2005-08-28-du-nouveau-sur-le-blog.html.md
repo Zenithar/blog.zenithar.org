@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-28 16:51:25
+date: "2005-08-28 16:51:25"
 title: Du nouveau sur le blog ....
 tags:
  - blog

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-04-15 11:33:47
+date: "2010-04-15 11:33:47"
 title: Désolé mon blog, je t'ai laissé à l'abandon...
 tags:
  - life

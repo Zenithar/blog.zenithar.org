@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-06-10 11:33:57
+date: "2006-06-10 11:33:57"
 title: Fini la vie de célibataire ^^
 tags:
  - emi

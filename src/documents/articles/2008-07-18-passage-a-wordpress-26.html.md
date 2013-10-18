@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-07-18 13:16:38
+date: "2008-07-18 13:16:38"
 title: Passage à Wordpress 2.6
 tags:
  - g33k

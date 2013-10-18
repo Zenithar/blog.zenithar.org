@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-05-25 23:42:00
+date: "2007-05-25 23:42:00"
 title: M1 ISI Yesturday, tomorrow you know  ?
 tags:
  - iup

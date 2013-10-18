@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-05-21 19:18:10
+date: "2011-05-21 19:18:10"
 title: ZeroMQ, ça roxe du poney !
 tags:
  - 0mq

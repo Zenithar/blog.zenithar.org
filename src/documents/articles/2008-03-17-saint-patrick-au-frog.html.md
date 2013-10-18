@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-03-17 23:26:52
+date: "2008-03-17 23:26:52"
 title: Saint Patrick au Frog !
 tags:
  - frog

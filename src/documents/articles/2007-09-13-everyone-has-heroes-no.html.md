@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-09-13 15:15:31
+date: "2007-09-13 15:15:31"
 title: Everyone has heroes no ?
 tags:
  - g33k

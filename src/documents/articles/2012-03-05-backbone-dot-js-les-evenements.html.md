@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-03-05 19:54
+date: "2012-03-05 19:54"
 title: Backbone.js - Les évènements
 tags:
  - backbone.js

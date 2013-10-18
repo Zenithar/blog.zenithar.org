@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-08-30 22:47:26
+date: "2008-08-30 22:47:26"
 title: Ubiquity, Enso pour Firefox
 tags:
  - enso

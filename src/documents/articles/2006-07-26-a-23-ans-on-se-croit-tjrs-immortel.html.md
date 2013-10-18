@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-07-26 10:30:15
+date: "2006-07-26 10:30:15"
 title: A 23 ans, on se croit tjrs immortel ...
 tags:
  - crash

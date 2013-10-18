@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-09-05 12:42:22
+date: "2005-09-05 12:42:22"
 title: Et voial ma licence ASR est erminée.
 tags:
  - asr

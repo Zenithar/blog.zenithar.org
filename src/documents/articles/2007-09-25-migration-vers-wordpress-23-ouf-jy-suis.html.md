@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-09-25 19:12:40
+date: "2007-09-25 19:12:40"
 title: Migration vers wordpress 2.3, ouf j'y suis !
 tags:
  - wordpress

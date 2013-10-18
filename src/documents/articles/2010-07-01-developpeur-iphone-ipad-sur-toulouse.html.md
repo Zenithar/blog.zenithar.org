@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-07-01 20:23:55
+date: "2010-07-01 20:23:55"
 title: Développeur iPhone / iPad sur Toulouse ? 
 tags:
  - ipad

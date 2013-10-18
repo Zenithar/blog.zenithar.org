@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-02-13 22:13:43
+date: "2008-02-13 22:13:43"
 title: Encore mieux que Katapult ! Oui ça existe !
 tags:
  - enso

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-03-19 21:28:28
+date: "2011-03-19 21:28:28"
 title: Acceleo 3.0 et les attributs de classe UML.
 tags:
  - acceleo

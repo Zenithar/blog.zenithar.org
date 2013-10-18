@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-03-11 23:54:00
+date: "2007-03-11 23:54:00"
 title: Stage Fin Master 1
 tags:
  - master

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-11-25 00:52:23
+date: "2007-11-25 00:52:23"
 title: TGS - Content de savoir qu'il y a plus G33k que moi !
 tags:
  - g33k

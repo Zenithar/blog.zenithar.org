@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-10-03 08:09:41
+date: "2005-10-03 08:09:41"
 title: Toujours pas Internet ....
 tags:
  - crous

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-03-13 13:43:24
+date: "2009-03-13 13:43:24"
 title: BackTrack 4 is unleashed ! Watch the dog !
 tags:
  - audit

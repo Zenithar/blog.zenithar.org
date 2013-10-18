@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-09-11 22:40:38
+date: "2007-09-11 22:40:38"
 title: Petite randonnée en Andorre.
 tags:
  - andorre

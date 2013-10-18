@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-19 21:31:06
+date: "2005-08-19 21:31:06"
 title: Et voici le certificat ....
 tags:
  - certification

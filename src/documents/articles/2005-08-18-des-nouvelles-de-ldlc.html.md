@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-18 13:14:27
+date: "2005-08-18 13:14:27"
 title: Des nouvelles de LDLC .....
 tags:
  - crash

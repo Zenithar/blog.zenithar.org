@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-09-30 13:20:40
+date: "2007-09-30 13:20:40"
 title: Ateliers KDE - Septembre 2007
 tags:
  - kde

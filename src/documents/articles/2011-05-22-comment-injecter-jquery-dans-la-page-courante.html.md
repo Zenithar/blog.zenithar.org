@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-05-22 21:56:32
+date: "2011-05-22 21:56:32"
 title: Comment injecter jQuery dans la page courante ?
 tags:
  - bookmarklet

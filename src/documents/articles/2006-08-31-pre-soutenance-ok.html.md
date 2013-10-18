@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-08-31 11:02:55
+date: "2006-08-31 11:02:55"
 title: Pré soutenance OK ^^
 tags:
  - iup

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-04-03 10:31:00
+date: "2007-04-03 10:31:00"
 title: Tellement vrai ...
 tags:
  - stage

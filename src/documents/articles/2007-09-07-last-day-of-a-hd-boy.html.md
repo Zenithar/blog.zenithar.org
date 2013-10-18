@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-09-07 10:51:32
+date: "2007-09-07 10:51:32"
 title: Last day of a HD boy ...
 tags:
  - opencube

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-12-23 23:39:14
+date: "2008-12-23 23:39:14"
 title: Joyeux noël et bonne année 2009 !
 tags:
  - noel

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-04-13 11:08:00
+date: "2007-04-13 11:08:00"
 title: Etes vous Paraskevidékatriaphobe ???
 tags:
  - paraskevidekatriaphobie

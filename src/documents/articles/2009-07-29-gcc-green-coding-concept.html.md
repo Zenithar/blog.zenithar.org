@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-07-29 09:05:52
+date: "2009-07-29 09:05:52"
 title: gCC - green Coding Concept
 tags:
  - coding

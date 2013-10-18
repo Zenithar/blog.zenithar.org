@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2007-05-09 17:27:00
-title: Objecteering : Modeleur UML basé sur MDA.
+date: "2007-05-09 17:27:00"
+title: "Objecteering : Modeleur UML basé sur MDA."
 tags:
  - linux
  - uml

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-21 20:59:34
+date: "2005-08-21 20:59:34"
 title: J'ai tjrs pas mes cartes ....
 tags:
  - crash

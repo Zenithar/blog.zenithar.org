@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-13 10:45:33
+date: "2005-08-13 10:45:33"
 title: Et le rapport traîne ......
 tags:
  - asr

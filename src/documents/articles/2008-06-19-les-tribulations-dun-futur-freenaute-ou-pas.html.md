@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-06-19 10:00:40
+date: "2008-06-19 10:00:40"
 title: Les tribulations d'un futur freenaute (ou pas!)
 tags:
  - crash

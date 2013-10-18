@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-10-15 22:47:06
+date: "2006-10-15 22:47:06"
 title: Graine d'artistes ces deux là si si !
 tags:
  - amis

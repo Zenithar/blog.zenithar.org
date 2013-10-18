@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-08-21 16:41:04
+date: "2007-08-21 16:41:04"
 title: Un peu d'inutile, mais tellement beau !
 tags:
  - beryl

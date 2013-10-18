@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2008-08-05 22:36:33
-title: Katan : Colons de catane, modélisation.
+date: "2008-08-05 22:36:33"
+title: "Katan : Colons de catane, modélisation."
 tags:
  - catane
  - colons

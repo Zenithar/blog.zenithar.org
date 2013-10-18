@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-04-26 16:30:00
+date: "2007-04-26 16:30:00"
 title: Hmm ça commence à devenir intéressant ...
 tags:
  - arte

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-11-15 09:15:15
+date: "2006-11-15 09:15:15"
 title: Je me fais chier alors j'écris ...
 tags:
  - emi

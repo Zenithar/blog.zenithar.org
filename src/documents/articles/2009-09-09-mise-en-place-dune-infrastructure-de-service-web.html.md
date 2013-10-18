@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2009-09-09 19:25:16
+date: "2009-09-09 19:25:16"
 title: Mise en place d'une infrastructure de service Web
 tags:
  - apache

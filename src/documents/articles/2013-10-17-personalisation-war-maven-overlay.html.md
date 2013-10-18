@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-10-17 10:10
+date: "2013-10-17 10:10"
 title: Personnalisez vos WAR avec un overlay Maven
 description: "Toujours le même problème, une application packagée WAR, mais plusieurs clients avec des thèmes différents par client."
 shorturl: http://goo.gl/9YmuXt
@@ -43,7 +43,7 @@ $ mvn install:install-file \
 
 # Création de l'overlay
 
-Un overlay maven est un projet Maven de même type que l'artefact qu'il surcharge. Ici nous souhaitons surchargé une application web.
+Un overlay maven est un projet Maven de même type que l'artefact qu'il surcharge. Ici nous souhaitons surcharger une application web.
 
 Nous allons utiliser l'archetype Maven `webapp` pour créer un nouveau projet :
 
@@ -72,13 +72,13 @@ Il suffit à présent d'éditer le fichier `pom.xml` du projet pour ajouter le W
 
 Cette opération va ajouter le WAR de base comme dépendance Maven. Cela crééra un répertoire automatiquement `overlays` contenant le WAR de base décompressé.
 
-Pour effectuer les personnalisations, il suffit de copier le fichier à partir du WAR de base, vers le WAR personnalisé.
+Pour effectuer les personnalisations, il suffit de copier le fichier à partir du WAR de base (dans le dossier overlays), vers le WAR personnalisé (src/main/webapp). 
 
 [warning]Attention à bien respecter les répertoires : la source et la destination doivent être identiques.[/warning]
 
 # Conclusion
 
-Avec ette méthode il est tout à fait possible d'automatiser la génération des applications personnalisées en utilisant un outil d'intégration continue comme Jenkins ou Travis. Cette opération facilite grandement la personnalisation de l'application POUR le client, mais aussi PAR le client (face à des équipes d'intégration).
+Avec cette méthode il est tout à fait possible d'automatiser la génération des applications personnalisées en utilisant un outil d'intégration continue comme Jenkins ou Travis. Cette opération facilite grandement la personnalisation de l'application POUR le client, mais aussi PAR le client (face à des équipes d'intégration).
 
 L'aspect monolithique du WAR possède des avantages (tout en un, etc.) mais aussi des inconvénients (tout en un ...), ce modèle commence à disparaitre au profit d'un modèle éclaté séparant les IHM Web, du backend de traitement en utilisant des web services REST pour la communication entre les deux. 
 

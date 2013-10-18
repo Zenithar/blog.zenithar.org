@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-10-19 12:56:24
+date: "2005-10-19 12:56:24"
 title: Tjrs pas Internet ....
 tags:
  - crous

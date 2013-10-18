@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-03-26 13:06:08
+date: "2011-03-26 13:06:08"
 title: Plus de Firefox, Chrome après mise à jour OpenSuSE 11.4 ?
 tags:
  - chrome

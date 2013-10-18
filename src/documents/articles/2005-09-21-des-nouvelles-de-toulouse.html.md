@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-09-21 15:16:05
+date: "2005-09-21 15:16:05"
 title: Des nouvelles de Toulouse ....
 tags:
  - crous

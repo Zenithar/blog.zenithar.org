@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-01-08 22:40:52
+date: "2007-01-08 22:40:52"
 title: Recette des tomates à la provençale.
 tags:
  - cuisine

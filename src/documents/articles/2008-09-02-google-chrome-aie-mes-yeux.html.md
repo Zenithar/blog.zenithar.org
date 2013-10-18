@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2008-09-02 19:32:40
-title: Google Chrome : Aie mes yeux !
+date: "2008-09-02 19:32:40"
+title: "Google Chrome : Aie mes yeux !"
 tags:
  - browser
  - chrome

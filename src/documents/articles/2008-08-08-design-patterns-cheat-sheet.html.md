@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-08-08 14:04:06
+date: "2008-08-08 14:04:06"
 title: Design Patterns Cheat Sheet
 tags:
  - cheat sheet

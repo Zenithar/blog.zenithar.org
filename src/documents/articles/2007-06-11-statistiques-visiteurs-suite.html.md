@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-06-11 17:11:00
+date: "2007-06-11 17:11:00"
 title: Statistiques visiteurs (suite)
 tags:
  - ervin

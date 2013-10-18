@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-07-23 08:52:18
+date: "2008-07-23 08:52:18"
 title: PathInfo vers Url-rewriting
 tags:
  - mod_rewrite

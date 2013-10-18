@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-01-04 23:52:51
+date: "2007-01-04 23:52:51"
 title: De retour à Toulouse, après de loonnnnnnnnnggggggues vacances
 tags:
  - amis

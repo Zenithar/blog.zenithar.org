@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-02-14 00:01:45
+date: "2008-02-14 00:01:45"
 title: Bonne Saint Valentin
 tags:
  - amis

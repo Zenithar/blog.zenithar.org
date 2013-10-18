@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-02-21 18:41:00
+date: "2007-02-21 18:41:00"
 title: Hakin' Session Fevrier
 tags:
  - kde

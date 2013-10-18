@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-11-12 13:04:36
+date: "2008-11-12 13:04:36"
 title: Dis moi ce que tu lis !
 tags:
  - blogchain

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-04-14 17:54:38
+date: "2010-04-14 17:54:38"
 title: Concours VODEO iPad, j'en veux un !
 tags:
  - apple

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-09-05 19:35:44
+date: "2006-09-05 19:35:44"
 title: Je suis en vacances, je suis en vacances, je suis, je suis ....
 tags:
  - moi

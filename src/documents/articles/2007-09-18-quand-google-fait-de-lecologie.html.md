@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-09-18 23:37:50
+date: "2007-09-18 23:37:50"
 title: Quand Google fait de l'écologie ...
 tags:
  - ecologie

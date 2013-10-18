@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-08-06 19:08
+date: "2012-08-06 19:08"
 title: 8 mois avec Backbone.js et ça dure !
 tags:
  - backbone.js

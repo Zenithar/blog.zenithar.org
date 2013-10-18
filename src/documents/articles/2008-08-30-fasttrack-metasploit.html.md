@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-08-30 18:00:49
+date: "2008-08-30 18:00:49"
 title: FastTrack / Metasploit
 tags:
  - backtrack

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-08-18 23:51
+date: "2013-08-18 23:51"
 title: Suivons la mode
 description: "Comme il n'y a que les imbéciles qui ne changent pas, et bien voila un carton de changement pour mon blog."
 tags:

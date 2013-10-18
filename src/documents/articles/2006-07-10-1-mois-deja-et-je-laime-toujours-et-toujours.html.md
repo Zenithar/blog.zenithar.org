@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-07-10 08:13:03
+date: "2006-07-10 08:13:03"
 title: 1 mois déja et je l'aime toujours et toujours ...
 tags:
  - emi

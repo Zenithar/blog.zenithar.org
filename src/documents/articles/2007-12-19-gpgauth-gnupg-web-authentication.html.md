@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-12-19 11:26:55
+date: "2007-12-19 11:26:55"
 title: gpgAuth - GnuPG Web Authentication
 tags:
  - authentification

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-11 18:48:34
+date: "2005-08-11 18:48:34"
 title: Plus de python dans HermS
 tags:
  - herms

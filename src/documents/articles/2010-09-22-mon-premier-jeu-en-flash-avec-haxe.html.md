@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-09-22 21:33:04
+date: "2010-09-22 21:33:04"
 title: Mon premier jeu en Flash avec Haxe
 tags:
  - flash

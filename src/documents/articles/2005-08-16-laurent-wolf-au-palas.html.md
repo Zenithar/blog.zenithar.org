@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-08-16 14:41:23
+date: "2005-08-16 14:41:23"
 title: Laurent Wolf au Palas
 tags:
  - frejus

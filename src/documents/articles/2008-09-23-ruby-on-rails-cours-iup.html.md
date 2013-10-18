@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-09-23 00:23:38
+date: "2008-09-23 00:23:38"
 title: Ruby on Rails - Cours IUP
 tags:
  - beamer

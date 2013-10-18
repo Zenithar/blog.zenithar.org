@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-08-30 10:23:44
+date: "2006-08-30 10:23:44"
 title: Plus qu'un jour, mouahahahahahahah
 tags:
  - iup

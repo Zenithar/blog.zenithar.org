@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-04-20 16:56:00
+date: "2007-04-20 16:56:00"
 title: aKademy 2007, etape 1 passée !!!
 tags:
  - akademy

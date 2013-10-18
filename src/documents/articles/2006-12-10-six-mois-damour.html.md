@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-12-10 00:12:52
+date: "2006-12-10 00:12:52"
 title: Six mois d'Amour.
 tags:
  - emi

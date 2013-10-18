@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2013-01-03 16:51
+date: "2013-01-03 16:51"
 title: De Octopress vers DocPad
 description: "La migration d'Octopress vers DocPad, une histoire de temps !"
 tags:

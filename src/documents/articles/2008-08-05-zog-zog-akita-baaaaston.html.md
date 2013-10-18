@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-08-05 20:59:25
+date: "2008-08-05 20:59:25"
 title: Zog Zog Akita ! Baaaaston !
 tags:
  - brute

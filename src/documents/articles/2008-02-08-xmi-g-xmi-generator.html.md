@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2008-02-08 19:13:26
-title: XMI-G : XMI Generator
+date: "2008-02-08 19:13:26"
+title: "XMI-G : XMI Generator"
 tags:
  - generator
  - plugin

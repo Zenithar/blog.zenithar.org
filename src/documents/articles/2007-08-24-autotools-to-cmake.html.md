@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-08-24 17:14:14
+date: "2007-08-24 17:14:14"
 title: Autotools to CMake
 tags:
  - autotools

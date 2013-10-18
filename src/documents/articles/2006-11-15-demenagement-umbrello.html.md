@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-11-15 09:08:42
+date: "2006-11-15 09:08:42"
 title: Déménagement Umbrello
 tags:
  - kde

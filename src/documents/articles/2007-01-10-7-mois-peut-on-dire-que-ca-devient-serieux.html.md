@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-01-10 23:35:58
+date: "2007-01-10 23:35:58"
 title: 7 mois ... peut on dire que ça devient sérieux ?
 tags:
  - emi

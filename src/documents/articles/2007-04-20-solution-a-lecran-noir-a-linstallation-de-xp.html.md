@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-04-20 16:47:00
+date: "2007-04-20 16:47:00"
 title: Solution à l'ecran noir à l'installation de XP.
 tags:
  - g33k

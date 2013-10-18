@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-02-20 21:10:33
+date: "2008-02-20 21:10:33"
 title: Xul + Rails = Wouaouh
 tags:
  - air

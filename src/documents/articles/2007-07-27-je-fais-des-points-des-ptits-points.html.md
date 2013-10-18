@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-07-27 15:35:21
+date: "2007-07-27 15:35:21"
 title: Je fais des points des ptits points ....
 tags:
  - analytics

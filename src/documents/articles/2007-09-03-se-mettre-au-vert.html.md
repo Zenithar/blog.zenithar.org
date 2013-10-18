@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-09-03 12:57:36
+date: "2007-09-03 12:57:36"
 title: Se mettre au vert ...
 tags:
  - ecran

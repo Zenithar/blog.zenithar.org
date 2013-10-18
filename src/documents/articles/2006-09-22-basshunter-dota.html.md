@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-09-22 23:55:03
+date: "2006-09-22 23:55:03"
 title: Basshunter - DotA
 tags:
  - g33k

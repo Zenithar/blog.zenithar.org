@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2011-04-03 17:58:22
-title: Minecraft : Compiler Mineserver sous Linux/MacOSX
+date: "2011-04-03 17:58:22"
+title: "Minecraft : Compiler Mineserver sous Linux/MacOSX"
 tags:
  - cmake
  - linux

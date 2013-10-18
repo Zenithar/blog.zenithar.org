@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-07-17 15:06:12
+date: "2007-07-17 15:06:12"
 title: Glasgow, aKademy, tout ça c'est fini ! snif !
 tags:
  - akademy

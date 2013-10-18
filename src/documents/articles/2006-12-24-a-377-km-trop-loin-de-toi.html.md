@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-12-24 13:00:55
+date: "2006-12-24 13:00:55"
 title: A 377 Km trop loin de toi ...
 tags:
  - emi

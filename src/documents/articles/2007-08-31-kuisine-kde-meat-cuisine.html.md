@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2007-08-31 15:43:31
-title: Kuisine : KDE "meat" Cuisine
+date: "2007-08-31 15:43:31"
+title: "Kuisine : KDE \"meat\" Cuisine"
 tags:
  - database
  - idea

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-06-28 23:32:00
+date: "2007-06-28 23:32:00"
 title: Demain, premier jour des tribulations d'un fréjusien toulousan, exporté à Glasgow.
 tags:
  - akademy

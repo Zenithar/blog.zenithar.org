@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2005-08-07 11:31:55
-title: Dans la série j'ai pas de bol : 2eme carte 600GT poubelle !
+date: "2005-08-07 11:31:55"
+title: "Dans la série j'ai pas de bol : 2eme carte 600GT poubelle !"
 tags:
  - crash
 

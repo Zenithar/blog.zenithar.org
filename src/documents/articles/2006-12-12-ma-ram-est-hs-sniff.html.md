@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-12-12 09:16:25
+date: "2006-12-12 09:16:25"
 title: Ma ram est HS, sniff ...
 tags:
  - crash

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-10-28 09:42:41
+date: "2008-10-28 09:42:41"
 title: J'ai ma ligne, mais pas de Freebox !
 tags:
  - dg834g

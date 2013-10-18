@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-11-15 17:35:50
+date: "2007-11-15 17:35:50"
 title: Du dévelopement sur des rails !
 tags:
  - rails

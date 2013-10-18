@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-02-04 01:04:00
+date: "2007-02-04 01:04:00"
 title: Migration vers Dotclear 2.0 ...
 tags:
  - dotclear

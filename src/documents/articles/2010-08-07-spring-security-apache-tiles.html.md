@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2010-08-07 18:44:04
+date: "2010-08-07 18:44:04"
 title: Spring Security & Apache Tiles
 tags:
  - bug

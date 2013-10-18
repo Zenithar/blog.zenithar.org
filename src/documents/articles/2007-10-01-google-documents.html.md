@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-10-01 15:53:33
+date: "2007-10-01 15:53:33"
 title: Google Documents
 tags:
  - documents

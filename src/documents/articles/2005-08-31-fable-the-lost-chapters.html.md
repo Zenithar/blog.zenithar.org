@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2005-08-31 12:13:59
-title: Fable: The Lost Chapters
+date: "2005-08-31 12:13:59"
+title: "Fable: The Lost Chapters"
 tags:
  - jeux
 

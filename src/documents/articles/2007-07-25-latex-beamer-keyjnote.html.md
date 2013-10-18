@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-07-25 15:38:29
+date: "2007-07-25 15:38:29"
 title: LaTeX + Beamer + Keyjnote.
 tags:
  - beamer

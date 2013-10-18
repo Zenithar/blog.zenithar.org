@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2005-09-03 17:49:51
+date: "2005-09-03 17:49:51"
 title: Hula Project - Hula
 tags:
  - groupware

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2006-10-10 11:47:34
+date: "2006-10-10 11:47:34"
 title: Joyeux Quadramoissiversaire ^^
 tags:
  - emi

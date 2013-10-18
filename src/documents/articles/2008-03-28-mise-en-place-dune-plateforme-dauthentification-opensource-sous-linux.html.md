@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-03-28 12:18:29
+date: "2008-03-28 12:18:29"
 title: Mise en place d'une plateforme d'authentification sous Linux.
 tags:
  - gentoo

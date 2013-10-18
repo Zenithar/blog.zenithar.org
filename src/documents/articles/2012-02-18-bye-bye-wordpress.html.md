@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-02-18 15:18
+date: "2012-02-18 15:18"
 title: Bye bye Wordpress
 tags:
  - wordpress

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-02-10 00:01:00
+date: "2007-02-10 00:01:00"
 title: 8 Mois de vie commune
 tags:
  - emi

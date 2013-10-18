@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2005-08-29 09:44:53
-title: LDLC : Voila la première carte ....
+date: "2005-08-29 09:44:53"
+title: "LDLC : Voila la première carte ...."
 tags:
  - crash
 

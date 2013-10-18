@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-04-05 10:02:00
+date: "2007-04-05 10:02:00"
 title: Virtualisons ensemble mes amis ...
 tags:
  - geek

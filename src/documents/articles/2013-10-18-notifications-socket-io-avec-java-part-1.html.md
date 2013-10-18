@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2013-10-18 10:06
-title: Notifications temps réels avec Socket.io et Java - Part 1
+date: "2013-10-18 10:06"
+title: Notifications temps réels avec Socket.io et Java - Partie 1
 description: "Beaucoup de technologies temps réels de communication web sont réservés à d'autres technologies que le Java, grâce à Netty ce n'est plus vrai ! (1/2)"
 shorturl: http://goo.gl/9YmuXt
 tags:
@@ -19,7 +19,7 @@ On parle aujourd'hui de plus en plus de communications bi-directionnelles asynch
   * Web Messaging (postMessage)
   * Server Side Events
 
-Java est un monde qui a du mal à évoluer (même si ça change un peu en ce moment : [JSR 356](http://jcp.org/en/jsr/detail?id=356) pour Java EE 7), donc il est souvent difficile d'avoir accès à de tels systèmes lors de leur sortie dans nos environnements Java.
+Java est un monde qui a du mal à évoluer (même si ça change un peu en ce moment : [JSR 356](http://jcp.org/en/jsr/detail?id=356) pour Java EE 7), il est souvent difficile d'avoir accès à de tels systèmes lors de leur sortie dans nos environnements Java.
 
 Il y a quand même quelques projets :
 

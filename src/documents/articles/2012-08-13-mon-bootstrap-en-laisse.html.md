@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2012-08-13 19:19
+date: "2012-08-13 19:19"
 title: Mon bootstrap en laisse !
 tags:
  - bootstrap

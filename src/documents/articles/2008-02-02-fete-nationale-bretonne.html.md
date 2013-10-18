@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2008-02-02 13:17:41
+date: "2008-02-02 13:17:41"
 title: "Fête nationale bretonne"
 tags:
  - bretagne

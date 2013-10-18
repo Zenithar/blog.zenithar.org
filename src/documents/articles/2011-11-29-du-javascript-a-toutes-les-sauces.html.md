@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2011-11-29 20:37:43
+date: "2011-11-29 20:37:43"
 title: Du JavaScript à toutes les Sauces !!! 
 tags:
  - backbone.js

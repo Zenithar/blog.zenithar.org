@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2007-07-02 12:16:00
-title: Jour 1 : L'arrivée à Glasgow
+date: "2007-07-02 12:16:00"
+title: "Jour 1 : L'arrivée à Glasgow"
 tags:
  - akademy
  - glasgow

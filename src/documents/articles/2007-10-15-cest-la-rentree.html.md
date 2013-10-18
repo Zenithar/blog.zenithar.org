@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2007-10-15 15:52:18
+date: "2007-10-15 15:52:18"
 title: C'est la rentrée !
 tags:
  - isi
