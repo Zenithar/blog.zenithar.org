@@ -1,14 +1,10 @@
 ---
-date: '2007-02-14 00:01:00'
 layout: post
-slug: joyeuses-fetes-des-amoureux
-status: publish
-title: Joyeuses fêtes des Amoureux.
-wordpress_id: '97'
-categories:
-- General
+date: "2007-02-14 00:01:00"
+title: "Joyeuses fêtes des Amoureux."
 tags:
-- Emi
+ - emi
+
 ---
 
 Bonne St Valentin à toi ma chérie que j'aime. J'espère que mon cadeau vas te plaire.

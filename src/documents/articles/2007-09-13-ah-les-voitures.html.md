@@ -1,17 +1,13 @@
 ---
-date: '2007-09-13 14:30:21'
 layout: post
-slug: ah-les-voitures
-status: publish
-title: Ah les voitures ...
-wordpress_id: '160'
-categories:
-- General
+date: "2007-09-13 14:30:21"
+title: "Ah les voitures ..."
 tags:
-- clio
-- Crash
-- feux_vert
-- Toulouse
+ - clio
+ - crash
+ - feux_vert
+ - toulouse
+
 ---
 
 Elles sont toujours là quand vous en avez besoin, mais quand elles tombent en panne, elles savent comment vous en faire voir ! Voila 700€de réparation pour un montant initial de 250 €, surprise Feux Vert !

@@ -1,17 +1,13 @@
 ---
-date: '2006-12-17 20:57:59'
 layout: post
-slug: premier-commit-digest
-status: publish
-title: Premier commit-digest ^^
-wordpress_id: '82'
-categories:
-- KDE
+date: "2006-12-17 20:57:59"
+title: "Premier commit-digest ^^"
 tags:
-- IUP
-- KDE
-- Toulouse
-- Umbrello
+ - iup
+ - kde
+ - toulouse
+ - umbrello
+
 ---
 
 ![](/images/60px-KDE_logo.svg.png) Voici le premier commit-digest où le groupe Umbrello/Kplato apparait.

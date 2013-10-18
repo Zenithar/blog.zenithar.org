@@ -1,13 +1,12 @@
 ---
 layout: post
+date: "2012-02-18 15:18"
 title: "Bye bye Wordpress"
-date: 2012-02-18 15:18
-categories:
-- Logiciel 
 tags:
-- Wordpress
-- Octopress
-- migration
+ - wordpress
+ - octopress
+ - migration
+
 ---
 
 

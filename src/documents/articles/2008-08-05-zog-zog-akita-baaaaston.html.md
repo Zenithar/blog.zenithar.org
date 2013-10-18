@@ -1,19 +1,15 @@
 ---
-date: '2008-08-05 20:59:25'
 layout: post
-slug: zog-zog-akita-baaaaston
-status: publish
-title: Zog Zog Akita ! Baaaaston !
-wordpress_id: '257'
-categories:
-- Logiciels
+date: "2008-08-05 20:59:25"
+title: "Zog Zog Akita ! Baaaaston !"
 tags:
-- brute
-- haxe
-- motion
-- naheulbeuk
-- neko
-- twin
+ - brute
+ - haxe
+ - motion
+ - naheulbeuk
+ - neko
+ - twin
+
 ---
 
 Derrière ce titre au combien évocateur se cache biensur l'ogre et le barbare du [donjon de naheulbeuk](http://www.penofchaos.com/warham/donjon.htm). Alors maintenant pourquoi citer ces oeuvres ?

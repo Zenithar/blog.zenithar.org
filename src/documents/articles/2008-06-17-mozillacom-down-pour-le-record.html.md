@@ -1,18 +1,14 @@
 ---
-date: '2008-06-17 19:15:26'
 layout: post
-slug: mozillacom-down-pour-le-record
-status: publish
-title: Mozilla.com down pour le record :)
-wordpress_id: '220'
-categories:
-- General
+date: "2008-06-17 19:15:26"
+title: "Mozilla.com down pour le record :)"
 tags:
-- Down
-- Firefox
-- guiness
-- Mozilla
-- Record
+ - down
+ - firefox
+ - guiness
+ - mozilla
+ - record
+
 ---
 
 Voial j'allais prendre mon ptit firefox 3 comme attendu à 19h00, ben voila mozilla en berne !

@@ -1,17 +1,13 @@
 ---
-date: '2010-08-02 09:45:33'
 layout: post
-slug: caracteres-carres-avec-les-applications-32bits
-status: publish
-title: Caractères carrés avec les applications 32bits
-wordpress_id: '596'
-categories:
-- Linux
+date: "2010-08-02 09:45:33"
+title: "Caractères carrés avec les applications 32bits"
 tags:
-- 32Bits
-- GTK
-- Pango
-- UTF-8
+ - 32bits
+ - gtk
+ - pango
+ - utf-8
+
 ---
 
 Vous avez certainement déja vu ça, dans la configuration suivante :

@@ -1,15 +1,11 @@
 ---
-date: '2006-11-15 09:24:13'
 layout: post
-slug: mon-portable-sous-vista
-status: publish
-title: Mon portable sous Vista ...
-wordpress_id: '77'
-categories:
-- General
+date: "2006-11-15 09:24:13"
+title: "Mon portable sous Vista ..."
 tags:
-- geek
-- Vista
+ - geek
+ - vista
+
 ---
 
 Oui hérésie, non pas complètement j'ai ma Gentoo aussi dessus OW ! Alors pour ceux qui vont dire que je fais mon G33k (sisi y en a au moins une ^^ gros bisous), et bien voici une capture d'écran. Voici mes impressions :

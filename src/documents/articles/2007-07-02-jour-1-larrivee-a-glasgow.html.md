@@ -1,16 +1,12 @@
 ---
-date: '2007-07-02 12:16:00'
 layout: post
-slug: jour-1-larrivee-a-glasgow
-status: publish
-title: 'Jour 1 : L''arrivée à Glasgow'
-wordpress_id: '131'
-categories:
-- KDE
+date: "2007-07-02 12:16:00"
+title: "Jour 1 : L'arrivée à Glasgow"
 tags:
-- aKademy
-- Glasgow
-- KDE
+ - akademy
+ - glasgow
+ - kde
+
 ---
 
 Voilà mon départ pour l'aKademy 2007, depuis Toulouse, après un bref temps passé dans les embouteillages arrivée à Blagnac, premier problème qui intervient : oubli du billet électronique dans la voiture, bon rien de méchant jusque là, mais ce n'est que le début croyez moi  ^^.

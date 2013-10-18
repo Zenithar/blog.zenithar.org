@@ -1,15 +1,14 @@
 ---
 layout: post
+date: "2013-08-18 23:51"
 title: "Suivons la mode"
-date: 2013-08-18 23:51
-comments: true
 description: "Comme il n'y a que les imbéciles qui ne changent pas, et bien voila un carton de changement pour mon blog."
 tags:
  - docpad
  - bootstrap
  - purecss
  - flat
- 
+
 ---
 
 Encore une fois, je change de thème, bon cette fois je reste avec [docpad](http://docpad.org). 

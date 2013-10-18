@@ -1,14 +1,10 @@
 ---
-date: '2006-10-10 11:47:34'
 layout: post
-slug: joyeux-quadramoissiversaire
-status: publish
-title: Joyeux Quadramoissiversaire ^^
-wordpress_id: '69'
-categories:
-- General
+date: "2006-10-10 11:47:34"
+title: "Joyeux Quadramoissiversaire ^^"
 tags:
-- Emi
+ - emi
+
 ---
 
 Et voila aujourd'hui, ça fera 4 mois que l'on est ensemble, mon ptit ange et moi.

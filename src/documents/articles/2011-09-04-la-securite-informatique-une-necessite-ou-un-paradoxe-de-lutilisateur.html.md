@@ -1,17 +1,13 @@
 ---
-date: '2011-09-04 18:09:15'
 layout: post
-slug: la-securite-informatique-une-necessite-ou-un-paradoxe-de-lutilisateur
-status: publish
-title: La sécurité informatique une nécessité ou un paradoxe de l'utilisateur ?
-wordpress_id: '757'
-categories:
-- Sécurité
+date: "2011-09-04 18:09:15"
+title: "La sécurité informatique une nécessité ou un paradoxe de l'utilisateur ?"
 tags:
-- awareness
-- cert
-- sans
-- ssi
+ - awareness
+ - cert
+ - sans
+ - ssi
+
 ---
 
 [![](http://static.zenithar.org/wp-content/uploads/2011/09/facteur_humain.gif)](http://static.zenithar.org/wp-content/uploads/2011/09/facteur_humain.gif)Voila plus de deux ans que j'ai quitté le monde de la sécurité informatique, pour me diriger vers le développement. Et je me pose une simple question : La sécurité informatique est-ce une nécessité ou un paradoxe induit de son utilisation ?

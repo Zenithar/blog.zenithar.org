@@ -1,22 +1,17 @@
 ---
-date: '2008-03-28 12:18:29'
 layout: post
-slug: mise-en-place-dune-plateforme-dauthentification-opensource-sous-linux
-status: publish
-title: Mise en place d'une plateforme d'authentification sous Linux.
-wordpress_id: '206'
-categories:
-- Linux
-- Tutoriels
+date: "2008-03-28 12:18:29"
+title: "Mise en place d'une plateforme d'authentification sous Linux."
 tags:
-- Gentoo
-- IPSec
-- LDAP
-- MDS
-- OpenVPN
-- Radius
-- Samba
-- StrongSWAN
+ - gentoo
+ - ipsec
+ - ldap
+ - mds
+ - openvpn
+ - radius
+ - samba
+ - strongswan
+
 ---
 
 Dans cette série d'articles je vais présenter l'architecture que j'ai mise en place  pour la gestion des utilisateurs et des services mis à disposition.

@@ -1,17 +1,13 @@
 ---
-date: '2010-09-22 21:33:04'
 layout: post
-slug: mon-premier-jeu-en-flash-avec-haxe
-status: publish
-title: Mon premier jeu en Flash avec Haxe
-wordpress_id: '628'
-categories:
-- Développement
+date: "2010-09-22 21:33:04"
+title: "Mon premier jeu en Flash avec Haxe"
 tags:
-- flash
-- haxe
-- Jeu
-- stacker
+ - flash
+ - haxe
+ - jeu
+ - stacker
+
 ---
 
 Et voila ça c'est fait ^^. Mon premier jeu en Flash, j'ai utilisé un espèce de meta langage appelé [Haxe](http://haxe.org/) permettant entre autre d'écrire une application et de la faire tourner sous plusieurs environnement C++ / SDL, C++ / iPhone, Flash, JS, etc. (M. Haxe une version Html5 ?)

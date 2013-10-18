@@ -1,15 +1,11 @@
 ---
-date: '2005-08-28 16:51:25'
 layout: post
-slug: du-nouveau-sur-le-blog
-status: publish
-title: Du nouveau sur le blog ....
-wordpress_id: '28'
-categories:
-- General
+date: "2005-08-28 16:51:25"
+title: "Du nouveau sur le blog ...."
 tags:
-- Blog
-- dotclear
+ - blog
+ - dotclear
+
 ---
 
 Je viens d'ajouter quelques fonctionnalités aux blogs :

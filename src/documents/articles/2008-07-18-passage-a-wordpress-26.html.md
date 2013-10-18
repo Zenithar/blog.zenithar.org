@@ -1,19 +1,15 @@
 ---
-date: '2008-07-18 13:16:38'
 layout: post
-slug: passage-a-wordpress-26
-status: publish
-title: Passage à Wordpress 2.6
-wordpress_id: '236'
-categories:
-- General
+date: "2008-07-18 13:16:38"
+title: "Passage à Wordpress 2.6"
 tags:
-- G33k
-- Mise à jour
-- Pathinfo
-- Rewriting
-- Url
-- wordpress
+ - g33k
+ - mise a jour
+ - pathinfo
+ - rewriting
+ - url
+ - wordpress
+
 ---
 
 Une mise à jour plutôt sous le signe de la galère ... En général ça se passe sans pb ! Bien pas cette fois !

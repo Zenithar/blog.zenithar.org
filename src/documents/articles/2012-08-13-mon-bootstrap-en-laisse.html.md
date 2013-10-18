@@ -1,15 +1,12 @@
 ---
 layout: post
+date: "2012-08-13 19:19"
 title: "Mon bootstrap en laisse !"
-date: 2012-08-13 19:19
-comments: true
-categories: 
- - Tutorials
 tags:
- - Bootstrap
- - Twitter
- - Node.js
- - Theme 
+ - bootstrap
+ - twitter
+ - node.js
+ - theme
 
 ---
 

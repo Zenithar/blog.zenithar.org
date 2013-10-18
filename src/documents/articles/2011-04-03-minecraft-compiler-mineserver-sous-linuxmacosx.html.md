@@ -1,17 +1,13 @@
 ---
-date: '2011-04-03 17:58:22'
 layout: post
-slug: minecraft-compiler-mineserver-sous-linuxmacosx
-status: publish
-title: 'Minecraft : Compiler Mineserver sous Linux/MacOSX'
-wordpress_id: '743'
-categories:
-- Développement
+date: "2011-04-03 17:58:22"
+title: "Minecraft : Compiler Mineserver sous Linux/MacOSX"
 tags:
-- CMake
-- Linux
-- macosx
-- MineCraft
+ - cmake
+ - linux
+ - macosx
+ - minecraft
+
 ---
 
 Suite au précédent article, concernant libnoise, je me suis penché sur la compilation du projet sous MacOSX. Cependant même problème, le support est incomplet à la compilation.

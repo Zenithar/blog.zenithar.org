@@ -1,16 +1,12 @@
 ---
-date: '2008-05-18 19:28:18'
 layout: post
-slug: la-nuit-des-musees-17-mai-2008
-status: publish
-title: La nuit des musées - 17 Mai 2008
-wordpress_id: '212'
-categories:
-- General
+date: "2008-05-18 19:28:18"
+title: "La nuit des musées - 17 Mai 2008"
 tags:
-- Musée
-- Toulouse
-- Vêlouse
+ - musee
+ - toulouse
+ - velouse
+
 ---
 
 Dans le cadre du programme "nuits des musées", la ville de Toulouse a ouvert les portes de pas mal de musées, en l'occurrence : le museum des histoires naturelles.

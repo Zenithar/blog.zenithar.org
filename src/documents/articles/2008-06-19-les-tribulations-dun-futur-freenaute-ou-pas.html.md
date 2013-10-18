@@ -1,20 +1,16 @@
 ---
-date: '2008-06-19 10:00:40'
 layout: post
-slug: les-tribulations-dun-futur-freenaute-ou-pas
-status: publish
-title: Les tribulations d'un futur freenaute (ou pas!)
-wordpress_id: '221'
-categories:
-- General
+date: "2008-06-19 10:00:40"
+title: "Les tribulations d'un futur freenaute (ou pas!)"
 tags:
-- Crash
-- Dégroupage
-- Free
-- Freebox
-- NDI
-- Total
-- Toulouse
+ - crash
+ - degroupage
+ - free
+ - freebox
+ - ndi
+ - total
+ - toulouse
+
 ---
 
 Voila ça fait 6 mois (depuis le 26/02/08) que j'ai commandé ma ligne et ma freebox. Comme prévu je reçois un appel d'un sous traitant de france télécom pour venir me câbler la ligne en Total Freebox, celui ci me donne un rendez-vous, nickel chrome, je me dis lundi (17/03/08) c'est bon j'ai ma ligne.

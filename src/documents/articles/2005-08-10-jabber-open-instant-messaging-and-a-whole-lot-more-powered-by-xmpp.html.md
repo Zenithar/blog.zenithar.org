@@ -1,16 +1,12 @@
 ---
-date: '2005-08-10 14:47:17'
 layout: post
-slug: jabber-open-instant-messaging-and-a-whole-lot-more-powered-by-xmpp
-status: publish
-title: 'Jabber: Open Instant Messaging and a Whole Lot More, Powered by XMPP'
-wordpress_id: '12'
-categories:
-- General
+date: "2005-08-10 14:47:17"
+title: "Jabber: Open Instant Messaging and a Whole Lot More, Powered by XMPP"
 tags:
-- HermS
-- Jabber
-- XMPP
+ - herms
+ - jabber
+ - xmpp
+
 ---
 
 [Jabber: Open Instant Messaging and a Whole Lot More, Powered by XMPP](http://www.jabber.org/)

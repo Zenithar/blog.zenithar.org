@@ -1,17 +1,13 @@
 ---
-date: '2011-04-19 20:48:19'
 layout: post
-slug: access-control-allow-origin-servlet-filter-jsonp
-status: publish
-title: Access control Allow Origin Servlet Filter & JSONP
-wordpress_id: '759'
-categories:
-- Développement
+date: "2011-04-19 20:48:19"
+title: "Access control Allow Origin Servlet Filter & JSONP"
 tags:
-- http
-- jsonp
-- servlet
-- WebServices
+ - http
+ - jsonp
+ - servlet
+ - webservices
+
 ---
 
 Voici comment ajouter l'entête HTTP Access-control-allow-origin, bien connu des utilisateurs de JSON, AMF ou tout simplement de service REST.

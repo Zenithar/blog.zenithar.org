@@ -1,16 +1,12 @@
 ---
-date: '2006-09-29 23:47:28'
 layout: post
-slug: une-soiree-bien-arrosee
-status: publish
-title: Une soirée bien arrosée ... ^^
-wordpress_id: '67'
-categories:
-- General
+date: "2006-09-29 23:47:28"
+title: "Une soirée bien arrosée ... ^^"
 tags:
-- Amis
-- Emi
-- Toulouse
+ - amis
+ - emi
+ - toulouse
+
 ---
 
 ![](/images/Image 030.jpg)

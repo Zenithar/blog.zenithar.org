@@ -1,14 +1,10 @@
 ---
-date: '2005-08-08 10:57:26'
 layout: post
-slug: des-photos-venues-dailleurs
-status: publish
-title: Des photos venues d'ailleurs !
-wordpress_id: '8'
-categories:
-- General
+date: "2005-08-08 10:57:26"
+title: "Des photos venues d'ailleurs !"
 tags:
-- Crash
+ - crash
+
 ---
 
 je vous présente GuildWars revu et corrigé par Picasso lui même ! 

@@ -1,17 +1,13 @@
 ---
-date: '2008-11-06 23:57:18'
 layout: post
-slug: en-route-vers-opensuse-111
-status: publish
-title: En route vers OpenSUSE 11.1
-wordpress_id: '359'
-categories:
-- Linux
+date: "2008-11-06 23:57:18"
+title: "En route vers OpenSUSE 11.1"
 tags:
-- countdown
-- Linux
-- OpenSuSE
-- Release
+ - countdown
+ - linux
+ - opensuse
+ - release
+
 ---
 
 [![](http://counter.opensuse.org/11.1/small)](http://en.opensuse.org/openSUSE_11.1)

@@ -1,17 +1,12 @@
 ---
-date: '2007-07-17 15:06:12'
 layout: post
-slug: glasgow-akademy-tout-ca-cest-fini-snif
-status: publish
-title: Glasgow, aKademy, tout ça c'est fini ! snif !
-wordpress_id: '138'
-categories:
-- KDE
-- Linux
+date: "2007-07-17 15:06:12"
+title: "Glasgow, aKademy, tout ça c'est fini ! snif !"
 tags:
-- aKademy
-- Glasgow
-- guiness
+ - akademy
+ - glasgow
+ - guiness
+
 ---
 
 Voila déjà une semaine depuis mon retour de Glasgow, première semaine en petit français en France, bien ça me manque quand même un peu (bcp), cette ambiance, cette relation entre "collègue de travail" qui n'est quand même pas commune (croyez moi !). Cette petite "pint" de Guiness Extra Cold au "Council House".

@@ -1,16 +1,12 @@
 ---
-date: '2008-02-14 00:01:45'
 layout: post
-slug: bonne-saint-valentin
-status: publish
-title: Bonne Saint Valentin
-wordpress_id: '200'
-categories:
-- General
+date: "2008-02-14 00:01:45"
+title: "Bonne Saint Valentin"
 tags:
-- Amis
-- Emi
-- Saint Valentin
+ - amis
+ - emi
+ - saint valentin
+
 ---
 
 Bonne saint Valentin à tous les amoureux, amoureuses, en couple, ou pas !

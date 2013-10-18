@@ -1,18 +1,14 @@
 ---
-date: '2007-03-24 00:41:00'
 layout: post
-slug: umbrello-un-be-pas-comme-les-autres
-status: publish
-title: Umbrello, un BE pas comme les autres ...
-wordpress_id: '105'
-categories:
-- KDE
+date: "2007-03-24 00:41:00"
+title: "Umbrello, un BE pas comme les autres ..."
 tags:
-- ISI
-- IUP
-- KDE
-- Toulouse
-- Umbrello
+ - isi
+ - iup
+ - kde
+ - toulouse
+ - umbrello
+
 ---
 
 Aujourd'hui, avec la dernière revue, en grande ponte, marque la fin des projets de Master 1ere année de l'IUP de Toulouse.

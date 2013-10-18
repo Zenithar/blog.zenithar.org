@@ -1,15 +1,11 @@
 ---
-date: '2007-05-09 17:27:00'
 layout: post
-slug: objecteering-modeleur-uml-base-sur-mda
-status: publish
-title: 'Objecteering : Modeleur UML basé sur MDA.'
-wordpress_id: '119'
-categories:
-- Logiciels
+date: "2007-05-09 17:27:00"
+title: "Objecteering : Modeleur UML basé sur MDA."
 tags:
-- Linux
-- UML
+ - linux
+ - uml
+
 ---
 
 [http://www.objecteering.com/](http://www.objecteering.com/)

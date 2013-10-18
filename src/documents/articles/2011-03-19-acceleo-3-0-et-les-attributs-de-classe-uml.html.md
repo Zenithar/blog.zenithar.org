@@ -1,18 +1,14 @@
 ---
-date: '2011-03-19 21:28:28'
 layout: post
-slug: acceleo-3-0-et-les-attributs-de-classe-uml
-status: publish
-title: Acceleo 3.0 et les attributs de classe UML.
-wordpress_id: '674'
-categories:
-- Développement
+date: "2011-03-19 21:28:28"
+title: "Acceleo 3.0 et les attributs de classe UML."
 tags:
-- acceleo
-- eclipse
-- G33k
-- Java
-- UML
+ - acceleo
+ - eclipse
+ - g33k
+ - java
+ - uml
+
 ---
 
 Ah lala ça fait depuis quelque temps que j'utilise [Acceleo](http://www.eclipse.org/acceleo/) pour faire pas de mal de chose (Génération de code Java, Docbook, etc.), et bon j'ai été confronté à un problème particulier. Il faut savoir que dans le métamodele UML, la liste des attributs (Property) est marqué comme _unordered_, ce qui a pour effet dans [Acceleo](http://www.eclipse.org/acceleo/) suite à des générations successives de mélanger les attributs de votre classe.

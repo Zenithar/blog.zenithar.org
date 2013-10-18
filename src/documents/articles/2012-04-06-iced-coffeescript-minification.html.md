@@ -1,15 +1,12 @@
---- yaml
+---
 layout: post
+date: "2012-04-06 18:34"
 title: "[Iced]CoffeeScript minification"
-date: 2012-04-06 18:34
-comments: true
-categories: 
- - Logiciels
 tags:
- - CoffeeScript
- - IcedCoffeeScript
- - UglifyJS
+ - coffeescript
+ - uglifyjs
  - minification
+
 ---
 
 J'ai recherché un moyen de modifier la sortie du code généré par le compilateur CoffeeScript. En consultant la documentation, j'ai trouvé [ceci](https://github.com/jashkenas/coffee-script/wiki/%5BExtensibility%5D-Hooking-into-the-Command-Line-Compiler) 

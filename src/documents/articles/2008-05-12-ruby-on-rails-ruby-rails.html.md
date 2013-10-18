@@ -1,17 +1,12 @@
 ---
-date: '2008-05-12 14:38:36'
 layout: post
-slug: ruby-on-rails-ruby-rails
-status: publish
-title: Ruby on Rails = Ruby + Rails
-wordpress_id: '209'
-categories:
-- Rails
-- Toulibre
+date: "2008-05-12 14:38:36"
+title: "Ruby on Rails = Ruby + Rails"
 tags:
-- Rails
-- Ruby
-- Toulibre
+ - rails
+ - ruby
+ - toulibre
+
 ---
 
 Je suis en train d'écrire ma présentation pour le 28 mai à Toulibre, et voici ce qu'on peut trouver sur le web :

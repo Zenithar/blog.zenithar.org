@@ -1,15 +1,11 @@
 ---
-date: '2006-05-19 16:38:04'
 layout: post
-slug: stage-isi-vol2
-status: publish
-title: Stage ISI - vol.2
-wordpress_id: '51'
-categories:
-- General
+date: "2006-05-19 16:38:04"
+title: "Stage ISI - vol.2"
 tags:
-- IUP
-- Stage
+ - iup
+ - stage
+
 ---
 
 Voila mise en place du domaine terminé (Domaine SAMBA). Un petit changement au programme suite à une découverte : je viens de mettre la main sur un bijou pour le déploiement d'application sur environnement MS, [WPKG](http://wpkg.org/) c'est un programme permettant de déployer des applications sous forme EXE, MSI (différents installeurs supportés) au login de la personne ou par le biais d'un service qui veille et interroge périodiquement un fichier XML conservant tous les profils d'installation.

@@ -1,16 +1,12 @@
 ---
-date: '2011-11-29 20:37:43'
 layout: post
-slug: du-javascript-a-toutes-les-sauces
-status: publish
-title: 'Du JavaScript à toutes les Sauces !!! '
-wordpress_id: '846'
-categories:
-- Développement
+date: "2011-11-29 20:37:43"
+title: "Du JavaScript à toutes les Sauces !!!"
 tags:
-- Backbone
-- Javascript
-- Node.js
+ - backbone.js
+ - javascript
+ - node.js
+
 ---
 
 Vous n'êtes pas sans savoir (en tout cas ceux qui bossent avec moi le savent ^^), ou alors vous avez vécu sur une autre planète qu'en ce moment (depuis 6mois - 1an), le monde du JavaScript a subit d'énormes mutations. 

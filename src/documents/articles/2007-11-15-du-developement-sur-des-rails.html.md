@@ -1,16 +1,12 @@
 ---
-date: '2007-11-15 17:35:50'
 layout: post
-slug: du-developement-sur-des-rails
-status: publish
-title: Du dévelopement sur des rails !
-wordpress_id: '179'
-categories:
-- General
+date: "2007-11-15 17:35:50"
+title: "Du dévelopement sur des rails !"
 tags:
-- Rails
-- RoR
-- Ruby
+ - rails
+ - ror
+ - ruby
+
 ---
 
 

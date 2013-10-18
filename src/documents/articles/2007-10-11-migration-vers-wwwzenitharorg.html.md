@@ -1,15 +1,11 @@
 ---
-date: '2007-10-11 16:02:13'
 layout: post
-slug: migration-vers-wwwzenitharorg
-status: publish
-title: Migration vers www.zenithar.org
-wordpress_id: '173'
-categories:
-- General
+date: "2007-10-11 16:02:13"
+title: "Migration vers www.zenithar.org"
 tags:
-- wordpress
-- dotclear
+ - wordpress
+ - dotclear
+
 ---
 
 

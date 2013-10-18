@@ -1,15 +1,11 @@
 ---
-date: '2008-05-12 18:34:39'
 layout: post
-slug: petite-cure-pour-mon-blog
-status: publish
-title: Petite cure pour mon blog.
-wordpress_id: '210'
-categories:
-- General
+date: "2008-05-12 18:34:39"
+title: "Petite cure pour mon blog."
 tags:
-- blog
-- life
+ - blog
+ - life
+
 ---
 
 Voila j'ai presque terminé :

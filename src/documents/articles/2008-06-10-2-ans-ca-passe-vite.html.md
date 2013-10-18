@@ -1,14 +1,10 @@
 ---
-date: '2008-06-10 10:18:03'
 layout: post
-slug: 2-ans-ca-passe-vite
-status: publish
-title: 2 ans, ça passe vite ^^
-wordpress_id: '217'
-categories:
-- General
+date: "2008-06-10 10:18:03"
+title: "2 ans, ça passe vite ^^"
 tags:
-- Emi
+ - emi
+
 ---
 
 Coucou ma chérie, voila ça fait deux ans aujourd'hui qu'on est ensemble, qu'on vit ensemble, qu'on fait plein de choses ensemble ^^.

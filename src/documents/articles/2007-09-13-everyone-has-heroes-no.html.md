@@ -1,15 +1,11 @@
 ---
-date: '2007-09-13 15:15:31'
 layout: post
-slug: everyone-has-heroes-no
-status: publish
-title: Everyone has heroes no ?
-wordpress_id: '161'
-categories:
-- General
+date: "2007-09-13 15:15:31"
+title: "Everyone has heroes no ?"
 tags:
-- G33k
-- heroes
+ - g33k
+ - heroes
+
 ---
 
 

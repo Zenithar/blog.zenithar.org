@@ -1,17 +1,13 @@
 ---
-date: '2007-03-11 23:54:00'
 layout: post
-slug: stage-fin-master-1
-status: publish
-title: Stage Fin Master 1
-wordpress_id: '103'
-categories:
-- General
+date: "2007-03-11 23:54:00"
+title: "Stage Fin Master 1"
 tags:
-- Master
-- OpenCube
-- Stage
-- Toulouse
+ - master
+ - opencube
+ - stage
+ - toulouse
+
 ---
 
 Voila, je vais effectuer mes 5 mois de stage de fin d'études de mon Master 1 chez [OpenCube](http://www.opencubetech.com/). Le stage se déroule en deux parties :

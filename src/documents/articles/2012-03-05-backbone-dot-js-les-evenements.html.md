@@ -1,20 +1,15 @@
 ---
 layout: post
+date: "2012-03-05 19:54"
 title: "Backbone.js - Les évènements"
-date: 2012-03-05 19:54
-comments: true
-categories: 
- - Logiciels
- - tutorials
 tags:
  - backbone.js
  - node.js
  - tutorial
+
 ---
 
-## Introduction
-
-Cet article fait suite à la [présentation des concepts Backbone.JS](http://www.zenithar.org/2012/03/04/backbone-dot-js-presentation/). Vous devez avoir connaissance d'une base de Javascript pour aborder de manière sereine la partie suivante.
+Cet article fait suite à la [présentation des concepts Backbone.JS](http://blog.zenithar.org/articles/2012-03-04-backbone-dot-js-presentation.html). Vous devez avoir connaissance d'une base de Javascript pour aborder de manière sereine la partie suivante.
 
 Dans cet article, je vais m'attacher à expliquer le fonctionnement des évènements dans Backbone.JS, ainsi que, de fait, les principes de programmation asynchrone utilisés.
 

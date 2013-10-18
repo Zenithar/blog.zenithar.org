@@ -1,15 +1,11 @@
 ---
-date: '2005-08-19 21:31:06'
 layout: post
-slug: et-voici-le-certificat
-status: publish
-title: Et voici le certificat ....
-wordpress_id: '23'
-categories:
-- General
+date: "2005-08-19 21:31:06"
+title: "Et voici le certificat ...."
 tags:
-- certification
-- Microsoft
+ - certification
+ - microsoft
+
 ---
 
 ![](/images/conneries/PICT0109.jpg)

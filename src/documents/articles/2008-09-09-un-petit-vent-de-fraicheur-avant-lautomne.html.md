@@ -1,16 +1,12 @@
 ---
-date: '2008-09-09 21:56:07'
 layout: post
-slug: un-petit-vent-de-fraicheur-avant-lautomne
-status: publish
-title: Un petit vent de fraîcheur avant l'automne.
-wordpress_id: '309'
-categories:
-- General
+date: "2008-09-09 21:56:07"
+title: "Un petit vent de fraîcheur avant l'automne."
 tags:
-- hemingwayEx
-- theme
-- wordpress
+ - hemingwayex
+ - theme
+ - wordpress
+
 ---
 
 Un nouveau thème, du nettoyage et il pleut ! Ne serait ce pas l'arrivée de l'automne ?

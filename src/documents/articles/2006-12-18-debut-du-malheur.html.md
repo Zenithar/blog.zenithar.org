@@ -1,15 +1,11 @@
 ---
-date: '2006-12-18 12:21:19'
 layout: post
-slug: debut-du-malheur
-status: publish
-title: Début du malheur ...
-wordpress_id: '83'
-categories:
-- General
+date: "2006-12-18 12:21:19"
+title: "Début du malheur ..."
 tags:
-- IUP
-- Toulouse
+ - iup
+ - toulouse
+
 ---
 
 Les partiels commencent aujourd'hui

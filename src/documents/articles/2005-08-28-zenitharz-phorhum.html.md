@@ -1,16 +1,12 @@
 ---
-date: '2005-08-28 18:33:26'
 layout: post
-slug: zenitharz-phorhum
-status: publish
-title: ZeniTHaR'z PhoRhum
-wordpress_id: '29'
-categories:
-- Logiciels
+date: "2005-08-28 18:33:26"
+title: "ZeniTHaR'z PhoRhum"
 tags:
-- life
-- forum
-- punbb
+ - life
+ - forum
+ - punbb
+
 ---
 
 [ZeniTHaR'z PhoRhum](http://zenithar.free.fr/forum/index.php)

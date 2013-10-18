@@ -1,22 +1,18 @@
 ---
-date: '2008-02-20 21:10:33'
 layout: post
-slug: xul-rails-wouaouh
-status: publish
-title: Xul + Rails = Wouaouh
-wordpress_id: '201'
-categories:
-- Rails
+date: "2008-02-20 21:10:33"
+title: "Xul + Rails = Wouaouh"
 tags:
-- Air
-- Ajax
-- Flex
-- JSON
-- Mozilla
-- RDF
-- RoR
-- Xul
-- XulRunner
+ - air
+ - ajax
+ - flex
+ - json
+ - mozilla
+ - rdf
+ - ror
+ - xul
+ - xulrunner
+
 ---
 
 Je cherchais à faire une application dite "Web 2.0" mais avec une interface type "Desktop", c'est à ce moment que j'ai découvert les RDA (Rich Desktop Application). Le principe est d'apporter les avantages d'une application Web sur le bureau de l'utilisateur. Cela permet une meilleure intégration de celle-ci avec le systême client.

@@ -1,16 +1,12 @@
 ---
-date: '2007-03-04 15:15:00'
 layout: post
-slug: quelques-trucs-sous-linux
-status: publish
-title: Quelques trucs sous Linux ....
-wordpress_id: '99'
-categories:
-- Linux
+date: "2007-03-04 15:15:00"
+title: "Quelques trucs sous Linux ...."
 tags:
-- G33k
-- KDE
-- Linux
+ - g33k
+ - kde
+ - linux
+
 ---
 
 Voici quelques utilitaires que j'utilise sous Linux :

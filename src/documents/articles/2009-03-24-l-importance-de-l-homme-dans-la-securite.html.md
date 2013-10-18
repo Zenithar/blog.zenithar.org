@@ -1,18 +1,14 @@
 ---
-date: '2009-03-24 19:05:25'
 layout: post
-slug: l-importance-de-l-homme-dans-la-securite
-status: publish
-title: L’importance de l’Homme dans la sécurité
-wordpress_id: '433'
-categories:
-- Sécurité
+date: "2009-03-24 19:05:25"
+title: "L’importance de l’Homme dans la sécurité"
 tags:
-- engineering
-- malware
-- social
-- virus
-- zanshin
+ - engineering
+ - malware
+ - social
+ - virus
+ - zanshin
+
 ---
 
 Non je ne vais pas faire un plagiat du livre de K.Mitnick “L’art de la  supercherie”, c’est juste encore une fois des observations issues de mon travail  de tous les jours, mais je vous conseille sa lecture.

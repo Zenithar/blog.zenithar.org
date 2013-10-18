@@ -1,16 +1,12 @@
 ---
-date: '2006-10-05 23:15:25'
 layout: post
-slug: voila-cest-dur-detre-un-isi
-status: publish
-title: Voila c'est dur d'être un ISI ...
-wordpress_id: '68'
-categories:
-- General
+date: "2006-10-05 23:15:25"
+title: "Voila c'est dur d'être un ISI ..."
 tags:
-- ISI
-- IUP
-- Toulouse
+ - isi
+ - iup
+ - toulouse
+
 ---
 
 Pourquoi on est pas comme tous les autres 20h de cours par semaine ? Non 45h ! J'en ai marre des cours, je me fais chier, l'école est trop "scolaire" même dans ma formation dites professionnalisée. Pourquoi cela ne m'intéresse plus ? Aurais-je perdu ma passion ? ou simplement un raz le bol ...

@@ -1,17 +1,13 @@
 ---
-date: '2008-07-28 21:05:43'
 layout: post
-slug: parole-parole-parole-free
-status: publish
-title: Parole, Parole, Parole (Free)
-wordpress_id: '248'
-categories:
-- General
+date: "2008-07-28 21:05:43"
+title: "Parole, Parole, Parole (Free)"
 tags:
-- Free
-- Freebox
-- NDI
-- Total
+ - free
+ - freebox
+ - ndi
+ - total
+
 ---
 
 Cette chanson est normalement interprétée par Dalida, mais pas cette foi.

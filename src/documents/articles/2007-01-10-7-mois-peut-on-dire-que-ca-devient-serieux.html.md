@@ -1,14 +1,10 @@
 ---
-date: '2007-01-10 23:35:58'
 layout: post
-slug: 7-mois-peut-on-dire-que-ca-devient-serieux
-status: publish
-title: 7 mois ... peut on dire que ça devient sérieux ?
-wordpress_id: '92'
-categories:
-- General
+date: "2007-01-10 23:35:58"
+title: "7 mois ... peut on dire que ça devient sérieux ?"
 tags:
-- Emi
+ - emi
+
 ---
 
 "Tea for two, ..., you & me, and me & you" ...

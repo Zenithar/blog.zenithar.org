@@ -1,16 +1,12 @@
 ---
-date: '2007-12-06 23:03:09'
 layout: post
-slug: 6-strikes-wiiiiiiiiiiiiiiiiiiiiii
-status: publish
-title: 7 Strikes Wiiiiiiiiiiiiiiiiiiiiii
-wordpress_id: '183'
-categories:
-- General
+date: "2007-12-06 23:03:09"
+title: "7 Strikes Wiiiiiiiiiiiiiiiiiiiiii"
 tags:
-- Bowling
-- G33k
-- Wii
+ - bowling
+ - g33k
+ - wii
+
 ---
 
 Voila une image pour vous montrer mes 7 strikes dans une partie ^^ Parce qu'il faut bien se détendre un peu (sauf le bras, j'ai mal!) entre les ISA Server, L2TP/IPSec, OpenBSD, et autres machines du diable qui me donnent du fil à retordre.

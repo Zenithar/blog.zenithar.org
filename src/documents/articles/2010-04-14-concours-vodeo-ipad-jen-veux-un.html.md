@@ -1,18 +1,14 @@
 ---
-date: '2010-04-14 17:54:38'
 layout: post
-slug: concours-vodeo-ipad-jen-veux-un
-status: publish
-title: Concours VODEO iPad, j'en veux un !
-wordpress_id: '538'
-categories:
-- General
+date: "2010-04-14 17:54:38"
+title: "Concours VODEO iPad, j'en veux un !"
 tags:
-- apple
-- concours
-- iPad
-- macosx
-- vodeo
+ - apple
+ - concours
+ - ipad
+ - macosx
+ - vodeo
+
 ---
 
 Voici un lien vers la page du concours, bonne chance aux participants.

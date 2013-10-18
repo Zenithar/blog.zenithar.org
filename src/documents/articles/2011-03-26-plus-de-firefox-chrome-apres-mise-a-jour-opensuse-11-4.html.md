@@ -1,17 +1,13 @@
 ---
-date: '2011-03-26 13:06:08'
 layout: post
-slug: plus-de-firefox-chrome-apres-mise-a-jour-opensuse-11-4
-status: publish
-title: Plus de Firefox, Chrome après mise à jour OpenSuSE 11.4 ?
-wordpress_id: '728'
-categories:
-- General
+date: "2011-03-26 13:06:08"
+title: "Plus de Firefox, Chrome après mise à jour OpenSuSE 11.4 ?"
 tags:
-- chrome
-- Firefox
-- GTK
-- OpenSuSE
+ - chrome
+ - firefox
+ - gtk
+ - opensuse
+
 ---
 
 J'ai effectué la mise à jour d'OpenSuSE 11.3 -> 11.4 par le processus de mise à jour depuis le DVD d'installation, j'ai eu un petit soucis par la suite plus aucune application GTK ne fonctionnait correctement (heureusement que je suis sous KDE ^^).

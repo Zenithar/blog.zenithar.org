@@ -1,18 +1,14 @@
 ---
-date: '2007-09-23 12:33:40'
 layout: post
-slug: les-nouveaux-projets-kde-encadres-commencent
-status: publish
-title: Les nouveaux projets KDE encadrés commencent ...
-wordpress_id: '166'
-categories:
-- KDE
+date: "2007-09-23 12:33:40"
+title: "Les nouveaux projets KDE encadrés commencent ..."
 tags:
-- IceScrum
-- IUP
-- KDE
-- Toulouse
-- Wilos
+ - icescrum
+ - iup
+ - kde
+ - toulouse
+ - wilos
+
 ---
 
 Pour mettre fin à cette suite de post concernant Google ^^, je reviens de la réunion de lancement du BE1 de l'IUP de Toulouse, qui relance cette année les projets [KDE](http://www.kde.org/) ainsi que le projet [Wilos](http://www.wilos-project.org/), et [IceScrum](http://www.icescrum.org/).

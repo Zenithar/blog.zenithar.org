@@ -1,16 +1,12 @@
 ---
-date: '2006-12-21 11:36:48'
 layout: post
-slug: fin-du-malheur-debut-des-vacances
-status: publish
-title: Fin du malheur, début des vacances ^^
-wordpress_id: '84'
-categories:
-- General
+date: "2006-12-21 11:36:48"
+title: "Fin du malheur, début des vacances ^^"
 tags:
-- Amis
-- IUP
-- Toulouse
+ - amis
+ - iup
+ - toulouse
+
 ---
 
 Voila les partiels sont terminés ! C'est les vancances de noyel !

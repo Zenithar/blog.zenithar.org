@@ -1,15 +1,11 @@
 ---
-date: '2005-12-26 00:30:00'
 layout: post
-slug: passage-sous-freebsd
-status: publish
-title: Passage sous FreeBSD !
-wordpress_id: '46'
-categories:
-- Linux
+date: "2005-12-26 00:30:00"
+title: "Passage sous FreeBSD !"
 tags:
-- FreeBSD
-- Linux
+ - freebsd
+ - linux
+
 ---
 
 C'est dommage mais je trouve qu'en ce moment Gentoo commence à s'essouffler au niveau mises à jour, correctifs et autres. 

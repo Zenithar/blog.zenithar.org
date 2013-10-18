@@ -1,19 +1,14 @@
 ---
 layout: post
+date: "2012-03-04 23:30"
 title: "Backbone.js - Présentation"
-date: 2012-03-04 23:30
-comments: true
-categories: 
- - Logiciels
- - tutorials
 tags:
  - backbone.js
  - node.js
  - tutorial
+
 ---
 
-## Introduction
- 
 Cet article s'adresse aux personnes désirants découvrir ou redécouvrir, l'utilité et l'utilisation de [Backbone.JS](http://documentcloud.github.com/backbone/) au sein d'une application Web Javascript. En effet [Backbone.JS](http://documentcloud.github.com/backbone/) s'inscrit dans les technologies Javascript clientes (puisqu'il existe aussi un coté serveur via [Node.js](http://nodejs.org)).
  
 ## Les concepts

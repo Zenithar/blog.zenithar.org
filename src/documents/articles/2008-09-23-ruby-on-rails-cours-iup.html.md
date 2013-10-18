@@ -1,19 +1,15 @@
 ---
-date: '2008-09-23 00:23:38'
 layout: post
-slug: ruby-on-rails-cours-iup
-status: publish
-title: Ruby on Rails - Cours IUP
-wordpress_id: '325'
-categories:
-- Rails
+date: "2008-09-23 00:23:38"
+title: "Ruby on Rails - Cours IUP"
 tags:
-- beamer
-- ISI
-- IUP
-- Rails
-- RoR
-- Toulouse
+ - beamer
+ - isi
+ - iup
+ - rails
+ - ror
+ - toulouse
+
 ---
 
 Voici la présentation de Ruby on Rails faites à l'IUP ISI Paul Sabatier, ce mardi 23 septembre.

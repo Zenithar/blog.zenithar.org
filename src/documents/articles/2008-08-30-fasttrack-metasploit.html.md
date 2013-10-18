@@ -1,18 +1,14 @@
 ---
-date: '2008-08-30 18:00:49'
 layout: post
-slug: fasttrack-metasploit
-status: publish
-title: FastTrack / Metasploit
-wordpress_id: '279'
-categories:
-- Sécurité
+date: "2008-08-30 18:00:49"
+title: "FastTrack / Metasploit"
 tags:
-- backtrack
-- exploits
-- fasttrack
-- metasploit
-- screencast
+ - backtrack
+ - exploits
+ - fasttrack
+ - metasploit
+ - screencast
+
 ---
 
 Voici un outil plus qu'utile pour nos amis auditeurs, & pentesters. C'est un script d'automatisation d'audit de vulnérabilités et exploitation via metasploit.

@@ -20,7 +20,10 @@ docpadConfig = {
       injectDocumentHelper: (document) ->
         document.setMeta(
           layout: 'tag'
-        )  
+        )
+    rss:
+      collection: 'posts'
+      url: '/rss.xml'
 
   # =================================
   # Template Data
@@ -33,9 +36,15 @@ docpadConfig = {
     site: 
 
       services:
-
+        buttons: ['GooglePlusOne', 'FacebookLike', 'FacebookFollow', 'TwitterTweet', 'TwitterFollow', 'GithubFollow']
+        facebookLikeButton:
+          applicationId: '72679093514'
+        facebookFollowButton:
+          applicationId: '72679093514'
+          username: 'zenithar'
         twitterTweetButton: 'zenithar'
-        googleAnalytics: 'UA-8114245-4'
+        twitterFollowButton: 'zenithar'
+        githubFollowButton: 'zenithar'
 
       # The production url of our website
       url: "http://blog.zenithar.org"
@@ -64,7 +73,7 @@ docpadConfig = {
 
       # Styles
       styles: [
-        "http://yui.yahooapis.com/pure/0.2.1/pure-min.css"
+        "http://yui.yahooapis.com/pure/0.3.0/pure-min.css"
         "http://fonts.googleapis.com/css?family=Open+Sans"
         "/styles/style.css"
         "/styles/idea.css"

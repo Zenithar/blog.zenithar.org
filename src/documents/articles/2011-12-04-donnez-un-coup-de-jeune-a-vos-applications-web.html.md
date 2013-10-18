@@ -1,17 +1,12 @@
 ---
-date: '2011-12-04 12:52:38'
 layout: post
-slug: donnez-un-coup-de-jeune-a-vos-applications-web
-status: publish
-title: Donnez un coup de jeune à vos applications Web !
-wordpress_id: '860'
-categories:
-- Développement
-- Logiciels
+date: "2011-12-04 12:52:38"
+title: "Donnez un coup de jeune à vos applications Web !"
 tags:
-- MVC
-- Spring
-- Web
+ - mvc
+ - spring
+ - web
+
 ---
 
 Le développement d'application Web a bien évolué avec l'essor émergeant des nouvelles technologies (HTML5, JS, etc.). Autrefois, la complexité des applications étaient déportée sur le serveur hébergeant le service, avec la montée en puissance des navigateurs et technologies clientes, il est possible d'effectuer une partie du travaille dans le navigateur :

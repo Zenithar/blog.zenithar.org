@@ -1,18 +1,13 @@
 ---
-date: '2010-07-09 15:24:38'
 layout: post
-slug: parce-que-yen-a-marre-des-erreurs-de-merge-despace
-status: publish
-title: Parce que y'en a marre des erreurs de merge d'espace !
-wordpress_id: '571'
-categories:
-- Développement
-- Logiciels
+date: "2010-07-09 15:24:38"
+title: "Parce que y'en a marre des erreurs de merge d'espace !"
 tags:
-- astyle
-- git
-- hook
-- pre-commit
+ - astyle
+ - git
+ - hook
+ - pre-commit
+
 ---
 
 Voici une astuce pour vos dépôts GIT permettant de formater le code avant le commit sur le dépôt pour que tous les développeurs utilisent le même référentiel de formatage de code :

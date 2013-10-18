@@ -1,19 +1,14 @@
 ---
-date: '2008-07-14 13:28:14'
 layout: post
-slug: embrasement-de-carcassonne
-status: publish
-title: Embrasement de Carcassonne
-wordpress_id: '224'
-categories:
-- General
+date: "2008-07-14 13:28:14"
+title: "Embrasement de Carcassonne"
 tags:
-- 14 Juillet
-- Artifice
-- Carcassonne
-- Fête
-- Feu
-- nationale
+ - artifice
+ - carcassonne
+ - fete
+ - feu
+ - nationale
+
 ---
 
   [

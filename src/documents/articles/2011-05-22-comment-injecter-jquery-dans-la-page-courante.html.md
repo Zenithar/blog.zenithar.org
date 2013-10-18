@@ -1,15 +1,11 @@
 ---
-date: '2011-05-22 21:56:32'
 layout: post
-slug: comment-injecter-jquery-dans-la-page-courante
-status: publish
-title: Comment injecter jQuery dans la page courante ?
-wordpress_id: '807'
-categories:
-- Développement
+date: "2011-05-22 21:56:32"
+title: "Comment injecter jQuery dans la page courante ?"
 tags:
-- bookmarklet
-- jQuery
+ - bookmarklet
+ - jquery
+
 ---
 
 Je suis en pleine découverte de Node.JS, MongoDB et tout. Je manipule forcément du Javascript, et dans certains cas il manque les fonctionnalités de son framework préféré pour utiliser un service REST par exemple.

@@ -1,19 +1,15 @@
 ---
-date: '2008-09-10 20:29:43'
 layout: post
-slug: user32getmessagea-cest-par-ici
-status: publish
-title: User32::GetMessageA, c'est par ici !
-wordpress_id: '313'
-categories:
-- Sécurité
+date: "2008-09-10 20:29:43"
+title: "User32::GetMessageA, c'est par ici !"
 tags:
-- dll
-- exploits
-- Function
-- gina
-- hook
-- intercept
+ - dll
+ - exploits
+ - function
+ - gina
+ - hook
+ - intercept
+
 ---
 
 Voici un article paru sur le site "[The Ethical Hacker Network](http://www.ethicalhacker.net/)", traitant des possibilités d'interceptions d'appels systèmes.

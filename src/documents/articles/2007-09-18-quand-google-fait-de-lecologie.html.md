@@ -1,15 +1,11 @@
 ---
-date: '2007-09-18 23:37:50'
 layout: post
-slug: quand-google-fait-de-lecologie
-status: publish
-title: Quand Google fait de l'écologie ...
-wordpress_id: '165'
-categories:
-- General
+date: "2007-09-18 23:37:50"
+title: "Quand Google fait de l'écologie ..."
 tags:
-- ecologie
-- google
+ - ecologie
+ - google
+
 ---
 
 

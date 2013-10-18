@@ -1,15 +1,11 @@
 ---
-date: '2007-10-01 15:53:33'
 layout: post
-slug: google-documents
-status: publish
-title: Google Documents
-wordpress_id: '171'
-categories:
-- Logiciels
+date: "2007-10-01 15:53:33"
+title: "Google Documents"
 tags:
-- Documents
-- google
+ - documents
+ - google
+
 ---
 
 

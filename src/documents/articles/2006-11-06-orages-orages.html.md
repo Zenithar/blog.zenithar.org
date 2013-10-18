@@ -1,15 +1,11 @@
 ---
-date: '2006-11-06 12:55:50'
 layout: post
-slug: orages-orages
-status: publish
-title: Orages, orages, ....
-wordpress_id: '73'
-categories:
-- General
+date: "2006-11-06 12:55:50"
+title: "Orages, orages, ...."
 tags:
-- Crash
-- Emi
+ - crash
+ - emi
+
 ---
 
 Mais que se passe-t-il en ce moment ? Tout est motif à hautes paroles ! Y-a-t-il un problème ? ou l'approche du 1er cap (6 mois). Que dois je faire ? Prendre un peu de large pour laisser passer la tempête ou encore affronter au risque de tout perdre ?

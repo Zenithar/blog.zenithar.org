@@ -1,16 +1,12 @@
 ---
-date: '2009-07-29 09:05:52'
 layout: post
-slug: gcc-green-coding-concept
-status: publish
-title: gCC - green Coding Concept
-wordpress_id: '438'
-categories:
-- Développement
+date: "2009-07-29 09:05:52"
+title: "gCC - green Coding Concept"
 tags:
-- coding
-- ecology
-- green
+ - coding
+ - ecology
+ - green
+
 ---
 
 Après une longue période d'inactivité de mon blog, due au travail, à la recherche d'appartement, les travaux d'emménagement et une bonne dose de flemme, je me décide à couper court à ce désert.

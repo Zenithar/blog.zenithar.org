@@ -1,16 +1,12 @@
 ---
-date: '2006-11-15 09:15:15'
 layout: post
-slug: je-me-fais-chier-alors-jecris
-status: publish
-title: Je me fais chier alors j'écris ...
-wordpress_id: '76'
-categories:
-- General
+date: "2006-11-15 09:15:15"
+title: "Je me fais chier alors j'écris ..."
 tags:
-- Emi
-- IUP
-- Toulouse
+ - emi
+ - iup
+ - toulouse
+
 ---
 
 Bonjour à tous mes lecteurs ^^, je suis  actuellement en cours d'IL1 (Ingénierie Logiciel 1).

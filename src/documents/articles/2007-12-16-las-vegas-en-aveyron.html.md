@@ -1,17 +1,13 @@
 ---
-date: '2007-12-16 21:44:18'
 layout: post
-slug: las-vegas-en-aveyron
-status: publish
-title: Las vegas en Aveyron ?
-wordpress_id: '186'
-categories:
-- General
+date: "2007-12-16 21:44:18"
+title: "Las vegas en Aveyron ?"
 tags:
-- Décorations
-- Millau
-- Noel
-- Salmanac
+ - decorations
+ - millau
+ - noel
+ - salmanac
+
 ---
 
 ![Salamanac](http://static.zenithar.org/wp-content/uploads/photo0055.jpg)

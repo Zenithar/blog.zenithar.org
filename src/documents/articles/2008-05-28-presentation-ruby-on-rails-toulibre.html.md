@@ -1,19 +1,14 @@
 ---
-date: '2008-05-28 23:59:21'
 layout: post
-slug: presentation-ruby-on-rails-toulibre
-status: publish
-title: Présentation Ruby on Rails - Toulibre
-wordpress_id: '214'
-categories:
-- Rails
-- Toulibre
+date: "2008-05-28 23:59:21"
+title: "Présentation Ruby on Rails - Toulibre"
 tags:
-- beamer
-- latex
-- Rails
-- RoR
-- Toulibre
+ - beamer
+ - latex
+ - rails
+ - ror
+ - toulibre
+
 ---
 
 Voila ça c'est fait ! Ouf une tâche en moins dans mon rtm (remember the milk) ^^
