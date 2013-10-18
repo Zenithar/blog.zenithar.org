@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-09-06 02:28:08"
-title: Frets On Fire
+title: "Frets On Fire"
 tags:
  - g33k
  - jeux

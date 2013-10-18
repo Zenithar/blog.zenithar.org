@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2005-10-19 12:56:24"
-title: Tjrs pas Internet ....
+title: "Tjrs pas Internet ...."
 tags:
  - crous
  - toulouse

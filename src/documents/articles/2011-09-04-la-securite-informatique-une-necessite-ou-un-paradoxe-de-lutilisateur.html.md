@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2011-09-04 18:09:15"
-title: La sécurité informatique une nécessité ou un paradoxe de l'utilisateur ?
+title: "La sécurité informatique une nécessité ou un paradoxe de l'utilisateur ?"
 tags:
  - awareness
  - cert

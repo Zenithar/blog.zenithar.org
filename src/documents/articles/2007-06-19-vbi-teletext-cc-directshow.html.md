@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-06-19 18:08:00"
-title: VBI, Teletext, CC, DirectShow, ...
+title: "VBI, Teletext, CC, DirectShow, ..."
 tags:
  - g33k
  - toulouse

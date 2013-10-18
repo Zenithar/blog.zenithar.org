@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-02-09 20:39:09"
-title: Emile, y'avait que l'allé !
+title: "Emile, y'avait que l'allé !"
 tags:
  - distille
  - hemsi

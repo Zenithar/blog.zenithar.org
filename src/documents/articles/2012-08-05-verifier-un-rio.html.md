@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2012-08-05 21:23"
-title: Vérifier un RIO
+title: "Vérifier un RIO"
 tags:
  - rio
  - coffeescript

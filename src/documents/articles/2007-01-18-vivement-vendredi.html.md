@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-01-18 18:49:33"
-title: Vivement Vendredi ...
+title: "Vivement Vendredi ..."
 tags:
  - iup
  - toulouse

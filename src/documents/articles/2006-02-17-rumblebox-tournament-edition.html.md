@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2006-02-17 22:40:18"
-title: RumbleBox Tournament Edition
+title: "RumbleBox Tournament Edition"
 tags:
  - g33k
  - jeu

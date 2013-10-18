@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-05-26 12:15:14"
-title: Sauvons le Palais de la Découverte !
+title: "Sauvons le Palais de la Découverte !"
 tags:
  - decouverte
  - palais

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-12-16 21:44:18"
-title: Las vegas en Aveyron ?
+title: "Las vegas en Aveyron ?"
 tags:
  - decorations
  - millau

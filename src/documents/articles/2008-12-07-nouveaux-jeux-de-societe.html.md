@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-12-07 23:38:25"
-title: Nouveaux jeux de société.
+title: "Nouveaux jeux de société."
 tags:
  - colons de catane
  - wazabi

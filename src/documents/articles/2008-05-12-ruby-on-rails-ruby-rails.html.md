@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-05-12 14:38:36"
-title: Ruby on Rails = Ruby + Rails
+title: "Ruby on Rails = Ruby + Rails"
 tags:
  - rails
  - ruby

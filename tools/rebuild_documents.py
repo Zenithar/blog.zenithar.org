@@ -3,6 +3,9 @@
 import json,yaml
 import codecs
 
+def yaml_escape(s):
+	return json.dumps(s, ensure_ascii=False)
+
 def regenerateSource(filename, doc):
 
 	meta = doc['meta']
@@ -11,10 +14,10 @@ def regenerateSource(filename, doc):
 	with codecs.open(filename, "w", "utf-8") as f:
 		f.write("---\n")
 		f.write('layout: ' + meta['layout'] + '\n')
-		f.write("date: " + meta['date'] + "\n")
-		f.write('title: ' + meta['title'] + '\n')
+		f.write("date: " + yaml_escape(meta['date']) + "\n")
+		f.write('title: ' + yaml_escape(meta['title']) + '\n')
 		if 'description' in meta:
-			f.write('description: "' + meta['description'] + '"\n')
+			f.write('description: ' + yaml_escape(meta['description']) + '\n')
 		if 'shorturl' in meta:
 			f.write('shorturl: ' + meta['shorturl'] + '\n')
 		f.write("tags:\n")

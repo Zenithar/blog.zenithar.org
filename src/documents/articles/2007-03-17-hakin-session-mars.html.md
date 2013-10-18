@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-03-17 15:42:00"
-title: Hakin' Session Mars
+title: "Hakin' Session Mars"
 tags:
  - kde
  - linux

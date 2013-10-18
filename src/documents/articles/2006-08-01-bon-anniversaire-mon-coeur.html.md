@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2006-08-01 07:49:07"
-title: Bon Anniversaire mon coeur.
+title: "Bon Anniversaire mon coeur."
 tags:
  - emi
 

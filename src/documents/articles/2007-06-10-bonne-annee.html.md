@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-06-10 20:34:00"
-title: Bonne année ^^
+title: "Bonne année ^^"
 tags:
  - emi
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-05-12 18:34:39"
-title: Petite cure pour mon blog.
+title: "Petite cure pour mon blog."
 tags:
  - blog
  - life

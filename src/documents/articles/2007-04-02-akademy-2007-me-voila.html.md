@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-04-02 14:37:00"
-title: aKademy 2007, me voila !
+title: "aKademy 2007, me voila !"
 tags:
  - akademy
  - kde

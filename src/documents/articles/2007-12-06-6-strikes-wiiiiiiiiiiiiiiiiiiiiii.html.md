@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-12-06 23:03:09"
-title: 7 Strikes Wiiiiiiiiiiiiiiiiiiiiii
+title: "7 Strikes Wiiiiiiiiiiiiiiiiiiiiii"
 tags:
  - bowling
  - g33k

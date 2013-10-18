@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2010-08-02 09:45:33"
-title: Caractères carrés avec les applications 32bits
+title: "Caractères carrés avec les applications 32bits"
 tags:
  - 32bits
  - gtk

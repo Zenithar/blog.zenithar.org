@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2006-12-21 11:36:48"
-title: Fin du malheur, début des vacances ^^
+title: "Fin du malheur, début des vacances ^^"
 tags:
  - amis
  - iup

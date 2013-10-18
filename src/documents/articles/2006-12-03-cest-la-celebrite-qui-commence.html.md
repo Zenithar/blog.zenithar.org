@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2006-12-03 20:06:40"
-title: C'est la célébrité qui commence ...
+title: "C'est la célébrité qui commence ..."
 tags:
  - kde
  - linux

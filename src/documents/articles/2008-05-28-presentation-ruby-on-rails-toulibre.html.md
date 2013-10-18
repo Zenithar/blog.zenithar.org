@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-05-28 23:59:21"
-title: Présentation Ruby on Rails - Toulibre
+title: "Présentation Ruby on Rails - Toulibre"
 tags:
  - beamer
  - latex

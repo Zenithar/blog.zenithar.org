@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-01-24 18:22:46"
-title: Gof en Ruby
+title: "Gof en Ruby"
 tags:
  - design patterns
  - gof

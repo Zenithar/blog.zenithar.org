@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2013-03-26 22:13"
-title: Google Protobuf MessageConverter pour Spring AMQP
+title: "Google Protobuf MessageConverter pour Spring AMQP"
 description: "Google Protobuf MessageConverter pour Spring AMQP, permettant la sérialisation/désérialisation de vos messages au format Protobuf."
 tags:
  - spring mvc

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-06-03 13:50:00"
-title: Merci à vous ^^
+title: "Merci à vous ^^"
 tags:
  - amis
  - emi

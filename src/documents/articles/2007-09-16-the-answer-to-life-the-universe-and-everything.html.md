@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-09-16 18:02:07"
-title: The answer to life, the universe, and everything
+title: "The answer to life, the universe, and everything"
 tags:
  - g33k
  - google

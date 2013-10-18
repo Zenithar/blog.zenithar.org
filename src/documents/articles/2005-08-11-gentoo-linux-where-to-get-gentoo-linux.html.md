@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2005-08-11 18:50:40"
-title: Gentoo Linux -- Where to Get Gentoo Linux
+title: "Gentoo Linux -- Where to Get Gentoo Linux"
 tags:
  - gentoo
  - linux

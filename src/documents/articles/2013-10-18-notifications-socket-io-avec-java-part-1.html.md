@@ -1,9 +1,9 @@
 ---
 layout: post
 date: "2013-10-18 10:06"
-title: Notifications temps réels avec Socket.io et Java - Partie 1
+title: "Notifications temps réel avec Socket.io et Java - Partie 1"
 description: "Beaucoup de technologies temps réels de communication web sont réservés à d'autres technologies que le Java, grâce à Netty ce n'est plus vrai ! (1/2)"
-shorturl: http://goo.gl/9YmuXt
+shorturl: http://goo.gl/rFpUkG
 tags:
  - html5
  - websockets

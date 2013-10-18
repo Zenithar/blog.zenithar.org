@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-07-11 15:47:03"
-title: Migration vers WordPress 2.x
+title: "Migration vers WordPress 2.x"
 tags:
  - migration
  - wordpress

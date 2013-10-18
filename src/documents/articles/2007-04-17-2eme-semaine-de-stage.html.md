@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-04-17 11:48:00"
-title: 2eme semaine de stage ...
+title: "2eme semaine de stage ..."
 tags:
  - opencube
  - stage

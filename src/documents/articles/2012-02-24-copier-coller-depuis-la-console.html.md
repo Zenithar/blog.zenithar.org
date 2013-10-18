@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2012-02-24 23:53"
-title: Copier / Coller depuis la console
+title: "Copier / Coller depuis la console"
 tags:
  - xsel
  - linux

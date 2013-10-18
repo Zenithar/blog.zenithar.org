@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2006-09-29 23:47:28"
-title: Une soirée bien arrosée ... ^^
+title: "Une soirée bien arrosée ... ^^"
 tags:
  - amis
  - emi

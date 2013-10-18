@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2011-07-10 22:28:41"
-title: Merci XSL-FO !
+title: "Merci XSL-FO !"
 tags:
  - cv
  - docx

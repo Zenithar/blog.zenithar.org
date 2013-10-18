@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2007-08-01 11:55:48"
-title: Joyeux Anniversaire
+title: "Joyeux Anniversaire"
 tags:
  - anniversaire
  - emi

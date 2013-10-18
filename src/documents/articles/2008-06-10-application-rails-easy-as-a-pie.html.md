@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-06-10 10:38:46"
-title: Application rails "Easy as a Pie"
+title: "Application rails \"Easy as a Pie\""
 tags:
  - heroku
 

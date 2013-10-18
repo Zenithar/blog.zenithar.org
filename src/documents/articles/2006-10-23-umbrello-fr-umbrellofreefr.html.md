@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2006-10-23 00:25:28"
-title: Umbrello-FR [umbrello.free.fr]
+title: "Umbrello-FR [umbrello.free.fr]"
 tags:
  - iup
  - kde

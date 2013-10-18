@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-06-17 19:15:26"
-title: Mozilla.com down pour le record :)
+title: "Mozilla.com down pour le record :)"
 tags:
  - down
  - firefox

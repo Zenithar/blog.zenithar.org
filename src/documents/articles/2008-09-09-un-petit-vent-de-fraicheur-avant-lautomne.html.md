@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2008-09-09 21:56:07"
-title: Un petit vent de fraîcheur avant l'automne.
+title: "Un petit vent de fraîcheur avant l'automne."
 tags:
  - hemingwayex
  - theme
