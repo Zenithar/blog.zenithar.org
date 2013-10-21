@@ -5,7 +5,7 @@ module.exports = (BasePlugin) ->
     
         getGist = (opts, next) ->
             {content} = opts
-            opts.content = content.replace /gist:([0-9]+)/, (whole, m1) ->
+            opts.content = content.replace /gist:([a-z0-9]+)/, (whole, m1) ->
                 return '<script src="https://gist.github.com/' + m1 + '.js"></script>'
             return next()
 
