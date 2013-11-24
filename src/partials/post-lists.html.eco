@@ -18,7 +18,7 @@
 
         <div class="post-description pure-u-1">
             <p>
-                <%- @config.extractSummary @post.contentRenderedWithoutLayouts %>
+                <%- @config.extractSummary @post.content %>
             </p>
         </div>
     </div>

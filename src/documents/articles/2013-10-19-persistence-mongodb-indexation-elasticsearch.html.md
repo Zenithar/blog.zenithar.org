@@ -95,9 +95,9 @@ $ elasticsearch -f
 [2013-10-19 00:21:04,903][INFO ][node    ] [Dvorak, Sybil] initialized
 ```
 
-Vous devriez voir des logs comme présentée ci-dessus, avec dans la ligne `plugins`, l'affichage du texte `mongodb-river` indiquant la prise en compte du plugin par le système.
+Vous devriez voir des logs comme présentées ci-dessus, avec dans la ligne `plugins`, l'affichage du texte `mongodb-river` indiquant la prise en compte du plugin par le système.
 
-#### Installation mamuelle :
+#### Installation manuelle :
 
 Il faut récupérer les sources sur le dépot [Github](https://github.com/richardwilly98/elasticsearch-river-mongodb), et générer le paquet de distribution :
 
@@ -112,7 +112,7 @@ Le fichier '.zip' sera généré dans le répertoire `target/releases', il suffi
 
 #### Configuration
 
-Le plugin est installé, il faut à présent le configurer. La configuration ElasticSearch se fait en utilisant le protocole REST, sur le plugin concerné par la confiuration.
+Le plugin est installé, il faut à présent le configurer. La configuration ElasticSearch se fait en utilisant le protocole REST, sur le plugin concerné par la configuration.
 
 ``` bash
 $ curl -XPUT "localhost:9200/_river/<index>/_meta" -d '
@@ -140,7 +140,7 @@ Pour plus d'informations sur le `secoondary_read_preference`, [c'est ici](http:/
   * collection : le nom de la collection MongoDB contenant les documents à indexer
   * type : le nom du type ElasticSearch de document à indexer
 
-A partir du moment où vous allez executer la commande ci-dessus vous devriez vous apparaiyre coté ElasticSearch de l'activité concernat MongoDB :
+A partir du moment où vous allez executer la commande ci-dessus vous devriez vous apparaitre coté ElasticSearch de l'activité concernant MongoDB :
 
 ``` bash
 [2013-10-19 00:21:09,119][INFO ][river.mongodb            ] mongoServersSettings: [{port=27017, host=127.0.0.1}]
@@ -168,7 +168,7 @@ $ mongo
 
 Vous pouvez voir dès à présent voir, le document indexé :
 ```bash
-$ curl http://localhost:9200/blog/article/<object-id>
+$ curl http://localhost:9200/blog/articles/<object-id>
 {
    "_index": "blog",
    "_type": "article",
@@ -190,6 +190,6 @@ $ curl http://localhost:9200/blog/article/<object-id>
 
 # Conclusion
 
-Ce concept de `rivers` permet une intégration simple d'ElasticSearch au sein d'une infrastructure. Qui plus est il est taillé pour le Cloud, et les problèmes de scalabilité, et clusterabilité associés. 
+Ce concept de `rivers` permet une intégration simple d'ElasticSearch au sein d'une infrastructure. Qui plus est, il est taillé pour le Cloud, et les problèmes de scalabilité, et clusterabilité associés. 
 
 Maintenant pourquoi utiliser ElasticSearch, alors que l'on pourrait faire des recherches directements dans MongoDB avec des `find`, `mapreduce`, etc ? Et bien la réponse est simple, MongoDB assure la persistence de l'information, ElasticSearch est un moteur de recherche, chacun son métier ...

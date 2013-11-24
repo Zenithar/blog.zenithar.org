@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="fr" dir="ltr" version="HTML+RDFa 1.1"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:dc="http://purl.org/dc/terms/"
@@ -10,6 +11,7 @@
   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
   xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
   xmlns:schema="http://schema.org/">
+
 <head>
 	<!-- Meta -->
 	<meta charset="utf-8" />
@@ -34,24 +36,35 @@
 	<%- @getBlock('meta').toHTML() %>
 
 	<!-- Icons -->
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-57-precomposed.png">
+
+    <script>
+    (function(c,f){asyncLoader=function(i,h){i.foreach(function(k,j){e(j,d(j),h)});if(typeof h.callback=="function"){var g=setInterval(function(){if(f.readyState==="complete"){clearInterval(g);h.callback()}},10)}};var d=function(g){var h=g.split(".");return h[h.length-1]},e=function(h,i,g){switch(i){case"js":a(h,g);break;case"css":b(h);break;default:break}},a=function(i,h){var g=document.createElement("script");g.type="text/javascript";g.async=true;g.src=i;document.getElementsByTagName("head")[0].appendChild(g)},b=function(g){var h=document.createElement("link");h.type="text/css";h.rel="stylesheet";h.href=g;document.getElementsByTagName("head")[0].appendChild(h)};Array.prototype.foreach=function(h){for(var g=0;g<this.length;g++){h(g,this[g])}}})(this,document);
+    </script>
+    <script>
+        asyncLoader(
+            [
+                '//fonts.googleapis.com/css?family=Open+Sans',
+                '/styles/pure-min.css',
+                '/styles/style.css',
+                '/styles/idea.css'
+            ],
+            {
+                'callback': function() {
+                    document.getElementById("post").className += " load";
+                }
+            }
+        );
+    </script>
 
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
-		<script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script async src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-
-	<!-- Styles -->
-	<%- @getBlock('styles').add(@site.styles).toHTML() %>
-	
-	<!-- Typekit ajf8ggy.js -->
-	<script>
-    try { Typekit.load(); } catch (e) {}
-	</script>
 </head>
 <body>
 
@@ -118,10 +131,8 @@
             </div>
         </footer>
     </div>
-</div>
 
-	<!-- Scripts -->
-	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
+</div>
 
     <script type="text/javascript">
         var _gaq = _gaq || [];

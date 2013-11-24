@@ -6,7 +6,7 @@ import codecs
 def yaml_escape(s):
 	return json.dumps(s, ensure_ascii=False)
 
-def regenerateSource(filename, doc):
+def regenerateSource(filename, doc, idx):
 
 	meta = doc['meta']
 	contents = doc['content']
@@ -30,8 +30,10 @@ def regenerateSource(filename, doc):
 with codecs.open("posts.json", "r", "utf-8") as f:
 	documents = json.load(f)
 
+	idx = 1
 	for filename, doc in documents.iteritems(): 
 		print "Rebuilding " + filename
-		regenerateSource(filename, doc)
+		regenerateSource(filename, doc, idx)
+		idx = idx + 1
 
 

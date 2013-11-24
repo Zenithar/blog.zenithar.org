@@ -149,7 +149,7 @@ Socket.io est un protocole de communication, il a été implémenté en utilisan
   * [Scala Play](https://github.com/milliondreams/socket.io.play)
   * [Python](https://github.com/abourget/gevent-socketio)
 
-Dans le prochain article, nous nous intéresserons au support Netty de Socket.io, et comment l'utiliser dans nos applications Java.
+Dans le prochain article, nous nous intéresserons au support Socket.io via Netty, et comment l'utiliser dans nos applications Java.
 
 [1]: http://www.zdnet.fr/actualites/w3c-le-html-5-finalise-en-2014-39782752.htm "W3C : le HTML 5 finalisé en 2014"
 [2]: http://caniuse.com/websockets "Can I use Web Sockets?"

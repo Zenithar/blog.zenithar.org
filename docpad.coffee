@@ -1,3 +1,5 @@
+marked = require('marked');
+
 # The DocPad Configuration File
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig = {
@@ -71,14 +73,6 @@ docpadConfig = {
       # The website author's email
       email: "me@zenithar.org"
 
-      # Styles
-      styles: [
-        "http://yui.yahooapis.com/pure/0.3.0/pure-min.css"
-        "http://fonts.googleapis.com/css?family=Open+Sans"
-        "/styles/style.css"
-        "/styles/idea.css"
-      ]
-
   # -----------------------------
     # Helper Functions
     getTagUrl: (tag) ->
@@ -86,7 +80,14 @@ docpadConfig = {
       "/tags/#{t}.html"
 
     extractSummary: (contentRendered) ->
-      splited = contentRendered.split(/<h[123456]>/)
+      markedOptions = {
+        pedantic: false,
+        gfm: true,
+        sanitize: false,
+        highlight: null
+      }
+      marked.setOptions(markedOptions)
+      splited = marked(contentRendered).split(/<h[123456]/)
       splited[0]
 
     # Get the prepared site/document title
