@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<div id="loading">
+    <img src="/images/495.GIF" style="display:block; margin: 0 auto;" />
+</div>
 
 <article itemscope itemtype="http://schema.org/Article" class="post pure-u-1" typeof="sioc:Post foaf:Document" lang="fr-fr" id="post">
     <header class="post-header">
@@ -35,13 +38,13 @@ layout: default
             <%- @getNavLinks() %>
         </div>
 
-        <% if (@document.relatedDocuments.length > 0) : %>
+        <% if (@getRelatedDocuments()?.length > 0) : %>
         <hr />
 
         <div class="post-related pure-u-1">
             <h3 class="pure-u-1">Autres articles</h3>
             <ul>
-            <% for document in @document.relatedDocuments: %>
+            <% for document in @getRelatedDocuments(): %>
                 <li><a href="<%= document.url %>"><%= document.title %></a></li>
             <% end %>
             </ul>
@@ -52,7 +55,7 @@ layout: default
 
         <div class="post-author pure-u-1" itemprop="author" itemscope itemtype="http://schema.org/Person"> 
             <h3 class="pure-u-1">A propos de l'auteur</h3>
-            <div class-"pure-u-1">
+            <div class="pure-u-1">
                 <img class="pure-1-6 post-avatar" src="http://www.gravatar.com/avatar/1a2807faf3cca1667ff6f04bf5886eff.png" />
                 <p class="pure-u-4-6"><a href="https://plus.google.com/u/0/114253407053208546857/?rel=author" itemprop="name">Thibault Normand</a> est un dévéloppeur et un bloggeur enthousiaste, curieux de toutes nouvelles technologies liées à la sécurité, l'architecture, et le web. <a href="http://zenithar.org/" rel="me">Plus d'infos...</a></p> 
             </div>
