@@ -17,7 +17,7 @@ Chaque concept est implémenté en Javascript de telle sorte qu'ensemble ils for
 
 ### Les modèles
 
-Les modèles [Backbone](http://documentcloud.github.com/backbone/) sont des objets Javascript servant à représenter l'information, qui sera souvant utilisée pour l'affichage.
+Les modèles [Backbone](http://documentcloud.github.com/backbone/) sont des objets Javascript servant à représenter l'information, qui sera souvent utilisée pour l'affichage.
 
 ``` javascript
 var Person = Backbone.Model.extend({
