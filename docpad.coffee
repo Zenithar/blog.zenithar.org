@@ -24,8 +24,9 @@ docpadConfig = {
           layout: 'tag'
         )
     rss:
-      collection: 'posts'
-      url: '/rss.xml'
+      default:
+        collection: 'posts'
+        url: '/rss.xml'
 
   # =================================
   # Template Data
