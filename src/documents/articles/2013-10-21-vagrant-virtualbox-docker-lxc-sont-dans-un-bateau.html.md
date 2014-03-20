@@ -8,6 +8,7 @@ tags:
  - vagrant
  - virtualbox
  - lxc
+ - docker
 
 ---
 
