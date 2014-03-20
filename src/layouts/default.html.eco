@@ -42,35 +42,6 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-57-precomposed.png">
 
-    <script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
-    <script>
-      WebFont.load({
-        google: {
-          families: ['Open Sans']
-        }
-      });
-    </script>
-
-    <script>
-    (function(c,f){asyncLoader=function(i,h){i.foreach(function(k,j){e(j,d(j),h)});if(typeof h.callback=="function"){var g=setInterval(function(){if(f.readyState==="complete"){clearInterval(g);h.callback()}},10)}};var d=function(g){var h=g.split(".");return h[h.length-1]},e=function(h,i,g){switch(i){case"js":a(h,g);break;case"css":b(h);break;default:break}},a=function(i,h){var g=document.createElement("script");g.type="text/javascript";g.async=true;g.src=i;document.getElementsByTagName("head")[0].appendChild(g)},b=function(g){var h=document.createElement("link");h.type="text/css";h.rel="stylesheet";h.href=g;document.getElementsByTagName("head")[0].appendChild(h)};Array.prototype.foreach=function(h){for(var g=0;g<this.length;g++){h(g,this[g])}}})(this,document);
-    </script>
-
-    <script>
-        asyncLoader(
-            [
-                '/styles/pure-min.css',
-                '/styles/style.css',
-                '/styles/idea.css'
-            ],
-            {
-                'callback': function() {
-                    document.getElementById("post").className += " load";
-                    document.getElementById("loading").style.display = "none";
-                }
-            }
-        );
-    </script>
-
 	<!-- Shims: IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script async src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -144,17 +115,16 @@
 
 </div>
 
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.1.3/zepto.min.js"></script>
     <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-8114245-4']);
-        _gaq.push(['_trackPageview']);
-        setTimeout('_gaq.push([\'_trackEvent\', \'Pas de Rebond\', \'Plus de 30 secondes\'])',30000);
-
-        (function() {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+        !function(a){a(function(){function b(a){for(var d,b=[],c=a.split(","),e=0;e<c.length;e++)if(d=c[e].split("-"),2===d.length)for(var f=parseInt(d[0],10);f<=d[1];f++)b.push(f);else 1===d.length&&b.push(parseInt(d[0],10));return b}a("[data-gist-id]").each(function(){var d,e,f,g,h,i,j,c=a(this),k={};return c.css("display","block"),d=c.attr("data-gist-id")||"",f=c.attr("data-gist-file"),i="true"===c.attr("data-gist-hide-footer"),j="true"===c.attr("data-gist-hide-line-numbers"),g=(c.attr("data-gist-line")||"").replace(/ /g,""),h=(c.attr("data-gist-highlight-line")||"").replace(/ /g,""),f&&(k.file=f),d?(e="https://gist.github.com/"+d+".json",c.html("Loading gist "+e+(k.file?", file: "+k.file:"")+"..."),a.ajax({url:e,data:k,dataType:"jsonp",timeout:1e4,success:function(d){var f,k,l,m,n;d&&d.div?(d.stylesheet&&0!==d.stylesheet.indexOf("http")&&(0!==d.stylesheet.indexOf("/")&&(d.stylesheet="/"+d.stylesheet),d.stylesheet="https://gist.github.com"+d.stylesheet),d.stylesheet&&0===a('link[href="'+d.stylesheet+'"]').length&&(f=document.createElement("link"),k=document.getElementsByTagName("head")[0],f.type="text/css",f.rel="stylesheet",f.href=d.stylesheet,k.insertBefore(f,k.firstChild)),n=a(d.div),n.removeAttr("id"),c.html("").append(n),g&&(l=b(g),n.find(".line").each(function(b){-1===a.inArray(b+1,l)&&a(this).remove()}),n.find(".line-number").each(function(b){-1===a.inArray(b+1,l)&&a(this).remove()})),i&&n.find(".gist-meta").remove(),j&&n.find(".line-numbers").remove(),h&&(m=b(h),n.find("td.line-data").css({width:"100%"}),n.find(".line").each(function(b){-1!==a.inArray(b+1,m)&&a(this).css({"background-color":"rgb(255, 255, 204)"})}))):c.html("Failed loading gist "+e)},error:function(a,b){c.html("Failed loading gist "+e+": "+b)}}),void 0):!1})})}(Zepto);
+    </script>
+    <script type="text/javascript">
+    (function(c,f){asyncLoader=function(i,h){i.foreach(function(k,j){e(j,d(j),h)});if(typeof h.callback=="function"){var g=setInterval(function(){if(f.readyState==="complete"){clearInterval(g);h.callback()}},10)}};var d=function(g){var h=g.split(".");return h[h.length-1]},e=function(h,i,g){switch(i){case"js":a(h,g);break;case"css":b(h);break;default:break}},a=function(i,h){var g=document.createElement("script");g.type="text/javascript";g.async=true;g.src=i;document.getElementsByTagName("head")[0].appendChild(g)},b=function(g){var h=document.createElement("link");h.type="text/css";h.rel="stylesheet";h.href=g;document.getElementsByTagName("head")[0].appendChild(h)};Array.prototype.foreach=function(h){for(var g=0;g<this.length;g++){h(g,this[g])}}})(this,document);
+    WebFontConfig={google:{families:["Open Sans"]}};asyncLoader(["/styles/pure-min.css","/styles/style.css","/styles/idea.css","//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"],{callback:function(){document.getElementById("post").className+=" load";document.getElementById("loading").style.display="none"}})
+    </script>
+    <script type="text/javascript">
+    var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-8114245-4"]);_gaq.push(["_trackPageview"]);setTimeout("_gaq.push(['_trackEvent', 'Pas de Rebond', 'Plus de 30 secondes'])",3e4);(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
     </script>
 
 </body>
