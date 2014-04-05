@@ -50,7 +50,7 @@ docpadConfig = {
         githubFollowButton: 'zenithar'
 
       # The production url of our website
-      url: "http://blog.zenithar.org"
+      url: "https://blog.zenithar.org"
 
       # Here are some old site urls that you would like to redirect from
       oldUrls: []

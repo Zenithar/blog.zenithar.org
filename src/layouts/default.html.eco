@@ -30,9 +30,15 @@
 	<meta name="keywords" content="<%= @getPreparedKeywords() %>" />
 	<meta name="author" content="<%= @site.author or '' %>" />
 
-    <link rel="author" content="https://plus.google.com/u/0/114253407053208546857" />
+    <link rel="author" type='text/html' content="http://profiles.google.com/thibault.normand?rel=author" />
+    <link rel="me" type='text/html' href="<%= @site.url %>">
     
+    <link rel="alternate" type="application/atom+xml"  href="<%= @site.url %>/feed" title="Zenithar'z Blog ATOM Feed">
+
 	<!-- Output DocPad produced meta elements -->
+    <link rel='self' type='text/html' href='<%= @site.url+@document.url %>'>
+    <link rel='index' type='text/html' href='<%= @site.url %>'>
+
 	<%- @getBlock('meta').toHTML() %>
 
 	<!-- Icons -->
@@ -80,7 +86,7 @@
                         <a class="social-icons si-twitter" rel="nofollow" target="_new" title="Follow me" href="https://twitter.com/zenithar"></a>
                     </li>
                     <li class="nav-item">
-                        <a class="social-icons si-rss" rel="nofollow" target="_new" title="Subscribe in a reader" href="http://feeds.feedburner.com/ZenitharOrg"></a>
+                        <a class="social-icons si-rss" rel="nofollow" target="_new" title="Subscribe in a reader" href="<%= @site.url %>/atom.xml"></a>
                     </li>
                 </ul>
             </nav>

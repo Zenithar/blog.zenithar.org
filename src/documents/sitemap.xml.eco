@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.zenithar.org</loc>
+    <loc><%= @site.url %></loc>
     <lastmod><%= @site.date.toISOString() %></lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <% for document in @getCollection('posts').toJSON(): %>
   <url>
-    <loc>http://blog.zenithar.org<%= document.url %></loc>
+    <loc><%= @site.url %><%= document.url %></loc>
     <% if document.sitemap and document.sitemap.lastmod: %>
     <lastmod><%= new Date(document.sitemap.lastmod).toISOString() %></lastmod>
     <% else: %>
@@ -28,7 +28,7 @@
   <% end %>
   <% for file in @getFilesAtPath('tags/').toJSON(): %>
   <url>
-    <loc>http://blog.zenithar.org/tags/<%= file.name %></loc> 
+    <loc><%= @site.url %>/tags/<%= file.name %></loc> 
     <changefreq>weekly</changefreq>    
     <priority>0.6</priority>
   </url>
