@@ -85,7 +85,7 @@ Et voilà ! Notre image nano NGiNX est prête.
 L'image est maintenant prête a être executée dans le conteneur docker. Cette image est allégée au possible, et peut être executée sur toutes les plateformes supportées par docker.
 
 L'image créée précedemment exporte 4 volumes :
- 
+
   * "/var/log/nginx": espace de stockage pour les logs
   * "/www" : espace de stockage pour les sites
   * "/etc/nginx/sites-available" : pour la configuration des vhosts
