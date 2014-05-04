@@ -21,7 +21,7 @@ Plex est pour vous !
 
 Relativement simplement et efficacement, le principe est une interface accessible
 depuis n'importe quelles plateformes (TV via ChromeCast, Streaming navigateur,
-Téléphone, etc.), les fichiers sont envoyés par un un composant appelé PMS (Plex
+Téléphone, etc.), les fichiers sont envoyés par un composant appelé PMS (Plex
 Media Server).
 
 2 composants :
@@ -32,7 +32,7 @@ Media Server).
 ## Pourquoi c'est bien ?
 
 Même si aujourd'hui le composant serveur n'est pas (plus ?) opensource, il est
-possible de l'installer sur plusieurs plateformes :
+possible de l'installer sur plusieurs plateformes gratuitement :
 
   * Linux
   * Mac (qui me semble être la plateforme d'origine ...)
