@@ -24,7 +24,7 @@
     "url": "https://github.com/MassDistributionMedia/yui-purecss.docpad.git"
   },
   "engines": {
-    "node": "0.10",
+    "node": "0.12",
     "npm": "1.2"
   },
   "dependencies": {
