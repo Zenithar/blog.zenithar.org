@@ -42,7 +42,7 @@
     "marked": "latest"
   },
   "devDependencies": {
-    "docpad-plugin-livereload": "2.6.1",
+    "docpad-plugin-livereload": "2.10.0",
     "docpad-plugin-navlinks": "2.0.4",
     "docpad-plugin-tags": "2.0.7",
     "docpad-plugin-related": "2.2.2",
