@@ -38,7 +38,7 @@
     "docpad-plugin-navlinks": "~2.0.2",
     "docpad-plugin-services": "~2.5.0",
     "docpad-plugin-tags": "~2.0.7",
-    "docpad-plugin-rss": "~2.1.3",
+    "docpad-plugin-rss": "~2.3.0",
     "marked": "latest"
   },
   "devDependencies": {
@@ -47,7 +47,7 @@
     "docpad-plugin-tags": "2.0.7",
     "docpad-plugin-related": "2.2.2",
     "docpad-plugin-marked": "2.2.1",
-    "docpad-plugin-rss": "2.1.4",
+    "docpad-plugin-rss": "2.3.1",
     "docpad-plugin-partials": "2.9.2",
     "docpad-plugin-eco": "2.0.3",
     "docpad-plugin-highlightjs": "2.2.2",
